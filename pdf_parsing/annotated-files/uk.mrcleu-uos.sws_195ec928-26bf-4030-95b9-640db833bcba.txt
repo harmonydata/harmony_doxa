@@ -1,0 +1,1002 @@
+
+File: X             Maxrec:  0      Rec: 1       Page: 1 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+   MRC Number       [     ]     Hospital Number  [       ] 
+
+ 
+
+   Mother's Surname [                              ] 
+
+ 
+
+   Address          [                                        ] 
+
+                    [                                        ] 
+
+                    [                                        ] 
+
+   Postcode         [          ] 
+
+ 
+
+   Telephone number [               ] 
+
+                                   Data abstracted by [  ]  Julia   04 
+
+                                                            Lyn     07 
+
+   Postnatal assessment sheet data                          Valerie 08 
+
+   -------------------------------                          Jane    09 
+
+ 
+
+   <q>Date of delivery</q>     [      ] 
+
+ 
+
+   <q>Time of delivery</q>     [    ] 
+
+ 
+
+   <q>Neonatal hypoglycaemia</q>  Yes / No   [ ] 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 2 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+ 
+
+ 
+
+   <q>Abnormalities</q>        Yes / No    [ ] 
+
+ 
+
+ 
+
+ 
+
+   If YES, enter code if on       Details 1 [  ][                              ] 
+
+   coding guide or description    Details 2 [  ][                              ] 
+
+               if not             Details 3 [  ][                              ] 
+
+ 
+
+ 
+
+<q>Were you in paid employment when we saw you at 34 weeks</q>   Yes / No  [ ] 
+
+               <q>If YES, on what date did you last work</q>   [      ] 
+
+ 
+
+<q>(if stopped more than 1 working day previously) & was this planned, 
+
+or was it because of a health problem</q>   [ ] 
+
+                                                    1 <o>Planned</o> 
+
+                                                    2 <o>Health problem</o> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 3 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>Since we saw you at 34 weeks have you been taking any pills, tonics or tablets 
+
+to supplement your diet</q>     Yes / No [ ] 
+
+                                                       <q>Amount</q> 
+
+<q>Supplement name</q>                    <q>Suppl code</q>   <q>(over last 6 weeks (42 days))</q> * 
+
+<                              >     [   ]              [   ] 
+
+<                              >     [   ]              [   ]   * irrespective 
+
+<                              >     [   ]              [   ]     of gest age 
+
+<                              >     [   ]              [   ]     at birth 
+
+<                              >     [   ]              [   ] 
+
+ 
+
+<q>Did you have any antibiotic tablets for a kidney, bladder or urine infection 
+
+at any stage in the pregnancy</q>                                 [ ] Yes / No 
+
+ 
+
+<q>Have you ever had treatment for vaginal candidiasis or thrush</q> [ ] Yes / No 
+
+ 
+
+<q>Was the baby delivered directly onto your abdomen</q>      [ ] <o>Yes</o> / <o>No</o> / <o>Don't know</o> 
+
+ 
+
+Have you decided on the baby's [                              ] <q>Forenames</q> 
+
+name (Enter X if not decided)  [                              ] <q>Surname</q> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 4 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>What time did the baby's last feed finish</q>    [    ] 
+
+ 
+
+<q>How has the baby been fed since delivery</q>     [ ] 
+
+ 
+
+1 <o>Breast</o>   2 <o>Bottle</o>   3 <o>Both</o>   4 <o>NGT - br milk</o>   5 <o>NGT formula</o> 
+
+6 <o>NG formula + IVI</o>   7 <o>IVI</o>   8 <o>Oral formulation</o>   0 <o>NGT+Breast+IVI</o>  9 <o>Not Known</o> 
+
+ 
+
+                             <q>Bottle type</q>     [ ],[ ] 
+
+ 
+
+A <o>Farley's First</o>   B <o>Wyeth SMA Gold</o>   C <o>C&G Premium</o>   D <o>Other</o> 
+
+                                                          [                    ] 
+
+ 
+
+ 
+
+<q>How do you intend to feed the baby when you go home</q>   [ ] 1 <o>Breast</o> / 2 <o>Bottle</o> 
+
+ 
+
+                                      <q>Brand if bottle</q> [ ] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 5 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>Date of measurement</q> [      ]  (To sick / prem to measure enter 888888) 
+
+<q>Time of measurement</q> [    ]  24 hr clock 
+
+ 
+
+ 
+
+<q>Occipto-frontal</q>      [    ]       [    ]        [    ] 
+
+<q>Left mid-upper arm</q>   [    ]       [    ]        [    ] 
+
+<q>Upper abdominal</q>      [    ]       [    ]        [    ] 
+
+<q>Lower abdominal</q>      [    ]       [    ]        [    ] 
+
+ 
+
+<q>Triceps skinfold</q>     [    ]       [    ]        [    ] 
+
+<q>Subscapular skinfold</q> [    ]       [    ]        [    ] 
+
+<q>Thigh skinfold</q>       [    ]       [    ]        [    ] 
+
+ 
+
+HIP STABILITY 
+
+ 
+
+<q>Crown - rump</q>         [    ]       [    ]         [    ] 
+
+<q>Crown - heel</q>         [    ]       [    ]         [    ] 
+
+ 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 6 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+ 
+
+        <q>Measurer</q>    [  ]         <q>Helper</q>      [  ]     -  1. <o>Parent</o>   2. <o>KG</o> 
+
+                                                         3. <o>Midwife</o>  4. <o>Julia</o> 
+
+                                                         5. <o>Sue Beare</o> 
+
+                                                         6. <o>Auxillary</o> 
+
+                                                         7. <o>Lyn</o>   8. <o>Valerie</o> 
+
+                                                         9. <o>Student Midwife</o> 
+
+ 
+
+ 
+
+        <q>Hair colour</q> [ ] *  * 1 <o>Blond</o>        2 <o>Pale brown/blond</o> 
+
+                             3 <o>Medium brown</o> 4 <o>Dark brown</o> 
+
+                             5 <o>Black</o>        6 <o>Redhead</o> 
+
+ 
+
+        <q>hair extent</q> [ ] 
+
+ 
+
+ 
+
+        <q>Anthropometer used</q>   [ ] 
+
+        <q>Min carriage reading</q> [   ] 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 7 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+Link card data 
+
+-------------- 
+
+ 
+
+        *                   a     b    c              d       e       f     g 
+
+<q>Preg  Date</q>      <q>Place</q>      <q>Dur.</q> <q>Onset</q> <q>S.D.</q>  <q>Bld loss</q> <q>Sex</q>     <q>BWt</q>     <q>I/M</q>  <q>Status</q> 
+
+1.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+2.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+3.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+4.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+5.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+ 
+
+* if year only recorded code as midpoint i.e. 1506xx 
+
+ 
+
+a wks.days      c 1 <o>S.D.</o>    e Fractions of       g 1 <o>LB</o>        7 <o>Miscarriage</o> 
+
+                  2 <o>Inst</o>      oz coded as          2 <o>SB</o>        8 <o>TOP</o> 
+
+b 1 <o>Normal</o>        3 <o>C.S.</o>      decimal              3 <o>PND</o> 
+
+  2 <o>Induced</o>                                        5 <o>Ectopic</o> 
+
+  3 <o>Emerg CS</o>    d M <o>Male</o>    f I <o>Imp (lb.oz)</o>        6 <o>Mole</o> 
+
+                  F <o>Female</o>    M <o>Met (Grams)</o> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 8 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+        *                   a     b    c              d       e       f     g 
+
+<q>Preg  Date</q>      <q>Place</q>      <q>Dur.</q> <q>Onset</q> <q>S.D.</q>  <q>Bld loss</q> <q>Sex</q>     <q>BWt</q>     <q>I/M</q>  <q>Status</q> 
+
+6.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+7.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+8.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+9.  [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+10. [      ] [          ] [    ] [ ]  [ ]   [    ]   [ ]  [        ] [ ]    [ ] 
+
+ 
+
+* if year only recorded code as midpoint i.e. 1506xx 
+
+ 
+
+a wks.days      c 1 <o>S.D.</o>    e Fractions of       g 1 <o>LB</o>        7 <o>Miscarriage</o> 
+
+                  2 <o>Inst</o>      oz coded as          2 <o>SB</o>        8 <o>TOP</o> 
+
+b 1 <o>Normal</o>        3 <o>C.S.</o>      decimal              3 <o>PND</o> 
+
+  2 <o>Induced</o>     d M <o>Male</o>    f I <o>Imp (lb.oz)</o>        5 <o>Ectopic</o> 
+
+  3 <o>Emerg CS</o>      F <o>Female</o>    M <o>Met (Grams)</o>        6 <o>Mole</o> 
+
+ 
+
+<q>Previous history UTI/cystitis</q>                No / Yes [ ] 
+
+<q>Previous infertility investigations</q>          No / Yes [ ] 
+
+<q>Family history of hypertension</q>     <o>No</o> / <o>Yes</o> / <o>Adopted</o> [ ] 
+
+<q>Family history of diabetes</q>         <o>No</o> / <o>Yes</o> / <o>Adopted</o> [ ] 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 9 of 20         REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<q>Ultra sound  Date</q>      <q>CRL</q>       <q>BPD</q>         <q>FL</q>        <q>AC</q>          <q>HC</q> 
+
+1.         [      ]  [     ]   [     ]     [     ]   [     ]     [     ] 
+
+2.         [      ]  [     ]   [     ]     [     ]   [     ]     [     ] 
+
+3.         [      ]  [     ]   [     ]     [     ]   [     ]     [     ] 
+
+4.         [      ]  [     ]   [     ]     [     ]   [     ]     [     ] 
+
+5.         [      ]  [     ]   [     ]     [     ]   [     ]     [     ] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<q>Placental Position</q> [ ]    0 <o>Not low</o>   1 <o>Low</o> 
+
+ 
+
+ 
+
+<q>Anterior/Posterior</q> [ ]    0 <o>Anterior</o>   1 <o>Posterior</o>   2 <o>Fundal</o>   3 <o>Lateral</o> 
+
+                          4 <o>posterior + fundal</o>   5 <o>Posterior + lateral</o> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 10 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+Data from patient held white notes/ green hospital notes 
+
+-------------------------------------------------------- 
+
+  Urine  0 <o>Nil</o>   1 <o>Trace</o>   2 <o>+</o>   3 <o>++</o>   4 <o>+++</o>   5 <o>++++</o>   9 <o>No specimin</o> 
+
+  Oedema  0 <o>Nil</o>   1 <o>Minimal/slight</o>   2 <o>Present</o>    3 <o>Marked</o> 
+
+ 
+
+ 
+
+      <q>Date</q>      <q>Weight</q>  <q>Imp/Metric</q>  <q>Urine alb.</q>   <q>Urine Sug.</q>     <q>B.P.</q>      <q>Oedema</q> 
+
+ 
+
+1.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+2.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+3.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+4.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+5.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+6.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+7.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+8.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+9.  [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+10. [      ]  [      ]     [ ]         [ ]          [ ]      [   ] [   ]    [ ] 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 11 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+      <q>Date</q>    <q>Weight</q>  <q>Imp/metric</q>  <q>Urine alb.</q>   <q>Urine Sug.</q>    <q>B.P.</q>      <q>Oedema</q> 
+
+ 
+
+11. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+12. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+13. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+14. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+15. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+16. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+17. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+18. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+19. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+20. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+21. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+22. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+23. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+24. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+25. [      ] [      ]    [ ]         [ ]         [ ]     [   ] [   ]    [ ] 
+
+ 
+
+Urine  0 <o>Nil</o>   1 <o>Trace</o>   2 <o>+</o>   3 <o>++</o>   4 <o>+++</o>   5 <o>++++</o>   9 <o>No specimin</o> 
+
+Oedema  0 <o>Nil</o>   1 <o>Minimal/slight</o>   2 <o>Present</o>    3 <o>Marked</o> 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 12 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+A/N complications from patient held white notes/green hosp notes 
+
+---------------------------------------------------------------- 
+
+ 
+
+<q>Threatened abortion</q>      <o>No</o> / <o>Yes</o> / <o>Loss of co-twin</o>   [ ] 
+
+<q>(vag. bleeding <28 weeks)</q> 
+
+ 
+
+ 
+
+<q>Antepartum haemorrage</q>                      No / Yes   [ ] 
+
+ 
+
+ 
+
+<q>Amniocentesis performed</q>                    No / Yes   [ ] 
+
+ 
+
+ 
+
+<q>Chorconic villus sampling</q>                  No / Yes   [ ] 
+
+ 
+
+ 
+
+<q>Clinical suspicion of growth retardation</q>   No / Yes   [ ] 
+
+<q>(SFD / light for dates / placental deficiency)</q> 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 13 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+MSU                   0  <o><10</o>             0  <o><10,000/skin flora</o> 
+
+---                   1  <o>10-20</o>           1  <o>10,000-100,000</o> 
+
+                      2  <o>>20</o>             2  <o>>100,000</o> 
+
+ 
+
+<q>Date</q>                 <q>Pus Cells</q>             <q>Bacteria</q> 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+[      ]                [ ]                  [ ] 
+
+ 
+
+<q>Serum AFP</q>    [   ]         <q>date</q>         [      ] 
+
+<q>2nd AFP</q>      [   ]         <q>2nd date</q>     [      ] 
+
+ 
+
+<q>Mum's blood group</q>   [  ]  <o>A</o> / <o>B</o> / <o>AB</o> / <o>O</o> 
+
+<q>Rhesus  Pos/Neg</q>     [ ] 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 14 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+<q>Pregnancy outcome</q>  [ ]   1 <o>Loss <28 wks</o>     Reason if 2/3 <                    > 
+
+                         2 <o>SB</o> 
+
+                         3 <o>NN Death</o> 
+
+                         4 <o>LB</o> 
+
+                         5 <o>Delivered elsewhere ? outcome</o> 
+
+                         6 <o>Delivered elsewhere liveborn</o> 
+
+ 
+
+<q>Mode of delivery</q>   [ ]               <q>Reasons</q> [ ] [ ]  <                    > 
+
+1 <o>Normal/spont</o>   2 <o>Forceps</o>   3 <o>LSCS</o>          (See coding guide) 
+
+4 <o>Ventouse</o> 
+
+ 
+
+<q>Presentation</q>       [ ] 
+
+1 <o>Vx/cephalic</o>   2 <o>Breech</o>   3 <o>Other</o> 
+
+ 
+
+ 
+
+Duration of labour - length    <q>1st</q>  [  ] hrs  [  ] mins 
+
+                               <q>2nd</q>  [  ] hrs  [  ] mins 
+
+                               <q>3rd</q>  [  ] hrs  [  ] mins 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 15 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>Fetal distress</q>       [ ]  No / Yes 
+
+ 
+
+            <q>Evidence</q> [ ]  1 CTG only  2 CTG + FBS   3 CTG + CBpH 
+
+ 
+
+<q>Meconium</q>             [ ]  No / Yes 
+
+ 
+
+<q>Other Complications</q>  [  ]    [  ] 
+
+<q>of labour - see coding guide</q> 
+
+ 
+
+<q>Retroplacental clot</q>  [ ] No / Yes 
+
+<q>Calcification</q>        [ ] 
+
+<q>Infarction</q>           [ ]   No / Yes 
+
+ 
+
+<q>Other 1</q> [ ]   <q>Other 2</q> [ ] 1 <o>Gritty</o>     3 <o>Clot between membranes</o>   7 <o>looked</o> 
+
+                          2 <o>Succ lobe</o>  4 <o>Pale</o>   5 <o>Thin</o>   6 <o>Grey     unhealthy</o> 
+
+ 
+
+<q>Placenta weight</q>      [     ] 
+
+ 
+
+<q>Membranes</q>            [ ]  0 <o>Complete</o>   1 <o>Doubtful</o>   2 <o>Incomplete</o>   9 <o>Not charted</o> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 16 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>No of Vessels</q>        [ ] 
+
+<q>Insertion type</q>       [ ]  0 <o>Central</o>   1 <o>Lateral</o>   2 <o>Battledore</o>   3 <o>Velamentous</o> 
+
+                          8 <o>Not recorded</o> 
+
+ 
+
+<q>Blood loss (ml)</q>      [    ] 
+
+ 
+
+ 
+
+INFANT 
+
+<q>Infant sex</q>           [ ]  <o>Male</o> / <o>Female</o> 
+
+<q>Birthweight</q>          [    ] 
+
+<q>Head circumference</q>   [   ] 
+
+ 
+
+<q>Apgar 1</q>              [  ] 
+
+<q>Apgar 5</q>              [  ] 
+
+                                                          See coding guide 
+
+<q>Admitted to SCBU</q>     [ ]  No / Yes     <q>Reason(s)</q> [  ]  [                    ] 
+
+                                                 [  ]  [                    ] 
+
+                                                 [  ]  [                    ] 
+
+<q>Temperature</q>          [   ] 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 17 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>Labour onset</q>         [ ]  0 <o>Spont / Normal</o> 
+
+                          1 <o>Elective CS</o> 
+
+                          2 <o>ARM / Other surgical</o> 
+
+                          3 <o>IV oxytoin</o> 
+
+                          4 <o>Im / Nasal / buccal oxytocin</o> 
+
+                          5 <o>Other oxytocin agent</o> 
+
+                          6 <o>ARM and oxytocin</o> 
+
+                          7 <o>Other induction</o> 
+
+                          8 <o>Prostin</o> 
+
+                          9 <o>ARM, prostin & oxytocin</o> 
+
+                          A <o>Emergency CS</o> 
+
+ 
+
+<q>Tear</q>                 [ ]  0 Nil 
+
+                          1 <o>1st degree</o>   2 <o>2nd degree</o>   3 <o>3rd degree</o> 
+
+                          4 <o>Episiotomy</o>   8 <o>CSection</o> 
+
+ 
+
+<q>Placental delivery</q>   [ ]  1 <o>Simple</o>   2 <o>CCT</o>   3 <o>Manual</o> 
+
+ 
+
+<q>Placenta</q>             [ ]  1 <o>Complete</o>   2 <o>Incomplete</o>   3 <o>Uncertain</o> 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 18 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<q>Amniotic fluid samples taken</q>  [ ]   No / Yes 
+
+ 
+
+ 
+
+ 
+
+<q>Date placental samples taken</q>   [      ]      <q>Time</q> [    ] 
+
+ 
+
+<q>Date cord blood separated</q>      [      ]      <q>Time</q> [    ] 
+
+ 
+
+ 
+
+ 
+
+<q>Umbilical cord</q> [ ]          see coding  <q>Comment 1</q> [  ] <                    > 
+
+             No / Yes       guide       <q>Comment 2</q> [  ] <                    > 
+
+                                        <q>Comment 3</q> [  ] <                    > 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+
+
+File: X             Maxrec:  0      Rec: 1       Page: 19 of 20        REPLACING 
+
+-------------------------------------------------------------------------------- 
+
+<q>Admitted before labour</q> No / Yes [ ] (exclude labour induction for post maturity) 
+
+ 
+
+             <q>Date</q>     <q>Main indication</q>   <q>2nd indication</q>    <q>3rd indication</q> 
+
+ 
+
+     1.    [      ]         [ ]              [ ]               [ ] 
+
+     2.    [      ]         [ ]              [ ]               [ ] 
+
+     3.    [      ]         [ ]              [ ]               [ ] 
+
+     4.    [      ]         [ ]              [ ]               [ ] 
+
+     5.    [      ]         [ ]              [ ]               [ ] 
+
+ 
+
+<q>Clinical evidence of hypertension</q>   No / Yes [ ] 
+
+                            (diastolic BP>90 x 2  >4 hrs apart  +/- proteinuria) 
+
+ 
+
+<q>Max severity BP</q> [ ] 1 <o>91-99</o>   2 <o>100-109</o>   3 <o>>110</o> 
+
+ 
+
+<q>Max proteinuria</q> [ ] 0 <o>None</o>   1 <o>Trace</o>   2 <o>+</o>   3 <o>++</o>   4 <o>+++</o>   5 <o>++++</o> 
+
+ 
+
+Date of onset 
+
+   <q>Raised BP</q>        [      ] 
+
+   <q>Proteinuria</q>      [      ] 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+File: X             Maxrec:  0      Rec: 1       Page: 20 of 20        INSERTING 
+
+-------------------------------------------------------------------------------- 
+
+ 
+
+<q>Maximum 24 hour proteinnuria</q>      [     ] 
+
+ 
+
+             <q>Eclamptic fit</q>        [ ]  No / Yes 
+
+ 
+
+             <q>Fetal distress</q>       [ ] 
+
+ 0 CTG normal   1 CTG suspicious   2 CTG abnormal   3 2nd stage abnormality only 
+
+ 
+
+             <q>Lowest scalp Ph</q>      [   ] 
+
+ 
+
+             <q>Cord pH if taken</q>     [   ] 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-------------------------------------------------------------------------------- 
+
+F1: Help   F3: Prev   F4: Next   F5: Goto   F6: Search  F10: Save  Alt-F10: Exit 
+
+ 
+
+

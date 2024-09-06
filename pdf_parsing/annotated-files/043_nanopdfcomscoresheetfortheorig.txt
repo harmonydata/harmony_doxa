@@ -1,0 +1,979 @@
+
+ 
+
+ 
+
+Adult Temperament Questionnaire (ATQ) 
+ 
+ 
+
+ The Adult Temperament Questionnaire (ATQ) was adapted from the 
+
+Physiological Reactions Questionnaire developed by Derryberry and Rothbart (1988).  
+
+Based upon the results from recent studies (Rothbart, Ahadi, & Evans, 2000; Evans & 
+
+Rothbart, 2007) we have formulated a self-report model of temperament that includes 
+
+general constructs of effortful control, negative affect (which can be further divided into 
+
+aggressive and nonaggressive negative affects) extraversion/surgency, orienting 
+
+sensitivity, and affiliativeness.   
+
+References 
+
+ 
+
+Derryberry, D. & Rothbart, M.K. (1988).  Arousal, affect, and attention as components of 
+
+temperament.  Journal of Personality and Social Psychology, 55, 958-966. 
+
+ 
+
+Rothbart, M. K., Ahadi, S. A., & Evans D. E. (2000).  Temperament and personality: 
+
+Origins and outcomes.  Journal of Personality and Social Psychology, 78, 122-
+
+135. 
+
+Evans, D. E., & Rothbart, M. K. (2007).  Development of a model for adult 
+
+temperament.  Journal of Research in Personality, 41, 868-888. 
+
+Evans, D. E., & Rothbart, M. K. (2008).  Temperamental sensitivity: Two constructs or 
+
+one? Personality and Individual Differences, 44, 108-118. 
+
+Evans, D. E., & Rothbart, M. K. (2007).  A Two-Factor Model of Temperament.  
+
+Manuscript submitted. 
+
+ 
+
+
+
+ SCORING INSTRUCTION FOR ATQ LONG FORM (249 items) 
+
+ 
+
+ 
+
+UPDATED SEPTEMBER 2007 
+
+ 
+
+Contact David Evans at David.Evans@Moffitt.org if you have any questions or need 
+
+additional information. 
+
+ 
+
+For reliabilities and norms, etc., please refer to Evans and Rothbart (2007). 
+
+ 
+
+  
+
+ 
+
+Scoring Instructions for Evans & Rothbart (2007) ATQ long form  
+
+Reversed (R) Items:  After the initial coding of the questionnaire, reversed items 
+
+need to be reverse coded (i.e., a response of 1=7, 2=6, 3=5, 4=4, 5=3, 6=2, and 7=1). 
+
+Items that are reversed are marked with an “R” next to their item number in the listing of 
+
+items by scale.   
+
+Subscales/Subconstructs are listed in bold print.  To score the subscales, add all 
+
+of the Likert-responses within a given scale together and divide by the number of valid 
+
+item responses.   
+
+General Scales/Constructs are listed in capitalized, underlined print.  To score 
+
+general scales for the long form, add the AVERAGE Likert score from each subscale and 
+
+then divide by the total number of items belonging to that scale.   
+
+Item clusters are used to further differentiate the content of subscales and are 
+
+listed in italics.  Not all of the main-scales are divided into item clusters.  If particular 
+
+item clusters are of interest, they can be scored in the same manner as the subscales.  
+
+However, in most instances, it is likely that the main scales and/or factor scales will be 
+
+the variables of interest. 
+
+mailto:David.Evans@Moffitt.org
+
+
+Hierarchical Listing of Constructs and Table of Contents 
+ 
+
+General Scales underlined in bold print 
+
+Subscales in bold print (not underlined) 
+
+Item Clusters in italics 
+
+ 
+NEGATIVE AFFECT (p. 4)  EFFORTFUL CONTROL  (p. 7) 
+
+Fear   (p. 4)  Inhibitory Control   (p. 7) 
+
+Primary Fear    Activation Control   (p. 7) 
+
+Secondary Fear    Attentional Control   (p. 8) 
+
+Sadness   (p. 4)  Attentional Shifting from Punishment 
+
+Reactive Sadness    Attentional Shifting from Reward 
+
+Endogenous Sadness   Attentional Focusing 
+
+Discomfort  (p. 5)  Attentional Shifting 
+
+Visual 
+
+Auditory 
+
+Tactile 
+
+Olfactory-Gustatory 
+
+Frustration  (p. 8) 
+
+Social Anger  (p. 9) 
+
+Aggression Control (p. 9) 
+ 
+EXTRAVERSION (p. 9)   ORIENTING REACTIVITY (p. 11) 
+
+Sociability  (p. 9)   Neutral Perceptual Sensitivity (p. 11) 
+
+Positive Affect  (p. 9)   Internal 
+
+Frequency and Duration of Positive Affect  Visual 
+
+Intensity of Positive Affect    Auditory 
+
+Threshold for Positive Affect   Tactile 
+
+High Pleasure  (p. 10)   Olfactory-Gustatory 
+
+Intense Environmental Pleasure   Affective Perceptual Sensitivity (p. 12) 
+
+Intense Behavioral Pleasure   Aesthetic 
+
+Novel Behavioral Pleasure   Social      
+
+      Associative Sensitivity  (p. 13) 
+
+AFFILIATIVNESS (p. 14)   Coherent 
+
+Emotional Empathy (p. 14)   Intrusive  
+
+Emotional Empathy t to Animals   Activity 
+
+Emotional Empathy to Positive Affect (humans) Dream States 
+
+Emotional Empathy to Negative Affect (humans) 
+
+Empathetic Guilt (p. 14) 
+
+Social Closeness  (p. 15) 
+
+Active Closeness 
+
+Receptive Closeness 
+
+Relationship Closeness 
+
+
+
+  
+
+NEGATIVE AFFECT 
+
+Fear: Negative affect associated with the anticipation of pain or distress. (Alpha = .76,  N=258 
+
+undergraduates) 
+
+Primary Fear 
+
+1. <q>I  become easily frightened.</q> 
+
+21. <q>Looking down at the ground from an extremely high place makes me feel uneasy.</q> 
+
+82. <q>When I am enclosed in small places such as an elevator, I feel uneasy.</q> 
+
+116. <q>Loud noises sometimes scare me.</q> 
+
+137R. <q>It does not frighten me if I think that I am alone and suddenly discover someone close by.</q> 
+
+166. <q>Sometimes, I feel a sense of panic or terror for no apparent reason.</q> 
+
+Secondary Fear (Worry) 
+
+60. <q>I often worry about things that turn out to be unimportant.</q>  
+
+99R. <q>I rarely worry.</q> 
+
+150. <q>I am always worried about something.</q> 
+
+203. <q>I often think about the possibility of negative outcomes that are not likely to occur.</q> 
+
+225R. <q>When I try something new, I am rarely concerned about the possibility of failing.</q> 
+
+Sadness:  The amount of lowered mood that is related to object or person loss, disappointment, and 
+
+exposure to suffering. (Alpha = .80) 
+
+Reactive Sadness:  The amount of lowered mood that results from explicit awareness of information that is 
+
+extracted from or associated with the immediate environment.   
+
+3R. <q>I seldom become sad when I watch a sad movie.</q>  
+
+45R. <q>I seldom become sad when I hear of an unhappy event.</q>  
+
+65. <q>I feel sad when saying goodbye to friends or relatives that I know I will not see for a long time.</q>  
+
+74. <q>Sometimes minor events cause me to feel intense sadness.</q> 
+
+106. <q>When I hear of an unhappy event, I immediately feel sad.</q> 
+
+142. <q>I usually feel weepy while reading the sad part of a story.</q> 
+
+180R. <q>I rarely feel sad after saying goodbye to friends or relatives.</q> 
+
+Endogenous Sadness:  The extent to which chronic lowered mood is experienced. 
+
+88R. <q>I rarely ever feel depressed for more than an hour or two.</q> 
+
+240. <q>On some days, I have felt so depressed that simple activities like talking required a lot of effort.</q> 
+
+23. <q>I sometimes feel sad for longer than an hour.</q> 
+
+119. <q>In comparison to other people, I seem to experience longer periods of sadness or</q>  
+
+ depression. 
+
+164. <q>Sometimes relatively small disappointments cause me to feel down for several hours.</q> 
+
+76. <q>I often feel sad.</q> 
+
+200. <q>Sometimes I feel very depressed.</q> 
+
+
+
+Discomfort: The amount of unpleasant affect resulting from the sensory qualities of stimulation, including 
+
+irritation, pain, and discomfort resulting the intensity, rate, complexity of light, movement, sound, 
+
+smell/taste, temperature, and texture.  (Alpha = .72) 
+
+Visual Discomfort 
+
+42. <q>I'm often bothered by light that is too bright.</q>  
+
+122. <q>Very bright colors sometimes bother me.</q>  
+
+185. <q>Colorful flashing lights bother me.</q> 
+
+Auditory Discomfort 
+
+57. <q>I find certain scratchy sounds very irritating.</q>  
+
+134. <q>I find loud noises to be very irritating.</q>  
+
+192. <q>Loud music is unpleasant to me.</q>   
+
+Tactile Discomfort 
+
+114. <q>Sometimes I find it irritating when something lightly touches my skin unexpectedly.</q> 
+
+146R. <q>I rarely find it irritating when something touches my skin.</q> 
+
+ 206. <q>When I wear a tight collar or turtleneck, it makes me uncomfortable.</q> 
+
+Olfactory-Gustatory Discomfort 
+
+16. <q>Foul odors seem to bother me more than other people.</q> 
+
+38. <q>There are a lot of different food dishes that I find to taste very unpleasant.</q> 
+
+173. <q>I find many aromas/fragrances to be unpleasant.</q> 
+
+236R. <q>Foul odors don’t bother me very much.</q> 
+
+Frustration:  The amount of unpleasant affect related to the interruption of ongoing tasks and behavior or 
+
+to the blocking of a desired goal.  (Alpha = .80) 
+
+10. <q>I am rarely a patient person.</q> 
+
+25. <q>I often get irritated when I'm trying to make an important phone call and get a busy signal.</q>  
+
+47R. <q>I rarely become annoyed when I have to wait in a slow moving line.</q>  
+
+78R. <q>I seldom become annoyed when I'm driving somewhere and hit successive red lights.</q>  
+
+110R. <q>I seldom become irritated when someone is late.</q>  
+
+139. <q>I find it very annoying when a store does not stock an item that I wish to buy.</q>  
+
+151. <q>It doesn't take very much to make feel frustrated or irritated.</q> 
+
+170. <q>I find it quite annoying to have to wait a few minutes for a phone connection.</q> 
+
+196. <q>I get very annoyed when poor weather interferes with my plans for an outdoor activity.</q>  
+
+218R. <q>When everything seems to be going wrong, I usually work on improving things instead of getting</q> 
+
+frustrated. 
+
+232. <q>Whenever I have to sit and wait for something (e.g., a waiting room), I become agitated.</q> 
+
+234R. <q>I am usually a patient person.</q> 
+
+247R. <q>I usually remain calm without getting frustrated when things are not going smoothly for me.</q> 
+
+
+
+Social Anger:  The amount of affective hostility that is felt toward other people.  (Alpha = .81) 
+
+17. <q>Sometimes I feel angry at people for no apparent reason.</q> 
+
+43. <q>I often become irritated in response to what a person says.</q>   
+
+95R. <q>I rarely feel angry at people.</q> 
+
+126. <q>When people don't live up to my expectations, I become frustrated and angry with them.</q> 
+
+147R. <q>I rarely stay angry at someone for a prolonged period of time.</q> 
+
+177. <q>I sometimes feel quite jealous of other people’s situations.</q> 
+
+188R. <q>I rarely become angry at my friends.</q> 
+
+197R. <q>I rarely feel jealous of other people’s relationships.</q> 
+
+242. <q>I sometimes find my friends to be irritating.</q> 
+
+30. <q>It doesn’t take much to make me feel angry at someone.</q> 
+
+39. <q>Sometimes I feel anger toward people I don’t know very well.</q> 
+
+195. <q>When I interact with a group of people, there is often at least one person who bothers me.</q> 
+
+Aggression Control:  The level of effectiveness and ease in inhibiting aggressive behavior.  (Alpha = .84) 
+
+66R. <q>It is difficult for me to inhibit the impulse to say angry things that will hurt someone's feelings.</q> 
+
+15. <q>I do not have a problem in controlling hostile impulses.</q> 
+
+103R. <q>Although I may regret it later, sometimes when I am angry, I throw, tear, or destroy things.</q> 
+
+115R. <q>I often have a hard time resisting the impulse to be insulting to another person.</q> 
+
+85. <q>If I think of something rude that I want to say, I am usually able to resist the temptation to say it.</q> 
+
+135R. <q>I have a hard time not becoming verbally hostile or offensive to someone who I believe has treated</q> 
+
+me unjustly, even if it might be damaging to my future.   
+
+181. <q>Even if I am extremely angry at someone, I am usually pretty good at dealing with this person in a</q> 
+
+civil manner.  
+
+159. <q>If I am angry because I suspect that I have been treated unfairly, I calm down and try to think 
+
+things out.</q> 
+
+239R. <q>When I am angry, I lose the ability to think things out rationally.</q> 
+
+109. <q>If I am angry with a friend, I usually try to talk to my friend and tell him how I feel in a manner 
+
+that will not evoke a hostile response.</q> 
+
+161R. <q>Once I have become angry, my anger seems to feed on itself and become more and more difficult</q> 
+
+to manage. 
+
+70. <q>If I want to, I can conceal my dislike for a person.</q>  
+
+220R. <q>I sometimes explode into an angry outburst before I understand what is really happening.</q>  
+
+149R. <q>It is sometimes hard for me to keep from saying something mean.</q> 
+
+
+
+EFFORTFUL CONTROL 
+
+Inhibitory Control:  The capacity to suppress positively toned impulses and thereby resist the execution of 
+
+inappropriate approach tendencies.  (Alpha = .65) 
+
+28. <q>It is easy for me to hold back my laughter in a situation when laughter wouldn't be</q> 
+
+ appropriate.  
+
+41R. <q>When I see an attractive item in a store, it's usually very hard for me to resist buying it.</q>   
+
+55. <q>I can easily resist talking out of turn, even when I'm excited and want to express an idea.</q>   
+
+86R. <q>When I'm excited about something, it's usually hard for me to resist jumping right into it.</q>  
+
+107. <q>Even when I feel energized, I can usually sit still without much trouble if it's necessary.</q>  
+
+128R.   <q>I often avoid taking care of responsibilities by indulging in pleasurable activities.</q> 
+
+140R. <q>At times, it seems the more I try to restrain a pleasurable impulse (e.g., eating candy), the more 
+
+likely I am to act on it.</q> 
+
+172. <q>It is easy for me to inhibit fun behavior that would be inappropriate.</q> 
+
+186. <q>If I want to, it is usually easy for me to keep a secret.</q> 
+
+205. <q>When I decide to quit a habitual behavioral pattern that I believe to be undesirable, I am usually 
+
+successful.</q>  
+
+223R. <q>I often have trouble resisting my cravings for food drink, etc.</q>   
+
+*237. <q>It is not very hard for me to put aside pleasant activities when I have work to do.</q> 
+
+Activation Control:  The capacity to suppress negatively toned impulses and thereby resist the execution 
+
+of inappropriate avoidance  tendencies.  (Alpha = .84) 
+
+32. <q>I usually finish doing things before they are actually due (e.g., paying bills, finishing 
+
+ homework, etc.).</q> 
+
+50R. <q>I am often late for appointments.</q> 
+
+62R. <q>I often make plans that I do not follow through with.</q> 
+
+84. <q>As soon as I have decided upon a difficult plan of action, I begin to carry it out.</q> 
+
+96. <q>If I think of something that needs to be done, I usually get right to work on it.</q> 
+
+124R. <q>Even when I have enough time to complete an activity today, I often tell myself that I will do it 
+
+tomorrow.</q> 
+
+138R. <q>If I notice I need to clean or wash something  (e.g., car, apartment, laundry, etc.), I often  put it off 
+
+until tomorrow.</q> 
+
+156R. <q>When I am afraid of how a situation might turn out, I usually avoid dealing with it.</q> 
+
+179. <q>I can keep performing a task even when I would rather not do it.</q>  
+
+199. <q>I usually get my responsibilities taken care of as soon as possible.</q> 
+
+215R. <q>I hardly ever finish things on time.</q>  
+
+230. <q>I can make myself work on a difficult task even when I don't feel like trying.</q>  
+
+
+
+Attentional Control:  The ability to intentionally shift and focus awareness in relation to task relevant 
+
+stimuli and thoughts.  (Alpha = 88) 
+
+Attentional Shifting from Punishment 
+
+71R. <q>When I am anxious about the outcome of something, I have a hard time keeping my attention 
+
+focused on a task.</q> 
+
+112R. <q>It is very hard for me to focus my attention when I am distressed.</q> 
+
+189R. <q>When I am sad about something, it is hard for me to keep my attention focused on a task.</q> 
+
+Attentional Shifting from Reward 
+
+89R. <q>When I am especially happy, I sometimes have a hard time concentrating on tasks that require me 
+
+to keep track of several things at once.</q> 
+
+131R. <q>When I hear good news, my ability to concentrate on taking care of my responsibilities goes out 
+
+the window.</q> 
+
+213R. <q>When I am happy and excited about an upcoming event, I have a hard time focusing my attention 
+
+on tasks that require concentration.</q> 
+
+Attentional Focusing 
+
+6R. <q>When I am trying to focus my attention, I am easily distracted.</q>  
+
+53R. <q>When trying to study something, I have difficulty tuning out background noise and 
+
+ concentrating.</q>  
+
+226R. <q>When trying to focus my attention on something, I have difficulty blocking out  
+
+ distracting thoughts.</q>  
+
+Attentional Shifting 
+
+68. <q>I am usually pretty good at keeping track of several things that are happening around me.</q>  
+
+175R. <q>It’s often hard for me to alternate between two different tasks.</q>  
+
+241. <q>When interrupted or distracted, I usually can easily shift my attention back to whatever I was 
+
+doing before.</q> 
+
+ 
+
+
+
+EXTRAVERSION, ORIENTING, AND AFFILIATION 
+
+ 
+
+EXTRAVERSION 
+
+Sociability:  The amount of enjoyment derived from social interaction and being in the presence of others.  
+
+(Alpha = .89) 
+
+2. <q>I usually like to spend my free time with people.</q> 
+
+9.  <q>Sometimes I feel good throughout most of the day.</q> 
+
+22. <q>I usually enjoy being with people.</q> 
+
+46. <q>I would enjoy a job that involves a lot of social interaction.</q> 
+
+59R. <q>I rarely enjoy being with people.</q> 
+
+67R.     <q>I would not enjoy a job that involves socializing with the public.</q> 
+
+80R. <q>I rarely enjoy talking.</q> 
+
+101. <q>I often enjoy conversations that last for hours.</q> 
+
+125. <q>Even when engaging in fun activities that do not allow for much social interaction, I like to be</q> 
+
+with friends.  
+
+148. <q>I usually like to talk a lot.</q> 
+
+168. <q>I enjoy being around people who talk a lot.</q> 
+
+182. <q>I often enjoy talking to strangers.</q> 
+
+198R. <q>I rarely enjoy socializing with large groups of people.</q> 
+
+216. <q>I like conversations that include several people.</q> 
+
+238R. <q>In comparison to other people, I seem to derive less enjoyment from interacting with people.</q> 
+
+Positive Affect:  The rate of onset, rate of rising intensity, level of intensity, duration, and frequency with 
+
+respect to experiencing pleasure.  (Alpha = .84) 
+
+Frequency and Duration of Positive Affect 
+
+4R. <q>I rarely feel happy.</q> 
+
+27R. <q>When I feel happy, it usually does not last very long.</q> 
+
+90. <q>When I don't feel unhappy, I usually feel happy instead of neutral.</q> 
+
+Intensity of Positive Affect 
+
+19. <q>There have been numerous moments in my life that felt so good that I could not  imagine feeling</q> 
+
+any better. 
+
+34. <q>Sometimes minor events cause me to feel intense pleasure.</q> 
+
+152. <q>Without mind altering substances, I have sometimes felt incredibly intense pleasure.</q> 
+
+178.  <q>I rarely ever have days where I don't at least experience brief moments of intense  
+
+ happiness.</q> 
+
+Threshold of Positive Affect 
+
+63R. <q>I sometimes seem to be unable to feel pleasure from events and activities that I should enjoy.</q> 
+
+104. <q>It doesn't take much to evoke a happy response in me.</q> 
+
+194R. <q>It takes a lot to make me feel truly happy.</q> 
+
+
+
+High Pleasure:  The amount of positive affect related to stimuli, situations, or  activities involving high 
+
+intensity, rate, or complexity.  (Alpha = .77) 
+
+Intense Environmental Pleasure 
+
+51R. <q>I would not enjoy listening to loud music with a laser light show.</q> 
+
+127. <q>When listening to music, I usually like turn up the volume more than other people.</q> 
+
+154R. <q>I would probably not enjoy a fast, wild carnival ride.</q> 
+
+158. <q>I would probably enjoy playing a challenging and fast paced video-game that makes lots  of noise 
+
+and has lots of flashing, bright lights.</q> 
+
+190. <q>I would enjoy watching a laser show with lots of bright, colorful flashing lights.</q>  
+
+Novel Environmental Pleasure 
+
+20. <q>I like to be around people who have a spontaneous sense of humor.</q> 
+
+245. <q>I would probably enjoy playing a challenging and fast paced video-game that makes lots of noise</q> 
+
+and has lots of flashing, bright lights. 
+
+210. <q>I like to be around people who are different from me.</q> 
+
+Intense Behavioral Pleasure 
+
+29. <q>I often enjoy singing with abandon when in a car or walking.</q>  
+
+130R. <q>I would not enjoy fast dancing.</q> 
+
+176. <q>I have an intense, boisterous laugh.</q> 
+
+222R. <q>I would not enjoy the feeling that comes from yelling as loud as I can.</q>  
+
+Novel Behavioral Pleasure:  The amount of pleasure related to one's own spontaneous and novel behavior.   
+
+37R. <q>I rarely enjoy behaving in a silly manner.</q> 
+
+72. <q>During my free time, I often find myself doing things I did not plan.</q> 
+
+248. <q>I often enjoy telling jokes or behaving in a humorous manner.</q> 
+
+144. <q>I especially enjoy conversations where I am able to say things without thinking first.</q> 
+
+208R. <q>I rarely enjoy dancing in a spontaneous manner.</q> 
+
+
+
+ORIENTING SENSITIVITY 
+
+General Perceptual Sensitivity:  The amount of explicit awareness of slight, low intensity external 
+
+(environmental) and internal (within the body) stimuli.  (Alpha = .81)  
+
+Internal Sensitivity: 
+
+5R. <q>I usually fail to notice it when my muscles tense up just slightly.</q> 
+
+83R. <q>I am rarely aware of it when my heart speeds up.</q> 
+
+201R. <q>I'm seldom aware of internal sensations within my body.</q> 
+
+Visual Sensitivity:   
+
+12. <q>I usually notice visual details in the environment.</q> 
+
+18R. <q>I rarely notice the color of people's eyes.</q> 
+
+100. <q>I sometimes notice the designs in the grain of wood in a piece of furniture.</q> 
+
+102R. <q>Barely noticeable visual details rarely catch my attention.</q> 
+
+229R. <q>I rarely notice the details of the clothing that someone is wearing.</q> 
+
+Auditory Sensitivity: 
+
+31. <q>I'm often aware of the sounds of birds in my vicinity.</q> 
+
+111. <q>I usually notice when the environment is quiet.</q> 
+
+233R. <q>I usually don't notice sounds that are familiar (e.g., traffic by where I live or another  familiar</q> 
+
+place. 
+
+Tactile Sensitivity: 
+
+44. <q>I'm often sensitive to the smoothness or roughness of objects that I touch.</q> 
+
+123R. <q>I am rarely aware of the texture of things that I hold.</q> 
+
+211. <q>When I am barefoot, I am often aware of the different textures of the surfaces that my feet</q> 
+
+ touch. 
+
+Olfactory-Gustatory Sensitivity: 
+
+56. <q>I can detect the slightest changes in food flavoring.</q> 
+
+136. <q>I often notice mild odors and fragrances.</q> 
+
+244R.  <q>I am usually unaware of mild odors and fragrances.</q> 
+
+
+
+Affective Perceptual Sensitivity: The amount of emotionally valenced explicit cognition that is directly 
+
+associated with low intensity stimuli. (Alpha = .90) 
+
+Aesthetic Affective Perceptual Sensitivity:  The amount of emotionally valenced explicit cognition that is 
+
+directly associated with low intensity stimuli other than a real person. 
+
+36. <q>When I am listening to music, I am usually aware of subtle emotional tones.</q>  
+
+7. <q>I tend to notice emotional aspects of paintings and pictures.</q> 
+
+58. <q>Sometimes when I hear a song that I have not heard in a long time, I experience  
+
+ memories that are charged with emotion.</q> 
+
+73. <q>When I watch a movie, I often notice that the rain, snow, wind, sunshine, etc. is used to convey the</q> 
+
+mood of the characters. 
+
+249. <q>I am often consciously aware of how the weather seems to affect my mood.</q> 
+
+94R. <q>I am rarely aware of how the interior design of a room (i.e. colors, windows etc.) affects my mood.</q> 
+
+129R. <q>I am rarely aware of how my physical environment affects my mood.</q> 
+
+167. <q>I am usually aware of emotions that are portrayed in various types of artistic expression (e.g.,</q> 
+
+painting, photography, music, dance, etc.). 
+
+191. <q>When I look at paintings or pictures, I am sometimes aware of how an artist might be using light 
+
+and color to convey mood.</q> 
+
+207. <q>I sometimes smell things that evoke memories that are charged with emotion.</q>  
+
+217. <q>I am often aware how the color and lighting of a room affects my mood.</q> 
+
+235. <q>When I watch a movie, I am usually unaware of how the setting is used to convey the mood of the</q> 
+
+characters.   
+
+Social Affective Perceptual Sensitivity:    The amount of emotionally valenced explicit cognition that is 
+
+directly associated with low intensity aspects of a (real) person's behavior and position in space. 
+
+26R. <q>I am rarely aware of the moods of people around me.</q> 
+
+40. <q>Sometimes I notice sad eyes hidden behind a smile.</q>  
+
+97. <q>Looking into a person's eyes sometimes gives me a pretty good idea of whether or not someone is</q> 
+
+telling the truth. 
+
+133R. <q>I rarely notice when another person's tone of voice doesn't match their words.</q> 
+
+157. <q>I usually notice when people are trying to pretend that they are not afraid.</q> 
+
+227. <q>I can usually tell when someone is masking their emotions with a pleasant smile.</q> 
+
+
+
+Associative Sensitivity:  The frequency, diversity, and remoteness of unconsciously produced  conscious 
+
+content that is not related to effortful control or standard associations with the immediate environment.  
+
+(Alpha = .85) 
+
+Coherent Associative Sensitivity:  The amount of Associative Sensitivity that is conceptually coherent and 
+
+related to understanding a problem (e.g., intuition), finding a solution (creativity), and/or intrinsically 
+
+aesthetically pleasing.  
+
+33. <q>I don't have to think very hard to generate unique or creative ideas.</q> 
+
+52R. <q>I rarely have rich fantasies that include intricate details.</q> 
+
+87. <q>I sometimes seem to understand things intuitively.</q> 
+
+143. <q>I sometimes experience sudden intuitive insights before I have actually thought things out.</q> 
+
+183. <q>Without applying effort, creative ideas sometimes present themselves to me.</q> 
+
+243. <q>If I were engaged in a creative activity, it would take little effort for my mind to generate</q> 
+
+ spontaneous ideas. 
+
+Intrusive Associative Sensitivity:  Waking Associative Sensitivity that is not in any way obviously or 
+
+directly related to meaningful, goal oriented thoughts and behaviors (in other words the opposite of 
+
+Coherent Associative Sensitivity).   
+
+14R. <q>I rarely daydream.</q>  
+
+81. <q>When I am waiting to fall asleep, I sometimes experience thoughts or sounds that I did not</q> 
+
+consciously produce . 
+
+145. <q>When I am resting with my eyes closed, I sometimes see visual images.</q> 
+
+193R. <q>I seldom see images (e.g. a face) when looking at the moon, cloud</q>    
+
+ formations, etc. 
+
+Associative Activity Level:  The amount of unconsciously produced conscious content that is not related to 
+
+effortful control or standard associations with the immediate environment.   
+
+75. <q>Sometimes my mind is full of thoughts, ideas, and images.</q> 
+
+92. <q>Even when I am waiting to fall asleep, my mind is still quite active.</q> 
+
+162. <q>When I am relaxing, my mind is still quite active.</q> 
+
+204. <q>Sometimes my mind is full of a diverse array of loosely connected thoughts and images.</q> 
+
+Dream States:  The frequency, duration, level of intensity, vividness, novelty, incongruity, intricacy of plot, 
+
+and diversity and remoteness of dream content (sleep dreams).  <q>I sometimes dream of vivid, detailed 
+
+settings that are unlike anything that I have experienced when awake.</q> 
+
+48. <q>My dreams sometimes include an elaborate and detailed plot.</q> 
+
+118. <q>I sometimes dream of vivid, detailed settings that are unlike anything I have experienced when 
+
+awake.</q> 
+
+121R. <q>I rarely have several dreams during the same night.</q> 
+
+219R. <q>I rarely dream (sleep dreams).</q> 
+
+
+
+AFFILIATIVENESS 
+
+Emotional Empathy: The degree of affective response congruent with what others appear to feel. (Alpha 
+
+= .75) 
+
+Emotional Empathy to Animals. 
+
+54. <q>When I see a happy animal such as a playful dog or a purring cat, it makes me feel happy.</q> 
+
+153. <q>Seeing an animal in pain would be very distressing to me.</q> 
+
+Emotional Empathy to Positive Affect (humans) 
+
+69. <q>When I am around someone who feels happy, it often causes me to feel happy.</q> 
+
+120R. <q>Whenever I am around someone who is happy and excited, it often doesn't feel very real to me.</q> 
+
+209R. <q>When I am around someone who feels excited and happy, it rarely causes me to feel happy too.</q> 
+
+Emotional Empathy to Negative Affect (humans) 
+
+98. <q>When I am around someone who feels depressed, it often makes me feel down too.</q> 
+
+105R. <q>When people complain of physical ailments or pain, it does not seem very real to me.</q> 
+
+113. <q>Whenever I hear a baby cry, I feel as though I can feel the child's pain.</q>  
+
+155. <q>If a friend were to complain of having an especially bad headache, I would feel very distressed and 
+
+concerned.</q> 
+
+163R. <q>I am rarely bothered by the apparent suffering of strangers.</q> 
+
+174. <q>If I were to see someone sleeping on the streets, it would upset me.</q> 
+
+214. <q>Whenever I see a distressed look on a child's face, I feel uneasy and concerned.</q> 
+
+231R. <q>If I were to see people on the news who are suffering as a result of war or starvation, I would not</q> 
+
+feel uneasy or disturbed. 
+
+Empathic Guilt: The amount of distress in response  to negatively affecting other people. (Alpha = .84) 
+
+79. <q>When I believe that I have hurt someone's feelings, I feel guilty.</q> 
+
+13. <q>I have a strong conscience.</q> 
+
+35. <q>If I offended a stranger, I would feel guilty.</q> 
+
+49. <q>If I were to steal from someone, I would feel very bad about it for a long time.</q> 
+
+64. <q>If I were to impulsively take advantage of someone, I would later regret my behavior.</q> 
+
+93. <q>If I were too busy to help out a friend who needs my help, I  would feel guilty.</q> 
+
+117R. <q>If I were to steal from someone, I would not feel very bad about it.</q> 
+
+141. <q>I sometimes feel remorseful about the way that I have treated a person.</q> 
+
+165R. <q>People have told me that they wonder whether or not I have a conscience.</q> 
+
+187R. <q>I sometimes seem to lack remorse for treating people badly.</q> 
+
+224. <q>If I were to lose my temper and threaten someone, I would later feel guilty.</q> 
+
+246. <q>Even if I disliked a person, I would feel guilty about hurting that person's feelings.</q> 
+
+
+
+Social Closeness:  Feelings of warmth, closeness, interest and involvement with others. (Alpha=.81) 
+
+Active Closeness 
+
+8. <q>Without planning it, I often find myself doing nice things for people.</q> 
+
+11. <q>When people feel overwhelmed by things that need to be done, I often help out.</q> 
+
+171. <q>In order to help people I care about, I am willing to make personal sacrifices.</q> 
+
+202. <q>I am a quite warm and friendly person.</q> 
+
+228. <q>I like to do kind things for people.</q> 
+
+Receptive Closeness 
+
+91. <q>I like to watch people.</q> 
+
+132. <q>I enjoy listening to other people talk about themselves.</q> 
+
+184. <q>I like looking at other people's photographs.</q> 
+
+212R. <q>I rarely enjoy listening to people tell stories about events that have happened in their lives.</q> 
+
+221. <q>I am usually interested in hearing what people have to say.</q> 
+
+Relationship Closeness 
+
+24. <q>There are some people that I feel very close to.</q> 
+
+61. <q>Relationships with family members seem to be especially important to me.</q> 
+
+77. <q>Sometimes I become so close to another person that I want to do almost everything with them.</q> 
+
+108R. <q>Having close friends is not especially important to me.</q> 
+
+160. <q>Relationships seem to be especially important to me.</q> 
+
+169. <q>I value having long-term close relationships with people.</q> 
+
+ 
+
+ 
+
+

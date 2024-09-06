@@ -1,0 +1,202 @@
+
+Shared (S:)/Clinical Staff Information/Biologics/Dermatology Life Quality Index 9/27/2019 RW 
+
+Dermatology Life Quality Index (DLQI) 
+
+AAC # _________________________ Date: _________________ Provider: ______________________________ 
+
+Name: _________________________ DOB: _________________ Diagnosis: __________ Score: _____________ 
+
+The aim of this questionnaire is to measure how much your skin problem has affected your life OVER THE LAST WEEK.  
+Please check (X) one box for each question. 
+
+1. <q>Over the last week, how itchy, sore, painful or stinging has your skin 
+been?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□   
+
+2. <q>Over the last week, how embarrassed or self-conscious have you been 
+because of your skin?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□   
+
+3. <q>Over the last week, how much has your skin interfered with you going 
+shopping or looking after your home or garden?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+4. <q>Over the last week, how much has your skin influenced the clothes you 
+wear?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+5. <q>Over the last week, how much has your skin affected any social or 
+leisure activities?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+6. <q>Over the last week, how much has your skin made it difficult for you to 
+do any sport?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+7. <q>Over the last week, has your skin prevented you from working or 
+studying?</q> 
+
+<o>Yes</o> 
+<o>No</o> 
+
+□ 
+□ <o>Not relevant</o> □ 
+
+     If “No,”over the last week how much has your skin been a           
+     problem at work or studying? 
+
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□   
+
+8. <q>Over the last week, how much has your skin created problems with 
+your partner or any of your close friends or relatives?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+9. <q>Over the last week, how much has your skin caused any sexual 
+difficulties?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+10. <q>Over the last week, how much of a problem has the treatment for 
+your skin been, for example by making your home messy, or by taking up 
+time?</q> 
+
+<o>Very much</o> 
+<o>A lot</o> 
+<o>A little</o> 
+<o>Not at all</o> 
+
+□ 
+□ 
+□ 
+□ <o>Not relevant</o> □ 
+
+ 
+Please check you have answered EVERY question.  Thank you. 
+
+
+
+Shared (S:)/Clinical Staff Information/Biologics/Dermatology Life Quality Index 9/27/2019 RW 
+
+Dermatology Life Quality Index (DLQI) – Instructions for Use 
+
+ 
+
+The Dermatology Life Quality Index questionnaire is designed for use in adults, i.e. patients 
+over the age of 16.  It is self-explanatory and can be simply handed to the patient who is asked 
+to fill it in without the need for detailed explanation.  It is usually completed in one to two 
+minutes.  
+
+SCORING 
+
+The scoring of each question is as follows: 
+Very much      scored 3 
+A lot       scored 2 
+A little      scored 1 
+Not at all      scored 0 
+Not relevant      scored 0 
+Question 7, “prevented work or studying” scored 3 
+ 
+The DLQI is calculated by adding the score of each question resulting in a maximum of 30.  The 
+higher the score, the more quality of life is impaired.  
+ 
+HOW TO INTERPRET MEANING OF DLQI SCORES 
+ 
+0 – 1  no effect at all on patient’s life 
+2 – 5  small effect on patient’s life 
+6 – 10  moderate effect on patient’s life 
+11 – 20 very large effect on patient’s life 
+21 – 30 extremely large effect on patient’s life 
+ 
+REFERENCES 
+ 
+Finlay AY and Khan GK. Dermatology Life Quality Index (DLQI): a simple practical measure for 
+routine clinical use. Clin Exp Dermatol 1994; 19:210-216. 
+ 
+Basra MK, Fenech R, Gatt RM, Salek MS and Finlay AY. The Dermatology Life Quality Index 
+1994-2007; a comprehensive review of validation data and clinical results. Br J Dermatol 2008; 
+159:997-1035. 
+ 
+Hongbo Y, Thomas CL, Harrison MA, Salek MS and Finlay AY. Translating the science of quality 
+of life into practice: What do dermatology life quality index scores mean? J Invest Dermatol 
+2005; 125:659-664. 
+ 
+
+

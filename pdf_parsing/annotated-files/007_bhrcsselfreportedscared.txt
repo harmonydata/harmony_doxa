@@ -1,0 +1,79 @@
+
+Nos últimos 3 meses, o quanto VERDADEIRO cada frase é para 
+você: 
+
+<o>NUNCA OU 
+RARAMENTE</o> <o>ÀS VEZES</o> 
+
+<o>MUITAS 
+VEZES OU 
+
+QUASE 
+SEMPRE</o> 
+
+SC1 <q>Quando eu fico com medo, eu tenho dificuldade de respirar.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC2 <q>Eu sinto dor de cabeça quando estou na faculdade ou 
+trabalho.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC3 <q>Eu não gosto de estar com pessoas que não conheço bem.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC4 <q>Eu fico com medo quando eu durmo fora de casa.</q> (  ) 0 (  ) 1 (  ) 2 
+SC5 <q>Eu me preocupo se outras pessoas gostam de mim.</q> (  ) 0 (  ) 1 (  ) 2 
+SC6 <q>Quando eu fico com medo, eu sinto como se eu fosse 
+
+desmaiar.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC7 
+<q>Eu sou nervoso (a).</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC8 <q>Eu sigo as pessoas a quem sou muito ligado aonde eles 
+vão.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC9 <q>As pessoas me dizem que eu pareço nervoso.</q> (  ) 0 (  ) 1 (  ) 2 
+SC10 
+
+<q>Eu fico nervoso(a) com pessoas que eu não conheço bem.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC11 <q>Eu tenho dor de barriga na faculdade ou trabalho.</q> (  ) 0 (  ) 1 (  ) 2 
+SC12 <q>Quando eu fico com medo, eu acho que vou enlouquecer.</q> (  ) 0 (  ) 1 (  ) 2 
+SC13 
+
+<q>Eu tenho medo de dormir sozinho.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC14 <q>Eu me preocupo em ser tão bom quanto aos outros.</q> (  ) 0 (  ) 1 (  ) 2 
+SC15 <q>Quando eu fico com medo, tenho a impressão de que as 
+
+coisas não são reais.</q> 
+(  ) 0 (  ) 1 (  ) 2 
+
+SC16 <q>Eu tenho pesadelos com coisas ruins acontecendo com as 
+pessoas a quem sou muito ligado.</q> 
+
+(  ) 0 (  ) 1 (  ) 2 
+
+SC17 <q>Eu fico preocupado quando tenho que ir à faculdade ou 
+trabalho.</q> 
+
+(  ) 0 (  ) 1 (  ) 2 
+
+SC18 
+<q>Quando eu fico com medo, o meu coração bate rápido.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC19 
+<q>Quando eu fico nervoso, eu tremo de medo.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC20 Eu tenho pesadelos com alguma coisa ruim acontecendo 
+comigo. 
+
+(  ) 0 (  ) 1 (  ) 2 
+
+SC21 
+<q>Eu fico preocupado se as coisas vão dar certo para mim.</q> (  ) 0 (  ) 1 (  ) 2 
+
+SC22 
+<q>Quando eu fico com medo, eu suo muito.</q> (  ) 0 (  ) 1 (  ) 2 
+
+ 
+
+

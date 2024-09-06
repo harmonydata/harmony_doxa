@@ -1,0 +1,75 @@
+
+Center for Epidemiologic Studies Depression Scale (CES-D), NIMH
+
+Below is a list of the ways you might have felt or behaved. Please tell me how often you have felt this way during the past week.
+
+During the Past
+Week
+
+<o>Rarely or none of
+the time (less than
+
+1 day )</o>
+
+<o>Some or a
+little of the
+time (1-2
+
+days)</o>
+
+<o>Occasionally or a
+moderate amount of time
+
+(3-4 days)</o>
+
+<o>Most or all of
+the time (5-7
+
+days)</o>
+
+1.  <q>I was bothered by things that usually
+don’t bother me.</q>
+2.  <q>I did not feel like eating; my appetite
+was poor.</q>
+3.  <q>I felt that I could not shake off the
+blues even with help from my family or
+friends.</q>
+4.  <q>I felt I was just as good as other
+people.</q>
+5.  <q>I had trouble keeping my mind on
+what I was doing.</q>
+6.  <q>I felt depressed.</q>
+
+7.  <q>I felt that everything I did was an
+effort.</q>
+8.  <q>I felt hopeful about the future.</q>
+
+9.  <q>I thought my life had been a failure.</q>
+
+10.  <q>I felt fearful.</q>
+
+11.  <q>My sleep was restless.</q>
+
+12.  <q>I was happy.</q>
+
+13.  <q>I talked less than usual.</q>
+
+14.  <q>I felt lonely.</q>
+
+15.  <q>People were unfriendly.</q>
+
+16.  <q>I enjoyed life.</q>
+
+17.  <q>I had crying spells.</q>
+
+18.  <q>I felt sad.</q>
+
+19.  <q>I felt that people dislike me.</q>
+
+20.  <q>I could not get “going.”</q>
+
+SCORING: zero for answers in the first column, 1 for answers in the second column, 2 for answers in the third column, 3 for
+answers in the fourth column.  The scoring of positive items is reversed.  Possible range of scores is zero to 60, with the higher
+scores indicating the presence of more symptomatology.
+
+

@@ -1,0 +1,227 @@
+
+De Jong Gierveld Scale 
+
+ 
+
+ <o>None of 
+the time</o> 
+
+<o>Rarely</o> 
+<o>Some of 
+the time</o> 
+
+<o>Often</o> 
+<o>All of 
+
+the time</o> 
+
+1 
+<q>There is always someone I can talk to about 
+my day-to-day problems</q> 
+
+     
+
+2 <q>I miss having a really close friend</q> 
+ 
+ 
+
+    
+
+3 <q>I experience a general sense of emptiness</q> 
+ 
+ 
+
+    
+
+4 
+<q>There are plenty of people I can lean on when 
+I have problems</q> 
+
+     
+
+5 <q>I miss the pleasure of the company of others</q> 
+ 
+ 
+
+    
+
+6 
+<q>I find my circle of friends and acquaintances 
+too limited</q> 
+
+     
+
+7 <q>There are many people I can trust completely</q> 
+ 
+ 
+
+    
+
+8 <q>There are enough people I feel close to</q> 
+ 
+ 
+
+    
+
+9  <q>I miss having people around me</q> 
+ 
+ 
+
+    
+
+10 <q>I often feel rejected</q> 
+ 
+ 
+
+    
+
+11 <q>I can call on my friends whenever I need them</q> 
+ 
+ 
+
+    
+
+ 
+
+processing the scale data manually  
+
+Step 1  
+
+Count the neutral and positive answers ("more or less", "yes", or "yes!") on items 2, 3, 5, 6, 9, 10. This is the 
+
+emotional loneliness score.  
+
+Count the missing values (i.e., no answer) on items 2, 3, 5, 6, 9, 10. This is the missing emotional loneliness 
+
+score.  
+
+Count the neutral and negative ("no!", "no", or "more or less") answers on items 1, 4, 7, 8, 11. This is the 
+
+social loneliness score.  
+
+Count the missing values (i.e., no answer) on items 1, 4, 7, 8, 11. This is the missing social loneliness score.  
+
+Step 2  
+
+Compute the total loneliness score by taking the sum of the emotional loneliness score and the social 
+
+loneliness score.  
+
+Step 3  
+
+The emotional loneliness score is valid only if the missing emotional loneliness score equals 0.  
+
+The social loneliness score is valid only if the missing social loneliness score equals 0.  
+
+The total loneliness score is valid only if the sum of the missing emotional loneliness score and the missing 
+
+social loneliness score equals 0 or 1.  
+
+Step 4  
+
+If desired, the total loneliness score can be categorized into four levels: not lonely (score 0, 1 or 2), moderate 
+
+lonely (score 3 through 8), severe lonely (score 9 or 10), and very severe lonely (score 11). 
+
+ 
+
+ 
+
+
+
+8 A short scale  
+
+A 6-item version for overall, emotional and social loneliness has been developed because the length of the 
+11-item version has sometimes rendered it difficult to use the scale in large surveys. The construction and 
+empirically testing is reported in De Jong Gierveld & Van Tilburg (2006). The selected items are: 
+
+ 
+3. <q>I experience a general sense of emptiness</q> 
+4. <q>There are plenty of people I can rely on when I have problems</q> 
+7. <q>There are many people I can trust completely</q> 
+9. <q>I miss having people around</q> 
+8. <q>There are enough people I feel close to</q> 
+10. <q>I often feel rejected</q> 
+
+ 
+Whether to use the 11-item version or the shortened 6-item version of the loneliness scale is not a neutral 
+decision. Whereas studies detailing the prevalence of loneliness, or in-depth studies of loneliness among 
+certain individuals, as well as research into the changing nature and impact of loneliness after specific life 
+events may benefit from using the 11-item scale, the use of the shortened 6-item loneliness scale may be 
+sufficient in other studies. In both cases, however, the researcher has a reliable and valid measuring 
+instrument at hand, which can be used as a unidimensional overall loneliness measure as well as provide 
+information about the emotional and/or social loneliness situation of respondents. 
+
+  
+
+
+
+Appendix 1  
+Requested background data for the purpose of validation studies  
+
+ <q>Identification subsamples</q> 
+
+ <q>Year and months of data collection</q> 
+
+ <q>Sex</q> 
+
+ <q>Age (or year and month of birth)</q> 
+
+ <q>Official marital status</q>  
+- <o>unmarried and never married</o>  
+- <o>married</o>  
+- <o>divorced (separated)</o>  
+- <o>widowed</o> 
+
+ <q>Household composition</q>  
+- <o>unmarried, living with parent(s)</o>  
+- <o>living with partner, no children</o>  
+- <o>living with partner and children</o>  
+- <o>living with partner in household of different composition</o>  
+- <o>one-parent family</o>  
+- <o>living without partner in household of different composition</o>  
+- <o>living alone</o> 
+
+ <q>Residential situation</q>  
+- <o>living independently</o>  
+- <o>living in with private person</o>  
+- <o>home for the elderly, personal care home</o>  
+- <o>student residence</o>  
+- <o>independent planned housing, congregate housing (only for elderly persons)</o>  
+- <o>other</o> 
+
+ <q>Employment status (paid employment)</q>  
+- <o>no employment history</o>  
+- <o>employed, >19 hours a week</o>  
+- <o>employed, <20 hours a week</o>  
+- <o>disabled</o>  
+- <o>retired</o>  
+- <o>other non-employed</o> 
+
+ <q>Education (highest level, whether or not completed)</q>  
+- <o>primary education (6 years)</o>  
+- <o>lower vocational training (6+3 years)</o>  
+- <o>intermediate vocational training (6+4 years)</o>  
+- <o>lower secondary education (6+4 years)</o>  
+- <o>intermediate secondary education (6+5 years)</o>  
+- <o>higher secondary education (6+6 years)</o>  
+- <o>higher vocational training (6+5+4 years)</o>  
+- <o>university (6+6+4 years)</o> 
+
+ Self-rated health  
+<q>What is your general state of health?</q>  
+1 <o>poor</o>, 2 <o>not so good</o>, 3 <o>fair</o>, 4 <o>good</o>, 5 <o>very good</o> 
+
+ ADL capacity  
+- <q>Can you walk up and down stairs?</q>  
+- <q>Can you get up from and sit down in a chair?</q>  
+- <q>Can you dress and undress yourself?</q>  
+1 <o>not at all</o>, 2 <o>only with assistance</o>, 3 <o>with much difficulty</o>, 4 <o>with some difficulty</o>, 5 <o>without difficulty</o> 
+
+ 
+
+ 
+
+ 
+
+

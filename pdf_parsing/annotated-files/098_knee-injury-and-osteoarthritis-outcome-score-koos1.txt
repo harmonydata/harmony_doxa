@@ -1,0 +1,251 @@
+
+           
+ 
+ 
+
+Knee Injury and Osteoarthritis Outcome Score (KOOS) 
+ 
+ 
+
+Source: Roos EM, Roos HP, Lohmander LS, Ekdahl C, Beynnon BD. Knee Injury and Osteoarthritis 
+Outcome Score (KOOS)--development of a self-administered outcome measure. J Orthop Sports Phys Ther. 
+1998 Aug;28(2):88-96. 
+
+ 
+
+The Knee Injury and Osteoarthritis Outcome Score (KOOS) is a questionnaire designed to assess short and 
+long-term patient-relevant outcomes following knee injury. The KOOS is self-administered and assesses five 
+outcomes: pain, symptoms, activities of daily living, sport and recreation function, and knee-related quality of 
+life. The KOOS meets basic criteria of outcome measures and can be used to evaluate the course of knee 
+injury and treatment outcome. KOOS is patient-administered, the format is user-friendly and it takes about 10 
+minutes to fill out. 
+
+Scoring instructions 
+The KOOS's five patient-relevant dimensions are scored separately: Pain (nine items); Symptoms (seven 
+items); ADL Function (17 items); Sport and Recreation Function (five items); Quality of Life (four items). A 
+Likert scale is used and all items have five possible answer options scored from 0 (No problems) to 4 
+(Extreme problems) and each of the five scores is calculated as the sum of the items included. 
+
+Interpretation of scores 
+Scores are transformed to a 0–100 scale, with zero representing extreme knee problems and 100 
+representing no knee problems as common in orthopaedic scales and generic measures. Scores between 0 
+and 100 represent the percentage of total possible score achieved. 
+
+ 
+
+ Page 1  
+
+ 
+
+
+
+Knee Injury and Osteoarthritis Outcome Score (KOOS)  
+
+ 
+
+ Page 2  
+
+ 
+
+Knee Injury and Osteoarthritis Outcome Score (KOOS) 
+
+Pain 
+
+P1 <q>How often is your knee painful?</q>  <o>Never</o>  <o>Monthly</o>  <o>Weekly</o>  <o>Daily</o>  <o>Always</o> 
+
+What degree of pain have you experienced the last week when…? 
+
+P2  <q>Twisting/pivoting on your knee</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P3  <q>Straightening knee fully</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o>
+
+P4  <q>Bending knee fully</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P5  <q>Walking on flat surface</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P6  <q>Going up or down stairs</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P7  <q>At night while in bed</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P8  <q>Sitting or lying</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+P9  <q>Standing upright</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Symptoms 
+
+Sy1  <q>How severe is your knee 
+ stiffness after first wakening in 
+ the morning?</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sy2  <q>How severe is your knee 
+ stiffness after sitting, lying, or 
+ resting later in the day?</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sy3  <q>Do you have swelling in your 
+ knee?</q> 
+
+ <o>Never</o>  <o>Rarely</o>  <o>Sometimes</o>  <o>Often</o>  <o>Always</o>
+
+Sy4  <q>Do you feel grinding, hear 
+ clicking or any other type of 
+ noise when your knee moves?</q> 
+
+ <o>Never</o>  <o>Rarely</o>  <o>Sometimes</o>  <o>Often</o>  <o>Always</o> 
+
+Sy5  <q>Does your knee catch or hang 
+ up when moving?</q> 
+
+ <o>Never</o>  <o>Rarely</o>  <o>Sometimes</o>  <o>Often</o>  <o>Always</o> 
+
+Sy6  <q>Can you straighten your knee 
+ fully?</q> 
+
+ <o>Always</o>  <o>Often</o>  <o>Sometimes</o>  <o>Rarely</o>  <o>Never</o> 
+
+Sy7 <q>Can you bend your knee fully?</q>  <o>Always</o>  <o>Often</o>  <o>Sometimes</o>  <o>Rarely</o>  <o>Never</o> 
+
+ 
+
+ 
+
+ 
+
+
+
+Knee Injury and Osteoarthritis Outcome Score (KOOS)  
+
+ 
+
+ Page 3  
+
+ 
+
+Activities of daily living 
+
+What difficulty have you experienced the last week…? 
+
+A1 <q>Descending</q>   <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A2  <q>Ascending stairs</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A3  <q>Rising from sitting</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A4  <q>Standing</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A5  <q>Bending to floor/picking up an 
+ object</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A6  <q>Walking on flat surface</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A7  <q>Getting in/out of car</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A8  <q>Going shopping</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A9  <q>Putting on socks/stockings</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A10  <q>Rising from bed</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A11  <q>Taking off socks/stockings</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A12   <q>Lying in bed (turning over, 
+ maintaining knee position)</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A13  <q>Getting in/out of bath</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A14  <q>Sitting</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A15  <q>Getting on/off toilet</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A16  <q>Heavy domestic duties 
+ (shovelling, scrubbing floors, 
+ etc)</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+A17  <q>Light domestic duties (cooking, 
+ dusting, etc)</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sport and recreation function 
+
+What difficulty have you experienced the last week…? 
+
+Sp1  <q>Squatting</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sp2  <q>Running</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sp3  <q>Jumping</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sp4  <q>Turning/twisting on your injured 
+ knee</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+Sp5  <q>Kneeling</q>  <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+
+
+Knee Injury and Osteoarthritis Outcome Score (KOOS)  
+
+ 
+
+ Page 4  
+
+ 
+
+Knee-related quality of life 
+
+ 
+
+Q1  <q>How often are you aware of your 
+ knee problems?</q> 
+
+ <o>Never</o>  <o>Monthly</o>  <o>Weekly</o>  <o>Daily</o>  <o>Always</o> 
+
+Q2  <q>Have you modified your lifestyle 
+ to avoid potentially damaging 
+ activities to your knee?</q> 
+
+ <o>Not at all</o>  <o>Mildly</o>  <o>Moderately</o>  <o>Severely</o>  <o>Totally</o> 
+
+Q3  <q>How troubled are you with lack 
+ of confidence in your knee?</q> 
+
+ <o>Not at all</o>  <o>Mildly</o>  <o>Moderately</o>  <o>Severely</o>  <o>Totally</o> 
+
+Q4  <q>In general, how much difficulty 
+ do you have with your knee?</q> 
+
+ <o>None</o>  <o>Mild</o>  <o>Moderate</o>  <o>Severe</o>  <o>Extreme</o> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+	Scoring instructions
+	The KOOS's five patient-relevant dimensions are scored separately: Pain (nine items); Symptoms (seven items); ADL Function (17 items); Sport and Recreation Function (five items); Quality of Life (four items). A Likert scale is used and all items have five possible answer options scored from 0 (No problems) to 4 (Extreme problems) and each of the five scores is calculated as the sum of the items included.
+
+	Interpretation of scores
+	Scores are transformed to a 0–100 scale, with zero representing extreme knee problems and 100 representing no knee problems as common in orthopaedic scales and generic measures. Scores between 0 and 100 represent the percentage of total possible score achieved.
+	Knee Injury and Osteoarthritis Outcome Score (KOOS)
+	Pain
+	Symptoms
+	Activities of daily living
+	Sport and recreation function
+	Knee-related quality of life
+
+

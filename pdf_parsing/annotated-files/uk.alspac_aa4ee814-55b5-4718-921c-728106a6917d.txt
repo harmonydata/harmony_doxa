@@ -1,0 +1,236 @@
+
+2
+
+A1. <q>Do you ever have a headache?</q>
+
+<o>yes, quite often</o>  
+
+<o>yes, sometimes</o>
+
+<o>yes, I had one once</o>
+
+<o>no, never</o>                                →→   If no, go to question A3 below
+
+A2. <q>For your last headache, please shade in where the pain was in
+          these two pictures of a head.</q>
+
+A3. <q>Do you ever have a sore throat?</q>
+
+<o>yes, quite often</o>
+
+<o>yes, sometimes</o>
+
+<o>yes, I had one once</o>
+
+<o>no, never</o>                                 →→ If no, go to B1 on page 3
+
+A4. <q>If you have had a sore throat, has it ever been so sore that you:</q>
+
+Yes No
+(a) <o>couldn’t speak</o>
+
+(b) <o>couldn’t swallow</o>  
+
+          (c) <o>had to stay home from
+               school</o>
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+ 
+© University of Bristol 
+
+ 
+ 
+
+
+
+3
+
+Some questions about cats.
+
+B1. <q>Do you like cats?</q>
+
+<o>yes, a lot</o>
+
+<o>yes, a bit</o>
+
+<o>no, not at all</o>
+
+B2. <q>How often do you stroke or touch a cat?</q>
+
+<o>every day</o>
+
+<o>several times a week</o>
+
+<o>about once a week</o>
+
+<o>less than once a week</o>
+
+<o>not at all</o>
+
+B3. <q>Is there a cat in your home?</q>
+
+                    Yes                                No  If no, go to B4 below
+
+If yes,
+
+(i) <q>how many?</q>  ………..
+
+B4. <q>Here is a space for you to draw a cat if you would like to.</q>
+
+1 2
+
+1
+
+2
+
+3
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+4
+
+C1. When you grow up, would you like to be:
+
+   <o>Yes, I’d</o>              <o>Yes, I’d</o>                 <o>No, not</o>
+   <o>like it a lot</o> <o>like it a bit</o>          <o>at all</o>
+
+(a) <q>a football player</q> 
+
+(b) <q>a pop star</q> 
+
+(c) <q>a doctor</q> 
+
+(d) <q>a train driver</q> 
+
+(e) <q>a teacher</q> 
+
+(f) <q>a nurse</q>           
+
+(g) <q>a detective</q>
+
+(h) <q>a cook</q> 
+
+(i) <q>a clown</q>           
+
+(j) <q>a gardener</q>       
+
+(k) <q>a shopkeeper</q>      
+
+(l) <q>a secretary</q>    
+
+C2.  <q>What would you most like to be?</q>  (It need not be any of the above)
+
+_____________________________________________________
+
+_____________________________________________________
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+2
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+3
+
+

@@ -1,0 +1,1131 @@
+
+Annotated with (Variable names)
+
+(CHESNO) CHES Number } To facilitate
+(CTC) CHES Number Twin code } linkage with
+(CCD) CHES Number Check digit } data from earlier
+(KEY) Unique Case Identifier } follow-ups
+(SERIAL) Serial Number on 26-year Survey
+(SEX) Sex from Address File
+
+_______________________________________________________________________
+
+CONFIDENTIAL
+
+BCS70 - 1970 British Cohort Study
+Following the lives of everyone in Britain born 5 -11 April, 1970
+
+Where Are You Now?
+_______________________________________________________________________
+
+This questionnaire is designed to gather information about what you are doing and your
+views on a number of current issues.
+
+If you have any queries about this survey, or about any aspect of BCS70, please
+telephone the number below - we will pay the cost of the call.
+
+0500  600  616
+
+Please return your completed questionnaire in the envelope provided.
+
+Social Statistics Research Unit  City University  London  EC1V 0HB
+
+
+
+Page 1
+What we would like you to do
+Please answer ALL the questions, unless there is an instruction telling you to skip questions which do not
+apply to you.
+
+Here is an example:
+
+IF YOU DO NOT HAVE A JOB, DO NOT ANSWER THESE QUESTIONS, PLEASE CONTINUE AT
+ Q.20, PAGE 5.
+
+How to answer the questions
+
+Please follow the instructions given for each question.  You may be asked to give your answers in a number
+of ways.  For some questions you will be asked to tick a box, for others you will have to write your answer,
+and sometimes you may have to do both.
+
+Here are some examples:
+
+1 Please tick one box
+
+For example: Yes  No  
+
+2 Please tick all that apply
+
+For example: Neither  Glasses  Contact lenses  
+
+3 Please write in
+
+For example:
+
+What is the name or title of your job?
+Please write in
+
+                                             NURSE - STATE REGISTERED (SRN) NURSE - STATE REGISTERED (SRN)                                           
+
+4 Tick box and write in where appropriate
+
+For example:
+
+Own  Renting  Other arrangement   L Please say what below
+
+                              LIVE IN NURSES HOMELIVE IN NURSES HOME                                                                                     
+If there is not enough space, you can continue your answer on page 15.
+
+As indicated, if there is not enough space provided for your answer, you can use the space on page 15.
+
+5 Please tick a box or write in
+
+For example: Never been unemployed
+
+Number of times unemployed            55
+
+
+
+Page 2
+Your Views
+
+1. People have very different opinions about many things.  Below is a list of statements on different topics
+on which we'd like  your views.  Please read each statement then decide how much you agree or
+disagree with the opinion and tick the relevant BOX on the right.
+
+Please tick one box for each statement
+<o>Strongly</o> <o>Strongly</o>
+<o>Agree</o> <o>Agree</o> <o>Uncertain</o> <o>Disagree</o> <o>Disagree</o>
+
+<q>The law should be obeyed,            
+even if a particular law is wrong</q>
+
+(B960120)
+<q>There should be more women bosses in
+important jobs in business and industry</q>
+
+(B960121)
+<q>Having almost any job is
+better than being unemployed</q>
+
+(B960122)
+<q>For some crimes the death penalty
+is the most appropriate sentence</q>
+
+(B960123)
+<q>When both partners work full-time, the man
+should take an equal share of domestic chores</q>
+
+(B960124)
+<q>It does not really make much difference
+which political party is in power in Britain</q>
+
+(B960125)
+<q>Divorce is too easy to get these days</q>
+
+(B960126)
+<q>If I didn't like a job I'd pack it in,
+even if there was no other job to go to</q>
+
+(B960127)
+<q>Marriage is for life</q>
+
+(B960128)
+
+Training, Qualifications and Skills
+
+2. <q>How old were you when you left school (including 6th form college)?</q>  Please write in  ______ years old
+       (B960129)
+
+3. <q>And how old were you when you left full-time education?</q>
+Please tick the box or write in your age
+
+<o>Still in full-time education</o> ______ years old
+(B960131) (B960132)
+
+4. <q>Since you left full-time education have you been on any of the following?</q>
+Please tick all that apply and write in the number where appropriate
+
+If any:
+How many?
+
+<o>Courses leading to qualifications
+(EXCEPT youth training)</o> (B960134) ______ (B960135)
+
+<o>Youth Training Scheme (YTS)</o> (B960137) ______ (B960138)
+
+<o>Other government schemes</o> (B960140) ______ (B960141)
+
+<o>Work related training provided by an
+employer and lasting 3 days or more</o> (B960143) ______ (B960144)
+
+
+
+Page 3
+
+5. We are interested in knowing about ANY qualifications you may have gained AT ANY TIME, either at
+school or since.
+
+a) <q>Which, if any,  of the following qualifications have you gained, and how many do you have?</q>
+Please tick all that apply and write in the number gained where appropriate.
+
+If any:
+How many?
+
+(B960146) <o>No qualifications</o> (B960146)
+
+(B960147) <o>CSE - grade 1</o> ______ (B960148)
+(B960150) <o>CSE - other grades</o> ______ (B960151)
+(B960153) <o>GCE  "O" Level - passes or grades A-C</o> ______ (B960154)
+(B960156) <o>GCE  "O" Level - other grades</o> ______ (B960157)
+(B960159) <o>GCSE - grades A-C</o> ______ (B960160)
+(B960162) <o>GCSE - other grades</o> ______ (B960163)
+(B960165) <o>GCE "A" Level</o> ______ (B960166)
+
+(B960168) <o>Scottish "O" Grade - passes or grades A-C</o> ______ (B960169)
+(B960171) <o>Scottish "O" Grade - other grades</o> ______ (B960172)
+(B960174) <o>Scottish Standard Grade - grades 1-3</o> ______ (B960175)
+(B960177) <o>Scottish Standard Grade - other grades</o> ______ (B960178)
+(B960212) <o>Scottish Higher Grade</o> ______ (B960213)
+(B960215) <o>Scottish Certificate of 6th Year Studies</o> ______ (B960216)
+
+(B960218) <o>HE Diploma</o>
+(B960219) <o>First Degree (BA, BSc, BEd, etc)</o>
+(B960220) <o>PGCE</o>
+(B960221) <o>Post Graduate Degree (MA, MSc, PhD, etc)</o>
+
+(B960222) <o>Other academic qualifications</o>  L <q>Please give full name of
+qualification(s) below</q>
+
+Q5A01-Q5A012 - See List of Open-coded Variables
+
+_____________________________________________________________________
+If there is not enough space, you can continue your answer on page 15.
+
+b) <q>Have you gained any other qualifications since leaving school, including any technical, vocational, or
+professional qualifications?  Please tick one box and give details where appropriate.</q>
+
+Please include HGV, PSV, RSA, Pitmans, City & Guilds, TEC, BEC, SEN, SRN, NNEB,
+membership of professional institutions, or any similar technical, vocational, or
+
+professional
+qualifications
+
+(B960223) No Yes  L <q>Please give full name of qualification(s) below.</q>
+
+Q5B01-Q5B12 - See List of Open-coded Variables
+
+_____________________________________________________________________
+If there is not enough space, you can continue your answer on page 15 .
+
+
+
+Page 4
+6. People have a variety of skills.  Please answer question a) for each of the skills listed below.
+
+If you have the skill, please also answer question b).
+
+a) How good are you at this skill? b) <q>If you have this skill:
+Do you use it at work?</q>
+
+Please tick one box Please tick one box
+below for each skill below for each skill
+
+<o>Don't
+have</o>
+
+<o>Good</o> <o>Fair</o> <o>Poor</o> <o>skill</o> Yes No
+
+<q>Writing clearly</q>
+(B960224) (B960225)
+
+<q>Using tools properly</q>
+(B960226) (B960227)
+
+<q>Typing or using a computer keyboard</q>
+(B960228) (B960229)
+
+<q>Using a computer to solve problems or
+ get information</q>
+
+(B960230) (B960231)
+
+<q>Looking after people who need care</q>
+(B960232) (B960233)
+
+<q>Teaching or instructing children or adults</q>
+(B960234) (B960235)
+
+<q>Carrying out mathematical calculations</q>
+(B960236) (B960237)
+
+<q>Understanding finance and accounts</q>
+(B960238)            (B960239)
+
+Jobs and All That
+
+7. <q>Since you were 16, how many full-time jobs lasting a month or more have you had?</q>
+Please tick the box or write in number
+
+<o>Never had a full-time job</o> (B960240)
+
+Number of full-time jobs (B960241 ) FULL-TIME= 30 or more hours a week
+
+8. <q>And since you were 16, how many part-time jobs lasting a month or more have you had?</q>
+Please tick the box or write in number
+
+<o>Never had a part-time job</o> DO NOT INCLUDE: weekend jobs or jobs
+(B960243) you did for money whilst at school
+
+Number of part-time jobs (B960244 ) PART-TIME= under 30 hours a week
+
+9. <q>Since you were 16, has there ever been any period of a month or more when you did not have a paid
+job and your situation was best described by one of the things listed below?</q>
+Please tick all that apply and write in the number of periods where appropriate
+
+If any:
+<q>How many periods
+of one month or more?</q>
+
+<o>Unemployed and seeking work</o> (B960246) ______ (B960247)
+
+<o>At home full-time looking after children or others</o> ______ (B960250)
+(B960249)
+
+<o>Unable to work for health reasons (not sick leave)</o> ______ (B960253)
+(B960252)
+
+<o>Not in a paid job for some other reason</o> (B960255) ______ (B960256)
+
+
+
+Page 5
+
+10. <q>Since you were 16, what is the length of the longest single period when you were unemployed and
+seeking work?</q> Please tick one box only
+
+<o>Never been unemployed</o> <o>7-11 months</o>
+<o>3 months or less</o> <o>1-2 years</o>  (B960258)
+<o>4-6 months</o> <o>More than 2 years</o>
+
+11. <q>Which of the following best describes what you are currently doing?</q>
+Please tick all that apply
+
+<o>Full-time paid employee (30 or more hours a week)</o> (B960259)
+<o>Part-time paid employee (under 30 hours a week)</o> (B960260)
+<o>Full-time self employed</o> (B960261)
+<o>Part-time self employed</o> (B960262)
+<o>Unemployed and seeking work</o> (B960263)
+<o>Full-time education</o> (B960264)
+<o>Temporarily sick/disabled (less than 6 months)</o> (B960265)
+<o>Long-term sick/disabled (6 months or longer)</o> (B960266)
+<o>Looking after home/family</o> (B960267)
+<o>On a training scheme</o> (B960268)
+
+<o>Something else</o>  L  <q>Please say what below</q>
+(B960269)
+
+Q11OTHER - See List of Open-coded Variables
+
+____________________________________________________________________________
+
+IF YOU CURRENTLY HAVE A JOB, OR ARE SELF-EMPLOYED, PLEASE ANSWER THE
+QUESTIONS BELOW ABOUT YOUR JOB OR BUSINESS.
+
+IF YOU HAVE MORE THAN ONE JOB, PLEASE ANSWER THE QUESTIONS ABOUT YOUR
+"MAIN" JOB.
+
+IF YOU DO NOT HAVE A JOB, DO NOT ANSWER THESE QUESTIONS, PLEASE CONTINUE AT
+ Q.20, PAGE 6.
+
+12. <q>In what year did you start your current job? Please write in 19</q> ______ (B960270)
+
+13. <q>What is the name or title of your job?  (Include details of any grade or rank that you may have)</q>
+Please write in
+
+SOC-HGSCALE - See List of Open-coded Variables
+
+____________________________________________________________________________
+
+14. <q>What type of work do you do most of the time?  (Include details of any machinery or special materials
+used or any special skills/training)</q>
+Please write in
+
+SOC-HGSCALE - See List of Open-coded Variables
+
+____________________________________________________________________________
+
+
+
+Page 6
+
+15. <q>What is made or done by your employer or business?</q>
+Please write in
+
+Not currently available
+
+____________________________________________________________________________
+
+16. <q>Including yourself about how many people work at the same place as you?</q>
+Please tick one box only
+
+<o>10 or less</o> <o>100 - 499</o>
+<o>11 - 25</o> <o>500 or more</o> (B960272)
+<o>26 - 99</o> <o>Don't know/Varies</o>
+
+17. <q>Do you supervise other people?</q>
+Please tick one box
+
+(B960273) (B960274)
+
+No Yes  L Please write in number supervised: ______
+
+18. <q>How many hours do you usually work each week?  Please include any paid overtime you usually
+do, but exclude meal -breaks.</q>
+Please write in number
+
+Hours in average week: _______ (B960277)
+
+19. What is your usual take home pay (after deductions, but including any bonuses or overtime)?
+Please write in the amount and tick one box for period covered
+
+<q>Amount of take home pay (to nearest £):</q>    __________________ (B960312)
+
+<q>Period pay covers.</q>  Please tick one box only (B960318)
+
+<o>Hour</o> <o>Day</o> <o>Week</o> <o>Month</o> <o>Year</o>
+
+Other period  L  Please say what below
+
+Q19OTHER - See List of Open-Coded Variables
+
+_____________________________________________________________________
+
+Relationships, Marriage and Children
+
+20. <q>Are you currently in a relationship with someone, whether or not you are living together?</q>
+Please tick as appropriate
+
+No Yes  L <q>Is your partner:</q>    <o>Male</o>  <o>Female</o>  
+(B960319) (B960320)
+
+21. <q>Which of the things below best describes your current situation?</q>
+Please tick one box only
+
+<o>Living with your husband or wife</o>
+<o>Living as a couple with someone</o> (B960321)
+<o>Living alone or in some other arrangement</o>
+
+
+
+Page 7
+22. <q>What is your current legal marital status?</q>
+
+Please tick one box only and write in date of marriage where appropriate
+
+Living as a couple without being legally married to your partner should not be counted
+as "married".
+
+(B960322)
+<o>Single and never married</o>
+
+<o>Married, first and only marriage</o> Please give the month and year of your
+<o>Remarried, second or later marriage current or most recent marriage</o>
+<o>Separated</o>
+<o>Divorced Month</o>: (B960323) Year: 19  (B960325)
+<o>Widowed</o>
+
+IF YOU ARE NOT LIVING WITH YOUR HUSBAND OR WIFE, OR SOMEONE AS A COUPLE AT
+THE MOMENT PLEASE CONTINUE AT Q.26 BELOW.
+
+23. <q>When did you start living with your partner?</q>
+Please write month and year Month: ____________      Year: 19 ______
+
+(B960327) (B960329)
+
+24. <q>Which of the following best describes what your partner is currently doing?</q>
+Please tick one box only
+
+<o>Working full-time (30 or more hours a week)</o>
+<o>Working part-time (under 30 hours a week)</o>
+<o>Self-employed</o>
+<o>Unemployed</o> (B960331)
+<o>In full-time education</o>
+<o>Looking after children or at home full-time</o>
+<o>Something else</o>
+
+25. <q>Does your current partner have any children from a previous relationship that do not live with
+you?</q> Please tick one box only
+
+<o>Yes</o> <o>No</o> <o>Don't know</o> (B960332)
+
+26. <q>How many children do you have?  Please do not include step/adopted/fostered children.</q>
+Please write in the number or tick box
+
+Number of children: ______ <o>Do not have children</o>
+(B960333) (B960334)
+
+IF YOU DO NOT HAVE ANY CHILDREN, PLEASE CONTINUE AT Q.29, PAGE 8
+
+27. <q>Is your current partner the other parent of some or all of your children?</q>
+Please tick one box only
+
+<o>No current partner</o> (B960335)
+
+<o>Yes, of all children</o> <o>Yes, of some children</o> <o>No, of none</o>
+
+28. <q>Do all your children live with you? Please tick one box only</q> (B960336)
+
+<o>Yes, all</o> <o>Yes, some</o> <o>No, none</o>
+
+
+
+Page 8
+Household and Housing
+
+Please answer these questions about your normal "home" address.  If you are away from your
+"home" address for 6 months or more, please answer these questions about your address away
+from "home".
+
+29. We'd like to know a little bit about the members of your household - the people who you normally live
+with, and with whom you share a living room OR normally share at least one meal a day.
+Please complete one line  below for each member of your household.
+
+If you are NOT living in a self-contained household (eg: if you are living in a hostel or si milar
+accommodation), please answer these questions just about any of your family living with you.
+
+THE FIRST LINE IS FOR YOUR DETAILS.  PLEASE GIVE YOUR SEX AND AGE.
+____________________________________________________________________________________
+___
+
+<q>FIRST NAME</q> <q>SEX</q> <q>AGE</q> <q>RELATIONSHIP TO YOU</q>
+
+Please write in Tick one box Give age last Write in number from
+birthday list of relationships below
+
+Male Female Write in age
+_______________________________________________________________________________________
+
+(B960337) (B960338)
+ YOU         YOURSELF
+_______________________________________________________________________________________
+
+(B960340) (B960341) (B960343)
+
+_______________________________________________________________________________________
+(B960345) (B960346) (B960348)
+
+_______________________________________________________________________________________
+(B960350) (B960351) (B960353)
+
+_______________________________________________________________________________________
+(B960355) (B960356) (B960358)
+
+_______________________________________________________________________________________
+(B960360) (B960361) (B960363)
+
+_______________________________________________________________________________________
+(B960365) (B960366) (B960368)
+
+_______________________________________________________________________________________
+(B960370) (B960371) (B960373)
+
+_______________________________________________________________________________________
+(B960375) (B960376) (B960378)
+
+_______________________________________________________________________________________
+(B960412) (B960413) (B960415)
+
+_______________________________________________________________________________________
+
+List of relationships:
+
+01 <o>Lawful Spouse</o> 07 <o>Brother/Sister</o> 12 <o>Friend/Unrelated sharer</o>
+02 <o>Live-in partner</o> 08 <o>Brother/Sister In-Law</o> 13 <o>Landlord</o>
+03 <o>Own Child</o> 09 <o>Parent</o> 14 <o>Employer</o>
+04 <o>Adopted Child</o> 10 <o>Parent In-Law</o> 15 <o>Other</o>
+05 <o>Fostered Child</o> 11 <o>Other relative</o>
+06 <o>Stepchild/Partner's Child</o>
+
+
+
+Page 9
+30. <q>In what year did you start living at your present address?</q>    (B960417) (B960419)
+
+Please write in month and year. Month:____________ Year: 19  ______
+
+31. <q>Do you own or rent your home, or do you have some other arrangement?</q>
+Please tick one box only
+
+<o>Own outright</o>
+<o>Buying on mortgage/loan</o>
+<o>Rented from a local authority or housing association</o>
+<o>Rented from a private landlord</o> (B960421)
+<o>Rented from some other landlord</o>
+<o>Living with parents - paying rent</o>
+<o>Living with parents - rent-free</o>
+
+<o>Other arrangement</o>  L Please say what below
+
+Q31OTHER - See Lost of Open-coded Variables
+
+____________________________________________________________________________
+
+32. <q>Not including any bathroom or kitchen, how many rooms are there in your home?</q>
+Please write in number
+
+Number of rooms: ______ (B960422)
+
+Some More of Your Views
+
+33. Below is another list of statements on different topics on which we'd like  your views.  Once again,
+please read each statement then decide how much you agree or disagree with the opinion and tick the
+relevant BOX on the right.
+
+Please tick one box for each statement
+<o>Strongly</o> <o>Strongly</o>
+<o>Agree</o> <o>Agree</o> <o>Uncertain</o> <o>Disagree</o> <o>Disagree</o>
+
+<q>Politicians are mainly in politics for their own
+benefit and not for the benefit of the community</q>
+
+    (B960424)
+<q>Censorship of films and magazines is
+necessary to uphold moral standards</q>
+
+(B960425)
+<q>Men and women should all have the
+chance to do the same kind of work</q>
+
+(B960426)
+<q>None of the political parties
+would do anything to benefit me</q>
+
+(B960427)
+<q>People who break the law                               
+should be given stiffer sentences</q>
+
+(B960428)
+<q>Couples who have children should not
+separate</q>
+
+(B960429)
+<q>Government should redistribute income from
+the better off to those who are less well off</q>
+
+(B960430)
+<q>If a child is ill and both parents are working,
+it should usually be the mother who takes time
+off work to look after the child</q>
+
+         (B960431)
+
+
+
+Page 10
+Health
+34. <q>How would you describe your general health?</q> Please tick one box only
+
+<o>Excellent</o>  <o>Good</o>  <o>Fair</o>  <o>Poor</o>  (B960432)
+
+35. <q>How tall are you?</q> Please write in
+
+feet: ______  inches:_______ OR metres: _____ cms: ______
+(B960433) (B960434) (B960436) (B960437)
+
+36. <q>How much do you weigh?</q> Please write in
+
+stones: ______   lbs: ______ OR kilograms: ______
+(B960439) (B960441) (B960443)
+
+37. <q>Would you say that you were...</q>
+Please tick one box only
+
+<o>Very underweight</o>
+<o>Slightly underweight</o>
+<o>About the right weight</o> (B960445)
+<o>Slightly overweight</o>
+<o>Overweight</o>
+<o>Don't know</o>
+
+38. Below is a list of health problems.  Please answer question a) for each.  Please also answer question b)
+for each problem you have ticked for question a).
+
+a) <q>Since you were 16, have you suffered from this health problem?</q>
+Please tick all that apply in column a) below.
+
+b) <q>If you have suffered from this health problem since you were 16, was this in the last 12 months?</q>
+Please tick all that apply in column b) below.
+
+Have you suffered from any of these...    a) Since you were 16?      b) In the past 12 months?
+Please tick all that apply Please tick all that apply
+
+<o>Migraine</o> (B960446) (B960512)
+<o>Hay fever</o> (B960447) (B960513)
+<o>Asthma</o> (B960447) (B960514)
+<o>Bronchitis</o> (B960449) (B960515)
+<o>Wheezing when you have a cold/flu</o> (B960450) (B960516)
+Skin problems:
+ <o>eczema</o> (B960451) (B960517)
+ <o>other skin problems</o> (B960452) (B960518)
+<o>Fits, convulsions, epilepsy</o> (B960453) (B960519)
+<o>Persistent joint or back pain</o> (B960454) (B960520)
+<o>Diabetes</o> (B960455) (B960521)
+<o>Persistent trouble with teeth, gums or mouth</o> (B960456) (B960522)
+<o>Cancer</o> (B960457) (B960523)
+<o>Stomach or other digestive problems</o> (B960458) (B960524)
+<o>Bladder or kidney problems</o> (B960459) (B960525)
+<o>Depression for more than a few days</o> (B960460) (B960526)
+<o>Hearing difficulties</o> (B960461) (B960527)
+<o>Other problems with your ears</o> (B960462) (B960528)
+<o>Frequent problems with periods or other
+ gynaecological problems</o> (B960463) (B960529)
+<o>Other health problem</o>  L Please describe (B960530)
+
+Q38OTH1-Q38OTH6 (B960464) below
+     See list of Open-Coded Variables
+     ___________________________________________________________________________
+    If there is not enough space, you can continue your answer on page 15.
+
+
+
+Page 11
+
+39 a) <q>Since you were 16, have you ever had any trouble with your eyes or eyesight in one or both
+eyes?</q> Please tick all that apply
+
+<o>No sight problem</o> (B960531)
+<o>Short-sight</o> (B960532)
+<o>Long-sight</o> (B960533)
+<o>Astigmatism</o> (B960534)
+
+<o>Other sight problem</o>  L Please describe below
+(B960535)
+
+Q39_1, Q39_2 - See List of Open-coded Variables
+_____________________________________________________________________
+
+     b) <q>Do you wear glasses or contact lenses some or all of the time?</q> Please tick all that apply
+
+<o>Neither</o> <o>Glasses</o> <o>Contact lenses</o>
+(B960536) (B960537) (B960538)
+
+40. <q>Since you were 16, how many times have you had medical treatment because of an accident, injury or
+assault?</q> Please tick the box or write in number
+
+No accidents or assaults needing medical attention (B960539)
+(B960540)
+
+Number of accidents or assaults: ______L Please give details of each below
+_________________________________________________________________________________
+<q>Injuries suffered</q> <q>Where it happened</q> <q>Where treated</q> <q>Your age</q>
+Please describe Please tick one box Please tick all that apply at the time
+_________________________________________________________________________________
+
+(B960542)
+Q40A1-Q40A4 <o>At home</o>    <o>On the road</o> <o>GP</o> (B960543)
+See List of Open-coded  <o>At work</o>    <o>Playing sport</o> <o>Hospital casualty dept</o> (B960544) (B960546)
+Variables <o>Elsewhere</o>    Please say where <o>Hospital in-patient</o> (B960545)
+___________________________ __________________________ ___________________ _______
+
+(B960548)
+Q40B1-Q40B4 <o>At home</o>    <o>On the road</o> <o>GP</o> (B960549)
+See List of Open-coded <o> At work</o>    <o>Playing sport</o> <o>Hospital casualty dept</o> (B960550) (B960552)
+Variables <o>Elsewhere</o>    Please say where <o>Hospital in-patient</o> (B960551)
+_________________________________________________________________________________
+
+(B960554)
+Q40C1-Q40C4 <o>At home</o>    <o>On the road</o> <o>GP</o> (B960555)
+See List of Open-coded <o>At work</o>    <o>Playing sport</o> <o>Hospital casualty dept</o> (B960556) (B960558)
+Variables <o>Elsewhere</o>    Please say where <o>Hospital in-patient</o> (B960557)
+_________________________________________________________________________________
+
+(B960560)
+Q40D1-Q40D4 <o>At home</o>    <o>On the road</o> <o>GP</o> (B960561)
+See List of Open-coded <o>At work</o>    <o>Playing sport</o> <o>Hospital casualty dept</o> (B960562) (B960564)
+Variables <o>Elsewhere</o>    Please say where <o>Hospital in-patient</o> (B960563)
+_________________________________________________________________________________
+If there is not enough space, you can continue your answer on page 15.
+
+41. <q>Do you suffer from any long term health problem, long standing illness, infirmity or disability of any kind?</q>
+Please include any you have already reported. Please tick one box only
+
+(B960566)
+
+<o>No</o> <o>Don't know</o> <o>Yes</o>  L Please describe below
+
+Q41OTH1-Q41OTH6 - See List of Open-coded Variables
+
+_________________________________________________________________________________
+If there is not enough space, you can continue your answer on page 15.
+
+
+
+Page 12
+Drinking and Smoking
+
+42. <q>How often do you have an alcoholic drink?</q>
+Please tick one box only
+
+     (B960567)
+<o>Most days</o> <o>Less often/occasionally</o>
+<o>3 or 4 times a week</o> <o>Only on special occasions</o>
+<o>Once or twice a week</o> <o>Never drink alcohol</o>
+
+43. In the last week I have drunk:
+Please tick box or write in amount for each
+
+<o>No alcohol at all</o> (B960612)
+
+Amount
+
+<q>Shandy</q> (B960619) ______ pints Enter "0" (zero) for
+any not drunk in the
+
+<q>Beer/lager</q> (B960615) ______ pints last week
+
+<q>Low alcohol beers/lagers</q> (B960617) ______ pints
+
+<q>Cider</q> (B960619) ______ pints
+
+<q>Low alcohol cider</q> (B960621) ______ pints
+
+<q>Wine</q> (B960623) ______ glasses
+
+<q>Low alcohol wine</q> (B960625) ______ glasses
+
+<q>Spirits (Gin, Whisky, Vodka, Rum, Brandy)</q> (B960627)    single measures
+
+<q>Martini/Cinzano/Sherry</q> (B960629) ______ small glasses
+
+<q>Other alcoholic drink</q> (B960631)  L Please give details below
+_____________________________________ ____________
+Name of other alcoholic drink Amount
+
+Q43OTH01-Q43OTH13 - See List of Open-coded Variables
+
+___________________________________________________
+If there is not enough space, you can continue your answer on page 15 .
+
+44. <q>Which of the following describes your smoking habit?</q>
+Please tick one box only
+
+(B960632)
+<o>I've never smoked</o>
+<o>I used to smoke but don't at all now</o>
+<o>I now smoke occasionally but not every day</o>
+<o>I smoke every day</o>
+
+IF YOU DO SMOKE: How many of the following do you usually smoke in a day?
+Please write in
+
+<q>Number of cigarettes:</q> ______ (B960633)
+
+<q>Number of cigars:</q> ______ (B960635)
+
+
+
+Page 13
+How You Feel
+
+45. These questions are concerned with how you are feeling generally.  Please answer them by ticking
+either the "Yes" or "No" box for each one.  It is important that you try to answer ALL the questions.
+
+Yes No
+
+<q>Do you often have backache?</q>  (B960637)
+
+<q>Do you feel tired most of the time?</q> (B960638)
+
+<q>Do you often feel miserable or depressed?</q> (B960639)
+
+<q>Do you often have bad headaches?</q> (B960640)
+
+<q>Do you often get worried about things?</q>
+(B960641)
+
+<q>Do you usually have great difficulty in falling or staying asleep?</q>
+(B960642)
+
+<q>Do you usually wake unnecessarily early in the morning?</q> (B960643)
+
+<q>Do you wear yourself out worrying about your health?</q> (B960644)
+
+<q>Do you often get into a violent rage?</q> (B960645)
+
+<q>Do people often annoy and irritate you?</q> (B960646)
+
+<q>Have you at times had twitching of the face, head or shoulders?</q>
+(B960647)
+
+<q>Do you often suddenly become scared for no good reason?</q> (B960648)
+
+<q>Are you scared to be alone when there are no friends near you?</q>
+(B960649)
+
+<q>Are you easily upset or irritated?</q> (B960650)
+
+<q>Are you frightened of going out alone or of meeting people?</q> (B960651)
+
+<q>Are you constantly keyed up and jittery?</q> (B960652)
+
+<q>Do you suffer from indigestion?</q> (B960653)
+
+<q>Do you suffer from an upset stomach?</q>
+(B960654)
+
+<q>Is your appetite poor?</q>
+(B960655)
+
+<q>Does every little thing get on your nerves and wear you out?</q> (B960656)
+
+<q>Does your heart often race like mad?</q> (B960657)
+
+<q>Do you often have bad pains in your eyes?</q> (B960658)
+
+<q>Are you troubled with rheumatism or fibrositis?</q>
+(B960659)
+
+<q>Have you ever had a nervous breakdown?</q> (B960660)
+
+
+
+Page 14
+And Finally...
+
+46. <q>How interested would you say you are in politics?</q>
+Please tick one box only
+
+ (B960661)
+<o>Very interested</o> <o>Fairly interested</o> <o>Not very interested</o> <o>Not at all interested</o>
+
+47. <q>If there was a general election tomorrow, which political party would you vote for?</q>
+Please tick one box only
+
+(B960662)
+<o>Would not vote</o> <o>Plaid Cymru</o>
+<o>Conservative</o> <o>Scottish National</o>
+
+<o>Labour</o> <o>Other party</o>  LPlease say which below
+<o>Liberal Democrat</o>
+
+Q47OTHER - See List of Open-coded Variables
+
+____________________________________________________________________________
+
+48. <q>Do you regard yourself as belonging to any particular religion?</q>
+Please tick one box and write in if appropriate
+
+(B960663)
+
+<o>No, no religion</o> <o>Yes</o>  L Please say which below
+
+Q48 - See List of Open-coded Variables
+
+____________________________________________________________________________
+
+49. <q>How do you feel your standard of living compares to most other people your age?</q>
+Please tick one box only
+
+(B960664)
+<o>Much better</o> <o>A bit better</o> <o>The same</o> <o>A bit worse</o> <o>Much worse</o> 
+
+50. <q>Generally speaking, which of these two statements is most true for you?</q>
+Please tick one box only
+
+    (B960665)
+<o>I usually have a free choice and control over my life</o>
+
+<o>Whatever I do has no real effect on what happens to me</o>
+
+51. <q>Here is a scale from 0 to 1O.  On it, "0" means that you are completely dissatisfied and "10" means
+that you are completely satisfied.  Please tick the box with the number above it which shows how
+dissatisfied or satisfied you are about the way your life has turned out  so far.</q>
+
+Completely Completely
+Dissatisfied Satisfied
+
+0 1 2 3 4 5 6 7 8 9 10
+
+|     |     |     |     |     |     |     |     |     | |
+| (B960667)
+
+  (B960666)
+
+
+
+Page 15
+
+Thank you for taking the time to complete this questionnaire.
+
+Please use the space below to:
+
+     Continue your answer to any question
+
+     <q>Tell us anything you like about your life that our questions have not covered.</q>
+
+__________________________________________________________________________
+
+(B960668)
+
+Please continue on a separate sheet of paper if necessary .
+__________________________________________________________________________
+
+This is the end of the questions.
+
+THANK YOU FOR ALL YOUR HELP!
+
+Please return your completed questionnaire in the envelope provided.
+
+
+
+List of Open-coded Variables
+
+Q5a) Other aacademic qualification
+
+Q5A01    Other academic qualification #01
+Q5A02    Other academic qualification #02
+Q5A03    Other academic qualification #03
+Q5A04    Other academic qualification #04
+Q5A05    Other academic qualification #05
+Q5A06    Other academic qualification #06
+Q5A07    Other academic qualification #07
+Q5A08    Other academic qualification #08
+Q5A09    Other academic qualification #09
+Q5A10    Other academic qualification #10
+Q5A11    Other academic qualification #11
+Q5A12    Other academic qualification #12
+
+Q5b) Other vocational qualification
+
+Q5B01    Vocational qualification #01
+Q5B02    Vocational qualification #02
+Q5B03    Vocational qualification #03
+Q5B04    Vocational qualification #04
+Q5B05    Vocational qualification #05
+Q5B06    Vocational qualification #06
+Q5B07    Vocational qualification #07
+Q5B08    Vocational qualification #08
+Q5B09    Vocational qualification #09
+Q5B10    Vocational qualification #10
+Q5B11    Vocational qualification #11
+Q5B12    Vocational qualification #12
+
+Q11 Other economic status
+
+Q11OTH1  Q11 Other economic status 1
+Q11OTH2  Q11 Other economoc ststus 2
+
+Q13 Name or title of job/Q14 Type of work
+
+SOC      CASOC CURRENT JOB: SOC-Stand Occ Classifcn
+CAMSUB   CASOC CURRENT JOB: Cambridge Sub-Group, etc
+EMPIN    CASOC CURRENT JOB: Employment Status-input
+EMPCHK   CASOC CURRENT JOB: Employment Status-check
+CAMSCALM CASOC CURRENT JOB: Cambridge Score-MALES
+CAMSCALF CASOC CURRENT JOB: Cambridge Score-FEMALES
+SEG91    CASOC CURRENT JOB: Socio-Economic Group '91
+RGSC91   CASOC CURRENT JOB: RGs Social Class 1991
+ISCO     CASOC CURRENT JOB: ISCO '88-Int Occ Classfn
+KOS      CASOC CURRENT JOB: KOS-Key Occs for Stats
+CODOT    CASOC CURRENT JOB: CODOT - 3 digit
+OPCOD81  CASOC CURRENT JOB: OPCS '81-Operatnl Code
+OUG81    CASOC CURRENT JOB: OPCS '81-Occupn Unit Grp
+SEG81    CASOC CURRENT JOB: Socio-Economic Group '81
+RGSC81   CASOC CURRENT JOB: RGs Social Class 1981
+OUG71    CASOC CURRENT JOB: OPCS '71-Occupn Unit Grp
+SEG71    CASOC CURRENT JOB: Socio-Economic Group '71
+RGSC71   CASOC CURRENT JOB: RGs Social Class 1971
+OUG66    CASOC CURRENT JOB: RGs '66-Occupn Unit Grp
+SEG66    CASOC CURRENT JOB: Socio-Economic Group '66
+RGSC66   CASOC CURRENT JOB: RGs Social Class 1966
+OUG61    CASOC CURRENT JOB: RGs '61-Occupn Unit Grp
+SEG61    CASOC CURRENT JOB: Socio-Economic Group '61
+RGSC61   CASOC CURRENT JOB: RGs Social Class 1961
+GOLDTH90 CASOC CURRENT JOB: Goldthorpe Soc Class '90
+GOLDTH80 CASOC CURRENT JOB: Goldthorpe Soc Class '80
+GOLDTH70 CASOC CURRENT JOB: Goldthorpe Soc Class '70
+HGCOLPGP CASOC CURRENT JOB: Hope-Goldthorpe Group
+
+
+
+HGSCALE  CASOC CURRENT JOB: Hope-Goldthorpe Score
+
+Q19 Other pay period
+
+Q19OTHER Q19 Other pay period
+
+Q31 Other tenure
+
+Q31OTHER Q31 Other tenure
+
+Q38 Other health problem
+
+Q38OTH1  Q38 Other health problem 1
+Q38OTH2  Q38 Other health problem 2
+Q38OTH3  Q38 Other health problem 3
+Q38OTH4  Q38 Other health problem 4
+Q38OTH5  Q38 Other health problem 5
+Q38OTH6  Q38 Other health problem 6
+
+Q39 Other sight problem
+
+Q39_1    Q39 Other sight problem #1
+Q39_2    Q39 Other sight problem #2
+
+Q40 Accident, injury or assault
+
+Q40A1    Q40 Accident, etc 1/Injury 1
+Q40A2    Q40 Accident, etc 1/Injury 2
+Q40A3    Q40 Accident, etc 1/Injury 3
+Q40A4    Q40 Accident, etc 1/Injury 4
+Q40B1    Q40 Accident, etc 2/Injury 1
+Q40B2    Q40 Accident, etc 2/Injury 2
+Q40B3    Q40 Accident, etc 2/Injury 3
+Q40B4    Q40 Accident, etc 2/Injury 4
+Q40C1    Q40 Accident, etc 3/Injury 1
+Q40C2    Q40 Accident, etc 3/Injury 2
+Q40C3    Q40 Accident, etc 3/Injury 3
+Q40C4    Q40 Accident, etc 3/Injury 4
+Q40D1    Q40 Accident, etc 4/Injury 1
+Q40D2    Q40 Accident, etc 4/Injury 2
+Q40D3    Q40 Accident, etc 4/Injury 3
+Q40D4    Q40 Accident, etc 4/Injury 4
+
+Q41 Disability
+
+Q41OTH1  Q41 Disability 1
+Q41OTH2  Q41 Disability 2
+Q41OTH3  Q41 Disability 3
+Q41OTH4  Q41 Disability 4
+Q41OTH5  Q41 Disability 5
+Q41OTH6  Q41 Disability 6
+
+Q43 Other alcoholic drink
+
+Q43OTH01 Shandy (pints)
+Q43OTH02 Beer/lager (pints)
+Q43OTH03 Low alcohol beer/lager (pints)
+Q43OTH04 Cider (pints)
+Q43OTH05 Low alcohol cider (pints)
+Q43OTH06 Wine (glasses)
+Q43OTH07 Low alcohol wine (glasses)
+Q43OTH08 Spirits (single measure)
+Q43OTH09 Martini, etc (small glasses)
+
+
+
+Q43OTH10 Alcopops (bottles)
+Q43OTH11 Liqueur (small glasses)
+Q43OTH12 Other alcohol
+Q43OTH13 Other answer
+
+Q47 Other party vote
+
+Q47OTHER Vote for other party
+
+Q48 Religion
+
+Q48      Q48 Religion
+
+

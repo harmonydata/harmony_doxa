@@ -1,0 +1,205 @@
+
+Escala de Aptidões Sociais 
+ 
+Como se compara o/a [Nome do Jovem] com as outras crianças/pessoas da idade dele/a nas seguintes situações: 
+
+  
+<o>Muito pior 
+
+que a 
+média</o> 
+
+<o>Um pouco 
+pior que a 
+
+média</o> 
+<o>Na média</o> 
+
+<o>Um pouco 
+melhor 
+que a 
+média</o> 
+
+<o>Muito 
+melhor 
+que a 
+média</o> 
+
+SAS1 <q>É capaz de rir com os outros, 
+por exemplo, aceitando 
+brincadeiras leves e reagindo  
+adequadamente.</q> 
+
+  
+ 0 
+
+ 
+1 
+ 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+SAS2 <q>É fácil de conversar com ele/a, 
+mesmo sobre um tema que 
+ele/a não tenha um interesse 
+especial.</q> 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+SAS3 <q>É capaz de chegar a um meio-
+termo e ser flexível</q> 
+
+0 1 2 3 4 
+
+SAS4 <q>Encontra a coisa certa para 
+dizer ou fazer para tornar mais 
+fácil uma 
+situação tensa ou embaraçosa.</q> 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+SAS5 <q>Tem espírito esportivo quando 
+não ganha ou percebe que está 
+errado/a. 
+Sabe perder.</q> 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+SAS6 <q>Outras pessoas se sentem bem 
+com ele/a por perto.</q> 
+
+0 1 2 3 4 
+
+SAS7 <q>Entendendo as entrelinhas do 
+que as pessoas dizem, ele/a 
+consegue saber o 
+que as pessoas estão realmente 
+pensando ou sentindo.</q> 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+SAS8 <q>Depois de ter feito algo errado, 
+ele/a é 
+capaz de pedir desculpas e 
+resolver a situação de forma 
+que não fiquem 
+ressentimentos.</q> 
+
+ 
+ 
+
+0 
+
+ 
+ 
+
+1 
+
+ 
+ 
+
+2 
+
+ 
+ 
+
+3 
+
+ 
+ 
+
+4 
+
+SAS9 <q>Sabe liderar sem parecer 
+mandão/mandona.</q> 
+
+0 1 2 3 4 
+
+SAS10 <q>Sabe o que é apropriado ou 
+não apropriado 
+nas diferentes situações 
+sociais.</q> 
+
+ 
+0 
+
+ 
+1 
+
+ 
+2 
+
+ 
+3 
+
+ 
+4 
+
+copyright Robert Goodman, 2001 
+
+ 
+
+ 
+
+ 
+
+

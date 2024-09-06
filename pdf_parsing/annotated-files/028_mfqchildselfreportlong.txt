@@ -1,0 +1,113 @@
+
+Child Self-Report 
+
+ 
+
+MOOD AND FEELINGS QUESTIONNAIRE: Long Version 
+ 
+This form is about how you might have been feeling or acting recently. 
+ 
+For each question, please check () how you have been feeling or acting in the past two 
+weeks. 
+ 
+If a sentence was not true about you, check NOT TRUE. 
+If a sentence was only sometimes true, check SOMETIMES. 
+If a sentence was true about you most of the time, check TRUE. 
+ 
+Score the MFQ as follows: 
+NOT TRUE = 0 
+SOMETIMES = 1 
+TRUE = 2 
+ 
+
+To code, please use a checkmark () for each statement. 
+<o>NOT 
+TRUE</o> 
+
+<o>SOME 
+TIMES</o> 
+
+<o>TRUE</o> 
+
+1. <q>I felt miserable or unhappy.</q>    
+
+2. <q>I didn’t enjoy anything at all.</q>    
+
+3. <q>I was less hungry than usual.</q>    
+
+4. <q>I ate more than usual.</q>    
+
+5. <q>I felt so tired I just sat around and did nothing.</q>    
+
+6. <q>I was moving and walking more slowly than usual.</q>    
+
+7. <q>I was very restless.</q>    
+
+8. <q>I felt I was no good anymore.</q>    
+
+9. <q>I blamed myself for things that weren’t my fault.</q>    
+
+10. <q>It was hard for me to make up my mind.</q>    
+
+11. <q>I felt grumpy and cross with my parents.</q>    
+
+12. <q>I felt like talking less than usual.</q>    
+
+13. <q>I was talking more slowly than usual.</q>    
+
+14. <q>I cried a lot.</q>    
+
+
+
+Child Self-Report 
+
+ 
+
+15. <q>I thought there was nothing good for me in the future.</q>    
+
+16. <q>I thought that life wasn’t worth living.</q>    
+
+17. <q>I thought about death or dying.</q>    
+
+18. <q>I thought my family would be better off without me.</q>    
+
+19. <q>I thought about killing myself.</q>    
+
+20. <q>I didn’t want to see my friends.</q>    
+
+21. <q>I found it hard to think properly or concentrate.</q>    
+
+22. <q>I thought bad things would happen to me.</q>    
+
+23. <q>I hated myself.</q>    
+
+24. <q>I felt I was a bad person.</q>    
+
+25. <q>I thought I looked ugly.</q>    
+
+26. <q>I worried about aches and pains.</q>    
+
+27. <q>I felt lonely.</q>    
+
+28. <q>I thought nobody really loved me.</q>    
+
+29. <q>I didn’t have any fun in school.</q>    
+
+30. <q>I thought I could never be as good as other kids.</q>    
+
+31. <q>I did everything wrong.</q>    
+
+32. <q>I didn’t sleep as well as I usually sleep.</q>    
+
+33. <q>I slept a lot more than usual.</q>    
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Copyright Adrian Angold & Elizabeth J. Costello, 1987; Developmental Epidemiology Program; Duke University 
+
+

@@ -1,0 +1,58 @@
+
+PHQ-9 Depression
+
+Over the last 2 weeks, how often have you
+been bothered by any of the following problems?
+(Use “s”” to indicate your answer”
+
+1. <q>Little interest or pleasure in doing things</q>................
+
+2. <q>Feeling down, depressed, or hopeless</q>..................
+
+3. <q>Trouble falling or staying asleep, or sleeping too</q>
+
+4. <q>Feeling tired or having little energy</q>................:0008
+
+5. <q>Poor appetite or overeating</q>...........ccccccccccecceeeceeenees
+
+6. <q>Feeling bad about yourself — or that you are a failure
+or have let yourself or your family down</q>................2.0..08
+
+7. <q>Trouble concentrating on things, such as reading the
+newspaper or watching television</q>..................ececeeeeeees
+
+8. <q>Moving or speaking so slowly that other people could
+have noticed? Or the opposite — being so fidgety or
+restless that you have been moving .around a lot more than</q>
+
+9. <q>Thoughts that you would be better off dead or of hurting
+yourself in SOME WAY</q>......... 0 :eceec eee ececeeeneeeceeeaeneeenenens
+
+Column totals
+
+From the Primary Care Evaluation of Mental Disorders Patient Health Questionnaire (PRIME-MD PHQ). The PHQ
+was developed by Drs. Robert L. Spitzer, Janet B.W. Williams, Kurt Kroenke and colleagues. For research
+information, contact Dr. Spitzer at rls8@columbia.edu. PRIME-MD@® is a trademark of Pfizer Inc. Copyright© 1999
+
+Pfizer Inc. All rights reserved. Reproduced with permission
+
+ 
+
+<o>More</o>
+<o>than</o> <o>Nearly</o>
+<o>Not at</o> <o>Several</o> <o>half the</o> <o>every</o>
+<o>all</o> <o>days</o> <o>days</o> <o>day</o>
+0 1 2 3
+0 1 Z 3
+0 1 2 2
+0 1 2 3
+0 1 2 3
+0 1 2 3
+0 1 2 3
+0 1 2 3
+0 1 2 3
++ +
+= Total Score
+
+
+

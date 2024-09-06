@@ -1,0 +1,262 @@
+
+SF-36 QUESTIONNAIRE
+
+Name:____________________ Ref. Dr:___________________ Date: _______
+
+ID#: _______________ Age: _______ Gender: M / F
+
+Please answer the 36 questions of the Health Survey completely, honestly, and without interruptions. 
+
+GENERAL HEALTH:
+<q>In general, would you say your health is:</q>
+
+ <o>Excellent</o> <o>Very Good</o> <o>Good</o> <o>Fair</o> <o>Poor</o>
+
+<q>Compared to one year ago, how would you rate your health in general now?</q>
+ <o>Much better now than one year ago</o>
+
+<o>Somewhat better now than one year ago</o>
+
+<o>About the same</o>
+
+<o>Somewhat worse now than one year ago</o>
+
+<o>Much worse than one year ago</o>
+
+LIMITATIONS OF ACTIVITIES:
+The following items are about activities you might do during a typical day. Does your health now limit you in these
+activities? If so, how much?
+
+<q>Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports.</q>
+ <o>Yes, Limited a lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Lifting or carrying groceries</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Climbing several flights of stairs</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Climbing one flight of stairs</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Bending, kneeling, or stooping</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Walking more than a mile</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Walking several blocks</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+<q>Walking one block</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+
+
+<q>Bathing or dressing yourself</q>
+ <o>Yes, Limited a Lot</o>  <o>Yes, Limited a Little</o>  <o>No, Not Limited at all</o>
+
+PHYSICAL HEALTH PROBLEMS:
+During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as
+a result  of your physical health?
+
+<q>Cut down the amount of time you spent on work or other activities</q>
+Yes No
+
+<q>Accomplished less than you would like</q>
+Yes No
+
+<q>Were limited in the kind of work or other activities</q>
+Yes No
+
+<q>Had difficulty performing the work or other activities (for example, it took extra effort)</q>
+Yes No
+
+EMOTIONAL HEALTH PROBLEMS:
+During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as
+a result  of any emotional problems (such as feeling depressed or anxious)? 
+
+<q>Cut down the amount of time you spent on work or other activities</q>
+Yes No
+
+<q>Accomplished less than you would like</q>
+Yes No
+
+<q>Didn't do work or other activities as carefully as usual</q>
+Yes No
+
+SOCIAL ACTIVITIES:
+<q>Emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?</q>
+
+<o>Not at all</o> <o>Slightly</o> <o>Moderately</o> <o>Severe</o> <o>Very Severe</o>
+
+PAIN:
+<q>How much bodily pain have you had during the past 4 weeks?</q>
+
+<o>None</o> <o>Very Mild</o> <o>Mild</o> <o>Moderate</o> <o>Severe</o> <o>Very Severe</o>
+
+During the past 4 weeks,  how much did pain interfere with your normal work (including both work outside the
+home and housework)?
+
+<o>Not at all</o> <o>A little bit</o> <o>Moderately</o> <o>Quite a bit</o> <o>Extremely</o>
+
+
+
+ENERGY AND EMOTIONS:
+These questions are about how you feel and how things have been with you during the last 4 weeks. For each
+question, please give the answer that comes closest to the way you have been feeling. 
+
+<q>Did you feel full of pep?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Have you been a very nervous person?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Have you felt so down in the dumps that nothing could cheer you up?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Have you felt calm and peaceful?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Did you have a lot of energy?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+ <o>None of the Time</o>
+
+
+
+<q>Have you felt downhearted and blue?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Did you feel worn out?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Have you been a happy person?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+<q>Did you feel tired?</q>
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>A good Bit of the Time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+SOCIAL ACTIVITIES:
+<q>During the past 4 weeks,  how much of the time has your physical health or emotional problems interfered with
+your social activities (like visiting with friends, relatives, etc.)?</q>
+
+<o>All of the time</o>
+
+<o>Most of the time</o>
+
+<o>Some of the time</o>
+
+<o>A little bit  of the time</o>
+
+<o>None of the Time</o>
+
+
+
+GENERAL HEALTH:
+How true or false is each of the following statements for you?
+
+<q>I seem to get sick a little easier than other people</q>
+<o>Definitely true</o> <o>Mostly true</o> <o>Don't know</o> <o>Mostly false</o> <o>Definitely false</o>
+
+<q>I am as healthy as anybody I know</q>
+<o>Definitely true</o> <o>Mostly true</o> <o>Don't know</o> <o>Mostly false</o> <o>Definitely false</o>
+
+<q>I expect my health to get worse</q>
+<o>Definitely true</o> <o>Mostly true</o> <o>Don't know</o> <o>Mostly false</o> <o>Definitely false</o>
+
+<q>My health is excellent</q>
+<o>Definitely true</o> <o>Mostly true</o> <o>Don't know</o> <o>Mostly false</o> <o>Definitely false</o>
+
+

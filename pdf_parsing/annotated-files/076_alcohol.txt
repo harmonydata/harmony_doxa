@@ -1,0 +1,160 @@
+
+Alcohol Craving Questionnaire (ACQ-NOW)
+
+ALCOHOL CRAVING QUESTIONNAIRE — SHORT FORM — REVISED
+(ACQ—SF-R)
+
+INSTRUCTIONS: Please indicate how much you agree or disagree with each of the following statements by placing a
+single checkmark (like this: _X_) along each line between STRONGLY DISAGREE and STRONGLY AGREE. The closer
+
+you place your checkmark to one end or the other indicates the strength of your disagreement or agreement. We are
+
+interested in how you are thinking or feeling right now as you are filling out this questionnaire. Please complete
+
+every item.
+
+10.
+
+11.
+
+12,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RIGHT NOW
+
+. <q>If 1 had some alcohol, I would probably drink it.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>| miss drinking.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>1am not making any plans to drink.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>[could not stop myself from drinking if I had some alcohol here.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>T want to drink so bad I can almost taste it.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>| would feel less irritable if 1 used alcohol now.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>If L used alcohol, I would feel less tense.</q>
+
+<o>STRONGLY DISAGREE</o>, <o>STRONGLY AGREE</o>
+. <q>Drinking would not be very satisfying.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+. <q>I would feel less restless if ] drank alcohol.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+
+<q>If I were using alcohol, I would feel less nervous.</q>
+
+<o>STRONGLY DISAGREE</o>, <o>STRONGLY AGREE</o>
+
+<q>It would be easy to pass up the chance to use alcohol.</q>
+
+<o>STRONGLY DISAGREE</o>, <o>STRONGLY AGREE</o>
+
+<q>Drinking would put me in a better mood.</q>
+
+<o>STRONGLY DISAGREE</o> <o>STRONGLY AGREE</o>
+
+ 
+
+ 
+
+279
+
+
+
+
+Assessing Alcohol Problems: A Guide for Clinicians and Researchers
+
+ALCOHOL CRAVING QUESTIONNAIRE — SHORT FORM-REVISED (ACQ—SF-R)
+
+SCORING KEY
+
+CONTENT VALIDITY AND RELIABILITY. The Alcohol Craving Questionnaire—Short Form (ACQ—SE-R: Singleton,
+1997) contains 12-items from the 47-item Alcohol Craving Questionnaire (ACQ-NOW) developed to assess craving
+for alcohol among alcohol users in the current context (right now). Items were derived from the initial validation
+study (Singleton et al., 1996) of the ACQ-NOW administered to 219 subjects who had used alcohol at least once
+
+in the last 30 days. The ACQ—SE-R contains 12 items strongly correlated with the four subscales and total ACQ
+(Tiffany et al., 2000). .
+
+Factor naming is consistent with the ACQ-NOW (Drobes et al., 1999; Potgeiter et al., 1999; Singleton et al., 1998).
+The following item sets provide subscales that approximate each factor. Each item has seven compartments that are
+checked-off and are scored in the fashion of 1-7 to yield an item raw score. Then perform the operation (8- reverse-
+keyed item raw score = raw score) for reverse-keyed items (marked with an *). Then sum the raw scores for each factor
+and divide by three (3) to yield a factor-based score. A general craving index may be derived by summing all items
+(total ACQ score) and dividing by 12 (the number of items with significant loadings).
+
+FACTOR i
+
+Compulsivity (COMP), urges and desires in anticipation of loss of control over drinking - 3 ITEMS
+ITEM NUMBER (Factor loading): 4 (.46), 5 (.63), 6 (.51)
+
+RELIABILITY*: .79
+
+FACTOR 2
+
+Expectancy (XPCT), urges and desires to drink in anticipation of the positive benefits of drinking - 3 ITEMS
+ITEM NUMBER (Factor loading): 1 (.44), 2 (.37), 12 (.43)
+
+RELIABILITY: .77
+
+FACTOR 3
+
+Purposefulness (PURP), urges and desires coupled with intent and planning to drink ~ 3 ITEMS
+ITEM NUMBER (Factor loading): 3* (.57), 8* (.68), 11* (.68)
+
+RELIABILITY: .77
+
+FACTOR 4
+
+Emotionality (EMOT), urges and desires to drink in anticipation of relief from withdrawal/negative affect - 3 ITEMS
+ITEM NUMBER (Factor loading): 7 (.41), 9 (.47), 10 (.45)
+
+RELIABILITY: .86
+
+a Reliability value is estimated standardized alpha coefficient.
+
+ACKNOWLEDGEMENTS: This research was supported by National Institute on Drug Abuse (NIDA) intramural
+funds, a minority supplement (to EGS) to grant P50-DA09258 (to Maxine Stitzer), and personal funds (EGS).
+
+We wish to express appreciation to Charles Haertzen, Stephen Heishman, Jared Kass, and Kenzie Preston for their
+consultation, and Daniel Ward, Thomas Douglas, Laurie Fields, Angela Ross, and Toya Sherrill for administrative
+and research assistance.
+
+ 
+
+280
+
+
+
+
+

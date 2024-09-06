@@ -1,0 +1,234 @@
+
+The Peripheral Arterial Disease (PAD) Walking Impairment Questionnaire 
+
+Overview: Regensteiner et al developed a questionnaire for evaluating walking impairment in patients 
+with peripheral arterial disease (PAD). This can be used to identify patients with significant impairment 
+and to monitor effectiveness of therapeutic interventions. The authors are from the Universities of 
+Colorado and Rochester. 
+
+Parameters: 
+
+(1) difficulty walking a distance during the past month 
+
+(2) difficulty walking at a certain speed during the past month 
+
+(3) symptoms associated with walking impairment 
+
+Walking Distance Degree of Difficulty Points 
+
+<q>walking indoors (around the house)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 50 feet</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 150 feet (0.5 blocks)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 300 feet (1.0 blocks)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 600 feet (2.0 blocks)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+
+
+<q>walking 900 feet (3.0 blocks)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 1500 feet (5.0 blocks) or more</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+walking distance score = 
+
+= (20 * (points for walking indoors)) + (50 * (points for walking 50 feet)) + (150 * (points for walking 150 
+feet)) + (300 * (points for walking 300 feet)) + (600 * (points for walking 600 feet)) + (900 * (points for 
+walking 900 feet)) + (1500 * (points for walking 1500 feet))  
+
+where: each distance is walked is used as a weighting factor for the points from the degree of 
+difficulty. 
+
+fraction of maximal walking distance score = (walking distance score) / 6060  
+
+Walking Speed Degree of Difficulty Points 
+
+<q>walking 1 block slowly? (about 1.5 mph)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 1 block at an average speed? (about 
+2.0 mph)</q> 
+
+<o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>walking 1 block quickly? (about 3.0 mph)</q> <o>no</o> 3 
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+<q>running or jogging 1 block? (about 5.0 mph)</q> <o>no</o> 3 
+
+
+
+  <o>some</o> 2 
+
+  <o>much</o> 1 
+
+  <o>did not do</o> 0 
+
+walking speed score = (1.5 * (points for walking slowly)) + (2 * (points for walking at average speed)) + 
+(3 * (points for walking quickly)) + (5 * (points for running or jogging))  
+
+where: each speed is walked is used as a weighting factor for the points from the degree of difficulty. 
+
+fraction of maximal walking speed score = (walking speed score) / 34.5  
+
+Symptoms of Walking Impairment Degree of Difficulty Points 
+
+<q>pain or aching in your calves?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>pain or aching in your thighs?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>pain stiffness or aching in your joints (knees or hips)?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>pain or discomfort in your chest?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>weakness in one or both of your legs?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+
+
+<q>shortness of breath?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>heart palpitations?</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+<q>other problems? (please list)</q> <o>no</o> 3 
+
+  <o>slight</o> 2 
+
+  <o>some</o> 1 
+
+  <o>much</o> 0 
+
+where: 
+
+• A total symptom score was not calculated. This was the questions "were not a ranked 
+series." 
+
+• The data was presented as "a percentage of the maximal score possible of 4.0." 
+
+Interpretation: 
+
+• minimum walking distance score: 0 
+
+• maximum walking distance score: 34.5 
+
+• minimum walking speed score: 0 
+
+• maximum walking speed score: 6 60  
+
+• The score can be used to compare impairment before and after vascular surgery. 
+
+Performance: 
+
+• Changes in questionnaire scores correlated with some measurements of treadmill 
+performance. 
+
+• Retesting in an untreated control group showed similar scores after 12 weeks. 
+
+References: 
+
+Regensteiner JG Steiner JF et al. Evaluation of walking impairment by questionnaire in patients with 
+peripheral arterial disease. J Vascular Medicine Biology. 1990; 2: 142-152. (Appendix I pages 150-
+151). 
+
+

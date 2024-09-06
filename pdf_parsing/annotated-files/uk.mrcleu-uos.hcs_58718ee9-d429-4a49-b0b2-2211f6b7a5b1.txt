@@ -1,0 +1,64 @@
+
+HERTFORDSHIRE 31-39 STUDY 
+
+BLOOD PRESSURE MEASUREMENTS 2 
+
+ 
+
+ 
+
+NAME     Serial No    /     
+
+              
+
+Lying 1     Lying 2         
+
+<q>Systolic BP</q>     <q>Systolic BP</q>         
+
+              
+
+<q>Diastolic BP</q>     <q>Diastolic BP</q>         
+
+              
+
+<q>Pulse</q>     <q>Pulse</q>         
+
+              
+
+Standing 1 min     Standing 2 mins         
+
+<q>Systolic BP</q>     <q>Systolic BP</q>         
+
+              
+
+<q>Diastolic BP</q>     <q>Diastolic BP</q>         
+
+              
+
+<q>Pulse</q>     <q>Pulse</q>         
+
+              
+
+Standing 5 mins              
+
+<q>Systolic BP</q>              
+
+              
+
+<q>Diastolic BP</q>              
+
+              
+
+<q>Pulse</q>              
+
+              
+
+ 
+
+ 
+
+ 
+
+Observer _______________________________________________ 
+
+

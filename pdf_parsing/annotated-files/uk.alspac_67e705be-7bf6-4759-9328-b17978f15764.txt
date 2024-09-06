@@ -1,0 +1,437 @@
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Covid Antibody Test Kit Questionnaire
+
+Page 1 of 8
+
+Participant
+
+Username __________________________________
+
+Access Code __________________________________
+
+Direct access token for participant to login to __________________________________
+questionnaire
+
+Test Record? Yes
+No
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 2 of 8
+
+Your Antibody Test
+
+If you are affected by any of the issues raised in this questionnaire or are looking for information on COVID-19
+(coronavirus) please visit:Coronavirus explained: coronavirusexplained.ukri.org/en/Government guidelines:
+www.gov.uk/coronavirusNHS advice: www.nhs.uk/conditions/coronavirus-covid-19/Samaritans - Emotional support for
+everyone: www.samaritans.orgMind - Advice and support for anyone with a mental health problem www.mind.org.uk
+
+We will first ask you about any symptoms you may have experienced before asking you to complete information
+relating to your Antibody Test. We may have asked you questions about any symptoms you may have experienced
+previously but it is important that we collect this information again at the same time as your test results.
+
+SYMPTOMS
+
+A1 We are interested in whether you have experienced any symptoms listed below since 1st March this year. Please
+select all that apply on each line, marking either "not at all" or all the months in which you had the symptom. Please
+complete for any symptoms and any months that symptoms were experienced, irrespective of whether or not you
+saw a doctor and irrespective of whether or not you were told you had flu, or COVID-19, or any other diagnosis. We
+understand it may be difficult to remember so please just give your best estimate or leave blank.
+
+Please select all that apply.
+
+<o>Not at
+all</o>
+
+March April May June July Aug Sep Oct
+<q>Decrease in appetite</q>
+<q>Nausea and/or vomiting</q>
+<q>Diarrhoea</q>
+<q>Abdominal pain/tummy ache</q>
+<q>Runny nose</q>
+<q>Sneezing</q>
+<q>Blocked nose</q>
+
+Please check your answer to 'Decrease in appetite' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+Please check your answer to 'Nausea and/or vomiting' above. You have selected 'not at all' in combination with a
+time when you had symptoms.
+
+Please check your answer to 'Diarrhoea' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Abdominal pain/tummy ache' above. You have selected 'not at all' in combination with
+a time when you had symptoms.
+
+Please check your answer to 'Runny nose' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Sneezing' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Blocked nose' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 3 of 8
+
+<o>Not at
+all</o>
+
+March April May June July Aug Sep Oct
+<q>Sore eyes</q>
+<q>Loss of sense of smell or taste</q>
+<q>Sore throat</q>
+<q>Hoarse voice</q>
+<q>Headache (if more often or
+worse than usual)</q>
+
+<q>Dizziness</q>
+<q>NEW persistent cough</q>
+
+Please check your answer to 'Sore eyes' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Loss of sense of smell or taste' above. You have selected 'not at all' in combination with
+a time when you had symptoms.
+
+Please check your answer to 'Sore throat' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Hoarse voice' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Headache (if more often or worse than usual)' above. You have selected 'not at all' in
+combination with a time when you had symptoms.
+
+Please check your answer to 'Dizziness' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'NEW persistent cough' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+<o>Not at
+all</o>
+
+March April May June July Aug Sep Oct
+<q>Tightness in the chest</q>
+<q>Chest pain</q>
+<q>Fever (feeling too hot)</q>
+<q>Chills (feeling too cold)</q>
+<q>Difficulty sleeping</q>
+<q>Felt more tired than normal</q>
+<q>Severe fatigue (e.g. inability to
+get out of bed)</q>
+
+Please check your answer to 'Tightness in the chest' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+Please check your answer to 'Chest pain' above. You have selected 'not at all' in combination with a time when you
+had symptoms.
+
+Please check your answer to 'Fever (feeling too hot)' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+Please check your answer to 'Chills (feeling too cold)' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+Please check your answer to 'Difficulty sleeping' above. You have selected 'not at all' in combination with a time
+when you had symptoms.
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 4 of 8
+
+Please check your answer to 'Felt more tired than normal' above. You have selected 'not at all' in combination with a
+time when you had symptoms.
+
+Please check your answer to 'Severe fatigue (e.g. inability to get out of bed)' above. You have selected 'not at all' in
+combination with a time when you had symptoms.
+
+<o>Not at
+all</o>
+
+March April May June July Aug Sep Oct
+<q>Numbness or tingling
+somewhere in the body</q>
+
+<q>Feeling of heaviness in arms or
+legs</q>
+
+<q>Achy muscles</q>
+<q>Shortness of breath (that affects
+ordinary activity)</q>
+
+<q>Raised, red, itchy areas on the
+skin</q>
+
+<q>Sudden swelling of the face or
+lips</q><q>Red/purple sores or blisters on
+your feet (including toes)</q>
+
+Please check your answer to 'Numbness or tingling somewhere in the body' above. You have selected 'not at all' in
+combination with a time when you had symptoms.
+
+Please check your answer to 'Feeling of heaviness in arms or legs' above. You have selected 'not at all' in
+combination with a time when you had symptoms.
+
+Please check your answer to 'Achy muscles' above. You have selected 'not at all' in combination with a time when
+you had symptoms.
+
+Please check your answer to 'Shortness of breath (that affects ordinary activity)' above. You have selected 'not at all'
+in combination with a time when you had symptoms.
+
+Please check your answer to 'Raised, red, itchy areas on the skin' above. You have selected 'not at all' in combination
+with a time when you had symptoms.
+
+Please check your answer to 'Sudden swelling of the face or lips' above. You have selected 'not at all' in combination
+with a time when you had symptoms.
+
+Please check your answer to 'Red/purple sores or blisters on your feet (including toes)' above. You have selected 'not
+at all' in combination with a time when you had symptoms.
+
+Previous Testing
+
+We want to know about other tests that you may have had before your Children of the 90s test. Please do not include
+the test we have sent you when answering the following questions.
+
+<q>Before you took this antibody test, did you think you</q> <o>Yes, confirmed by a positive test</o>
+<q>have or have had COVID-19?</q> <o>Yes, suspected by a doctor but not tested</o>
+
+<o>Yes, my own suspicions</o>
+<o>No</o>
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 5 of 8
+
+<q>Have you ever had a test to see if you have or have</q> <o>No</o>
+<q>had COVID-19?</q> <o>Yes, because I had symptoms</o>
+
+<o>Yes, because I have been in contact with someone</o>
+(Select all that apply) <o>who had COVID-19</o>
+
+<o>Yes, because of my job</o>
+<o>Yes, for another reason</o>
+
+Please check your answer - you answered "Yes, confirmed by a positive test" to the question about having had
+COVID-19 but have answered "No" to ever having had a test
+
+<q>What was the other reason you had a test?</q> __________________________________
+
+<q>What kind of test have you had?</q> <o>A swab test (swab taken from your throat or nose)
+which tests for active infection</o>
+
+(Select all that apply) <o>An antibody test (this usually involves a drop of
+blood taken from your finger) which test for past
+infection</o>
+<o>Other</o>
+<o>Don't know</o>
+
+<q>What other kind of test have you had?</q> __________________________________
+
+<q>Have you had a positive result from a swab test?</q> <o>No</o>
+<o>Yes</o>
+<o>Don't know</o>
+
+<q>When was the sample taken for the test that came back</q> __________________________________
+<q>positive? Give the latest date if you have had more
+than one</q>
+
+<q>Have you had a positive result from an antibody test?</q> <o>No</o>
+<o>Yes</o>
+<o>Don't know</o>
+
+<q>When was the sample taken for the test that came back</q> __________________________________
+<q>positive? Give the latest date if you have had more
+than one</q>
+
+<q>Have you had a positive result from the other test?</q> <o>No</o>
+<o>Yes</o>
+<o>Don't know</o>
+
+<q>When was the sample taken for the other test that</q> __________________________________
+<q>came back positive? Give the latest date if you have
+had more than one</q>
+
+Your Children of the 90s Test Results
+
+<q>Did you attempt the antibody test provided in the Yes
+pack we sent you?</q> No
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 6 of 8
+
+<q>Why did you not attempt to complete the antibody</q> <o>I did not understand the instructions</o>
+<q>test?</q> <o>I thought it would take too long</o>
+
+<o>I did not want to prick my finger</o>
+(Select all that apply) <o>I did not want to see my blood</o>
+
+<o>I thought I might infect someone else</o>
+<o>I damaged the test</o>
+<o>I lost the test</o>
+<o>I do not trust the test</o>
+<o>I do not want to know the result</o>
+<o>Don't know</o>
+<o>Other</o>
+
+<q>What is the other reason why you didn't attempt to</q> __________________________________
+<q>complete the antibody test?</q>
+
+<q>When did you attempt the antibody test?</q> __________________________________
+
+<q>Did you successfully manage to complete the test?</q> <o>Yes</o>
+<o>No, I only partially completed it</o>
+<o>No, I did not complete any of it</o>
+<o>Don't know</o>
+
+<q>Why did you not successfully complete the antibody</q> <o>I did not understand the instructions</o>
+<q>test?</q> <o>It took too long</o>
+
+<o>I did not manage to use the lancet</o>
+(Select all that apply) <o>I did not manage to get a blood drop</o>
+
+<o>I did not manage to get enough blood on the test</o>
+<o>I did not manage to get the buffer on the test</o>
+<o>I damaged the test</o>
+<o>It was too fiddly for me to manage</o>
+<o>I did not have some of the equipment I needed</o>
+<o>I do not want to know the result</o>
+<o>I could not read the result</o>
+<o>Don't know</o>
+<o>Other</o>
+
+<q>What is the other reason why you did not successfully</q> __________________________________
+<q>complete the antibody test?</q>
+
+Step 8 of the instruction booklet shows different <o>Negative - Red line next to C only. No lines next</o>
+test outcomes. <q>Based only on the photo you took and</q> <o>to G or M.</o>
+<q>what the test looked like after 10-15 minutes, which</q> <o>lgM Positive - Red line next to C and red line (no</o>
+<q>option corresponds to your test result?</q> <o>matter how light or dark) next to M. No line next
+
+to G.</o>
+Note: How light or dark the colour of the line is <o>lgG Positive - Red line next to C and red line (no</o>
+next to G and/or M will vary. Therefore, any shade <o>matter how light or dark) next to G. No line next</o>
+of colour next to G and/or M should be reported if <o>to M.</o>
+the line next to C is red. <o>lgG Positive - Red line next to C and red lines
+
+(no matter how light or dark) next to G and M.</o>
+<o>Invalid - Line next to C is completely or
+partially Blue. This means that the test is
+invalid even if there are red lines next to G or M.</o>
+<o>Can't tell what the result is</o>
+<o>Not sure - Didn't take a photo of the result and
+can't remember what it looked like</o>
+
+<q>How confident are you that the number you have chosen</q> <o>Very confident</o>
+<q>above is the right one?</q> <o>Fairly confident</o>
+
+<o>Not very confident</o>
+<o>Not at all confident</o>
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 7 of 8
+
+Upload a Photo of Your Test
+
+<q>Did you take a photo of your test 10-15 minutes after Yes
+you did the test?</q> No
+
+If your photo is on a different device to the one that you are completing this questionnaire on, first email/share the
+photo to this device and then proceed to upload the image below by clicking 'Upload Image' button below.
+
+Please upload the photo of your testing stick that
+you were instructed to take in Step 7 of the booklet.
+
+Note: some cameras and smartphones include additional
+information (metadata) in the image file which can
+include the location where the photograph was taken
+amongst other things such as device used. If your
+uploaded image does contain such information, the
+information associated with the image will be
+deleted such that we only retain the image itself.
+
+https://projectredcap.org
+
+
+27/11/2020 1:33pm www.projectredcap.org
+
+Confidential
+Page 8 of 8
+
+Completing the Questionnaire
+
+You haven't completed all the other sections yet. Please only continue with this section if you don't want to answer
+any more sections, otherwise please use your "back" button to return to the list and complete the remaining
+sections.
+
+If you are affected by any of the issues raised in this questionnaire or are looking for information on COVID-19
+(coronavirus) please visit:Coronavirus explained: coronavirusexplained.ukri.org/en/Government guidelines:
+www.gov.uk/coronavirusNHS advice: www.nhs.uk/conditions/coronavirus-covid-19/Samaritans - Emotional support for
+everyone: www.samaritans.orgMind - Advice and support for anyone with a mental health problem www.mind.org.uk
+
+<q>What is your date of birth?</q>  __________________________________
+(DD-MM-YYYY)
+
+Being able to let you know Children of the 90s news and invite you to take part in clinics and questionnaires is really
+important to us. If you want to update the details that we have for you please visit: 
+childrenofthe90s.ac.uk/update-your-details
+
+If you'd like to add a comment, please do so in this
+box.  
+
+__________________________________________
+
+If you'd like us to reply to your comment, please Please reply
+tick this box:
+
+To be entered into the prize draw for one of 3 £100 Don't enter me into the prize draw
+shopping vouchers, we must have received your
+questionnaire by 5pm on Wednesday, 14th October
+2020. If you win, we will contact you within 4 weeks
+using the contact details on our database. You will
+receive your prize up to six weeks after the draw
+has been held.
+
+If you don't wish to be entered into the prize draw,
+please check this box.
+
+Thank you!Many thanks for completing your questionnaire, particularly in these extraordinary times. The information
+you provide is really important in better understanding COVID-19 and its impact on our lives and wellbeing.
+
+FinishPlease now click on 'Submit' and then log out on the next page.
+
+https://projectredcap.org
+

@@ -1,0 +1,84 @@
+
+Portugese
+
+Behavior Rating Scale
+Self-Report
+09/05
+
+Por favor, avalie vocé mesmo no periodo dos ultimos
+
+0 = <o>nada</o>
+
+1 = <o>muito leve</o>
+2 =<o>leve</o>
+
+3 = <o>moderado</o>
+4 = <o>severo</o>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+<q>Bravo, irritado, frustrado</q> 0 1 2 3 4
+<q>Ansioso, nervoso</q> 0 1 2 3 4
+<q>Deprimido, triste</q> 0 1 2 3 4
+<q>Dificuldade de concentragao</q> 0 1 2 3 4
+<q>Apetite aumentado, faminto, ganho de peso</q> 0 1 2 3 4
+<q>Ins6nia, disturbios de sono, acordando no meio da noite</q> 0 1 2 3 4
+<q>Agitado</q> 0 1 Zz 3 4
+<q>Impaciente</q> : 0 1 2 3 4
+<q>Constipado (prisao de ventre)</q> 0 1 2 3 4
+<q>Tontura</q> 0 1 2 3 4
+<q>Tosse</q> : 0 1 2 3 4
+<q>Sonhos ou pesadelos</q> 0 1 2 3 4
+<q>Nausea</q> 0 1 2 3 4
+
+0 1 2 3 4
+
+ 
+
+<q>Garganta dolorida</q>
+
+ 
+
+<q>Batimento cardiaco bpm</q>
+<q>Peso kg</q>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+

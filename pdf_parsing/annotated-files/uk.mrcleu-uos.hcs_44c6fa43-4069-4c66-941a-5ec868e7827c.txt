@@ -1,0 +1,68 @@
+
+HERTFORDSHIRE 31-39 STUDY 
+
+BLOOD PRESSURE MEASUREMENTS 1 
+
+ 
+
+NAME     Serial No    /     
+
+ 
+
+<q>Room temperature</q> __________ 
+
+<q>Arm circumference</q>________________cm 
+
+<q>Cuff size</q>   1.<o>Adult</o>       2.<o>Large adult</o> 
+
+<q>On antihypertensive medication</q>   Yes/ No        <q>Medication taken this am?</q>    Yes / No 
+
+<q>Arm used</q>   <o>Left</o> / <o>right</o> 
+
+ 
+
+Sitting 1              
+
+<q>Systolic BP</q>              
+
+              
+
+<q>Diastolic BP</q>              
+
+              
+
+<q>Pulse</q>              
+
+              
+
+Sitting 2              
+
+<q>Systolic BP</q>              
+
+              
+
+<q>Diastolic BP</q>              
+
+              
+
+<q>Pulse</q>              
+
+              
+
+Sitting 3              
+
+<q>Systolic BP</q>              
+
+              
+
+<q>Diastolic BP</q>              
+
+              
+
+<q>Pulse</q>              
+
+ 
+
+Observer _______________________________________________ 
+
+

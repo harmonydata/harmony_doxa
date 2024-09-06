@@ -1,0 +1,61 @@
+
+ 1 
+
+QUESTIONÁRIO DE HUMOR E SENTIMENTOS (MFQ Short) 
+[LEIA] Este questionário é sobre como você pode estar se sentindo ou agindo recentemente. 
+ 
+Para cada pergunta, por favor diga como você esteve se sentindo ou agindo nas últimas duas semanas. 
+ 
+Se a frase não for verdadeira sobre você, diga NÃO É VERDADE. 
+Se a frase for verdadeira apenas às vezes, diga ÀS VEZES. 
+Se a frase for verdadeira sobre você na maior parte do tempo, diga VERDADE. 
+ 
+[PSICO] Pontue o MFQ da seguinte forma: 
+ 
+NÃO É VERDADE = 0 
+ÀS VEZES = 1 
+VERDADE = 2 
+
+ 
+ 
+
+Para preencher, por favor use “X” para cada afirmação? 
+<o>NAÕ É 
+
+VERDADE</o> <o>ÀS VEZES</o> <o>VERDADE</o> 
+
+MFQ1 <q>Eu me senti muito triste ou infeliz.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ2 <q>Eu não consegui me divertir com absolutamente nada.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ3 <q>Eu me senti tão cansado(a) que só ficava sentado(a) sem 
+fazer nada.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ4 <q>Eu estive muito agitado(a).</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ5 <q>Eu senti que eu não valia mais nada.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ6 <q>Eu chorei muito.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ7 <q>Eu achei difícil raciocinar ou me concentrar.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ8 <q>Eu me odiei.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ9 <q>Eu me senti uma pessoa ruim.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ10 <q>Eu me senti sozinho(a).</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ11 <q>Eu pensei que ninguém me amava de verdade.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ12 <q>Eu pensei que eu nunca seria tão bom(boa) quanto as outras 
+pessoas.</q> (  ) 0 (  ) 1 (  ) 2 
+
+MFQ13 <q>Eu fiz tudo errado.</q> (  ) 0 (  ) 1 (  ) 2 
+
+ 
+
+ 
+ 
+ 
+
+

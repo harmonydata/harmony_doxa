@@ -1,0 +1,2917 @@
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+      
+
+ 
+ 
+ 
+ 
+
+Variables in dataset bcs70pc_child10to16.sav 
+ 
+
+  
+
+1970 British Cohort Study (BCS70) 
+2004 Survey 
+
+ 
+ 
+
+Questionnaire for young people aged 10 – 16 years 
+ 
+ 
+
+Confidential 
+ 
+ 
+ 
+ 
+
+ 
+  HOW TO FILL IN THIS QUESTIONNAIRE 
+
+    
+
+     
+
+  Please answer the questions by:     
+    
+
+ 
+
+    Ticking a box - like this 
+    
+
+      
+    
+
+ 
+
+3     Or writing a number in a box - like this 
+    
+
+     
+      
+
+   
+
+ 
+   Sometimes you will find an instruction telling 
+
+  you which question to answer next - like this Yes
+      
+
+         
+      
+
+ 
+
+  Go to question 99 No
+      
+
+         
+
+   
+ 
+ 
+ 
+ 
+Serial number  +    check letter Cohort member’s first name   Child No.             Child’s age (years)
+ 
+ 
+
+ 
+
+6001 - 007 6008    6009 - 010  6022 - 023 
+
+Interviewer number   
+ 
+ 
+
+Barcode label Card 6011 - 01
+Batch  6013 - 01
+
+ 
+
+P2321 
+
+ 
+
+         
+
+      
+
+6018 - 021 Spare 6024 - 029
+
+
+
+Page 2 
+
+Page 2
+
+
+
+
+Page 3 
+
+First, some questions about what people of your age do with their spare time. 
+ 
+ 
+ 
+ <q>On a normal school day, how many hours do you spend 
+
+watching TV, including videos and DVDs?  Remember to 
+include time before and after school.</q> 
+
+    
+
+  Tick one box 
+   6030   
+
+    
+
+ 
+
+1
+  Q1 <o>None – I don’t watch TV</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Less than an hour</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>1 to 3 hours</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>4 to 6 hours</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>7 hours or more</o>
+
+    
+      
+
+ 
+ 
+ 
+  <q>On a normal school day, how many hours do you spend 
+
+playing computer games on your computer at home?</q> 
+    
+
+  Tick one box 
+   6031   
+
+    
+
+ 
+
+1
+  Q2 <o>Less than an hour</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>1 to 3 hours</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>4 to 6 hours</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>7 hours or more</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>None, I don’t play computer games at home</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I don’t have a computer that I can use at home</o> 
+
+    
+      
+
+ 
+
+1 
+
+2 
+
+
+
+Page 4 
+
+ 
+ <q>In the last month, how often have you read a book that 
+
+was not something you had to read for school?</q> 
+    
+
+  Tick one box 
+   6032   
+
+    
+
+ 
+
+1
+  Q3 <o>Every day or most days</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Two, three or four times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>Never</o>
+
+    
+      
+
+ 
+ 
+ 
+ 
+  How often do you go to any of the activities listed below?     
+            
+  Tick one box on each line 
+                    
+  
+
+<o>Every day</o> <o>Most days</o>
+<o>2 – 3 days 
+
+a week</o> 
+<o>1 day a 
+week</o> 
+
+<o>Less than 
+once a 
+week</o> 
+
+<o>Hardly 
+ever/never</o>
+
+   6033                 
+                  
+
+ 
+
+1 2 3 4
+
+  
+
+5 
+
+ 
+
+6
+ Q4a <q>Youth clubs</q> 
+
+                  
+                    
+
+   6034                 
+                  
+
+ 
+
+1 2 3 4
+
+  
+
+5 
+
+ 
+
+6
+ Q4b <q>Scouts / guides</q> 
+
+                  
+                    
+
+   6035                 
+                  
+
+ 
+
+1 2 3 4
+
+  
+
+5 
+
+ 
+
+6
+ Q4c 
+
+<q>Sports clubs / lessons 
+(outside of school time)</q> 
+
+                  
+                    
+
+   6036                 
+                  
+
+ 
+
+1 2 3 4
+
+  
+
+5 
+
+ 
+
+6
+ Q4d <q>Party / nightclub</q> 
+
+                  
+                    
+
+   6037                 
+                  
+
+ 
+
+1 2 3 4
+
+  
+
+5 
+
+ 
+
+6
+ Q4e <q>Other</q> 
+
+                  
+                    
+
+ 
+
+3 
+
+4 
+
+
+
+Page 5 
+
+ 
+ <q>When you have got free time, who do you usually spend it 
+
+with?</q> 
+ 
+
+Tick all the answers 
+                                                    
+
+that apply to you 
+   6038 - 043  
+
+    
+
+ 
+
+1
+  Q5a <o>Mum or dad</o>
+
+    
+      
+
+    
+
+ 
+
+2
+  Q5b <o>Brother(s) or sister(s)</o>
+
+    
+      
+
+    
+
+ 
+
+3
+  Q5c <o>A boyfriend or girlfriend or partner</o>
+
+    
+      
+
+    
+
+ 
+
+4
+  Q5d <o>One close friend</o>
+
+    
+      
+
+    
+
+ 
+
+5
+  Q5e <o>A group of friends – boys and girls</o>
+
+    
+      
+
+    
+
+ 
+
+6
+  Q5f <o>A group of friends the same sex as me</o>
+
+    
+      
+
+    
+
+ 
+
+7
+  Q5g <o>No one, I like to spend time on my own</o>
+
+    
+      
+
+ 
+ 
+ 
+ 
+  <q>How much pocket money or spending money do you 
+
+usually get each week? This includes any money 
+you get from your parents or from other relatives.  If 
+you do not usually get any money, write 0 in both 
+boxes.</q> 
+
+    
+
+   6044 – 045  6046 - 047   
+      
+
+ 
+
+  
+pounds and   pence Q6b Q6a I get 
+
+      
+        
+
+ 
+ 
+ 
+ 
+ 
+ <q>When you go out on your own, do your parents – mum or 
+
+dad – ask you where you are going?</q> 
+    
+
+  Tick one box 
+   6048   
+
+    
+
+ 
+
+1
+  Q7 <o>Always</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Nearly always</o> 
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Sometimes</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Hardly ever</o> 
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o> 
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I never go out on my own</o>
+
+    
+      
+
+ 
+
+5 
+
+6 
+
+7 
+
+
+
+Page 6 
+
+ 
+ <q>How often, if at all, do you help around the house?</q>     
+  Tick one box 
+   6049   
+
+    
+
+ 
+
+1
+  Q8 <o>Every day or most days</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Two, three or four times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>Never</o>
+
+    
+      
+
+ 
+ 
+ <q>How often do you talk to your mum about what you do at 
+
+school?</q> 
+    
+
+  Tick one box 
+   6050   
+
+    
+
+ 
+
+1
+  Q9 <o>Two or more times a week</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I don’t have a mum or I don’t see my mum very often</o>
+
+    
+      
+      
+
+    
+
+ 
+
+7
+    <o>I don’t go to school</o>
+
+    
+      
+
+ 
+ <q>How often do you talk to your mum about other things, 
+
+like friends, going out and so on?</q> 
+    
+
+  Tick one box 
+   6051   
+
+    
+
+ 
+
+1
+  Q10 <o>Two or more times a week</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I don’t have a mum or I don’t see my mum very often</o>
+
+    
+      
+
+Spare 6052 - 059 
+
+8 
+
+9 
+
+10 
+
+
+
+Page 7 
+
+ 
+ <q>How often do you talk to your dad about what you do at 
+
+school?</q> 
+    
+
+  Tick one box 
+   6060   
+
+    
+
+ 
+
+1
+  Q11 <o>Two or more times a week</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I don’t have a dad or I don’t see my dad very often</o>
+
+    
+      
+      
+      
+
+    
+
+ 
+
+7
+    <o>I don’t go to school</o>
+
+    
+      
+
+ 
+ <q>How often do you talk to your dad about other things, like 
+
+friends, going out and so on?</q> 
+    
+
+  Tick one box 
+   6061   
+
+    
+
+ 
+
+1
+  Q12 <o>Two or more times a week</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>About once a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Once or twice a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Less often than that</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>I don’t have a dad or I don’t see my dad very often</o>
+
+    
+      
+
+ 
+ <q>How do you feel about your teachers?  Read the sentences 
+
+below and choose the one that best describes you.</q> 
+    
+
+  Tick one box 
+   6062   
+
+    
+
+ 
+
+1
+  Q13 <o>I like all or nearly all of my teachers</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I like some of my teachers</o> 
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>I like one or two teachers</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>I don’t like any of my teachers</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+    
+
+ 
+
+6
+   <o>I don’t go to school</o>
+
+    
+      
+
+11 
+
+12 
+
+13 
+
+
+
+Page 8 
+
+ 
+ 
+ <q>How do you feel about the time you spend at school?  
+
+Read the sentences below and choose the one that best 
+describes you.</q> 
+
+    
+
+  Tick one box 
+   6063   
+
+    
+
+ 
+
+1
+  Q14 <o>I always or nearly always enjoy school</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I sometimes enjoy school</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>I don’t enjoy school very often</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>I never enjoy school</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+    
+
+ 
+
+6
+   <o>I don’t go to school</o>
+
+    
+      
+
+ 
+ 
+ 
+ 
+ <q>How important is it to you to get good marks in your 
+
+schoolwork, tests or exams?</q> 
+ 
+
+    
+
+  Tick one box 
+   6064   
+
+    
+
+ 
+
+1
+  Q15 <o>Not at all important</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Not very important</o> 
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Fairly important</o>
+
+    
+      
+
+    
+
+ 
+
+4
+    <o>Very important</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+    
+
+ 
+
+6
+   <o>I don’t go to school</o>
+
+    
+      
+
+ 
+
+14 
+
+15 
+
+
+
+Page 9 
+
+ 
+ <q>In the last year, how often have you skipped or bunked off 
+
+school?</q> 
+ 
+
+    
+
+  Tick one box 
+   6065   
+
+    
+
+ 
+
+1
+  Q16 <o>Never</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Once or twice</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Three or four times</o>
+
+    
+      
+
+    
+
+ 
+
+4
+    <o>Five times or more</o> 
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+    
+
+ 
+
+6
+   <o>I don’t go to school</o>
+
+    
+      
+
+ 
+ 
+ 
+ 
+ <q>What do you want to do when you are 16 and can leave 
+
+school?</q> 
+ 
+
+    
+
+  Tick one box 
+   6066   
+
+    
+
+ 
+
+1
+  Q17  <o>Get a job</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Carry on studying</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Get a job and study</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Do something else</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+    
+
+ 
+
+6
+   <o>I don’t go to school</o>
+
+    
+      
+
+ 
+
+16 
+
+17 
+
+
+
+Page 10 
+
+ 
+ <q>How likely do you think it is that you will go to university 
+
+or college and study for a degree?</q> 
+ 
+
+    
+
+  Tick one box 
+   6067   
+
+    
+
+ 
+
+1
+  Q18 <o>Very likely</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Fairly likely</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Not very likely</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Not at all likely</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Don’t know</o>
+
+    
+      
+      
+
+Spare 6068 - 075 
+
+ 
+ 
+ 
+Now we have some questions about you and how you feel about yourself.  
+ 
+Each question describes two types of young people.  For each question, we want you to choose which 
+type of young person is most like you. 
+ 
+When you have decided which of the two types of young people is most like you, tick the box that says 
+how true that description is for you: is it really true or sort of true for you? 
+ 
+For example, if you really don’t like any sports then you should tick as shown below – you don’t like 
+sport and it is really true for you. 
+ 
+        
+
+ 
+ 
+These questions are taken from “The Perceived Competence Scale for Children”, devised 
+by Susan Harter. For further details refer to Child Development, Vol. 53, No. 1. (Feb, 
+1982), pp. 87-97. Also see ‘BCS70pc_10to16HarterQs.doc’ on the CLS website (maybe 
+put link here). 
+ 
+Which type of young person is most like you? 
+ 
+
+                  
+
+  
+<qSome young people like sport OR Some young people don’t like sport 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+ Really true 
+ For me 
+
+Sort of true  
+for me  
+
+Sort of true 
+for me 
+
+Really true 
+for me  
+
+    
+ 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+        
+
+ 
+If you are not sure what to do, please ask the interviewer to show you. 
+ 
+Start with question 19 on the next page and tick one box for each question. 
+
+18 
+
+
+
+Page 11 
+
+Which type of young person is most like you? 
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people never worry   
+ about whether they can do the school  
+ work given to them</q> 
+
+OR <q>Some young people worry about
+whether they can do the school work 
+
+given to them</q>
+ 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q19 <o>Really true 
+ For me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6076 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people are often unhappy 
+ with themselves</q> 
+
+OR <q>Some young people are usually pleased 
+with themselves</q>
+
+ 
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q20 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6077 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people feel they are as  
+ clever as others their age</q> 
+ 
+
+OR <q>Some young people feel they are not as 
+clever as others their age</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q21 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6078 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+
+19 
+
+20 
+
+21 
+
+
+
+Page 12 
+
+Which type of young person is most like you? 
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people don’t like the way 
+ they are leading their lives</q> 
+
+OR <q>Some young people like the way they 
+are leading their lives</q>
+
+ 
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q22 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6079 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people are slow to finish  
+ their school work</q> 
+
+OR <q>Some young people do their school work 
+quickly</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q23 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6080 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people are usually happy  
+ with themselves</q> 
+ 
+
+OR <q>Some young people are often not happy
+with themselves</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q24 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6081 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+
+22 
+
+23 
+
+24 
+
+
+
+Page 13 
+
+Which type of young person is most like you? 
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people often forget what 
+ they learn</q> 
+
+OR <q>Some young people usually remember
+what they learn easily</q>
+
+ 
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q25 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6082 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people like the kind of  
+ person they are most of the time</q> 
+
+OR <q>Some young people often wish they were 
+like someone else</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q26 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6083 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people do very well at   
+ their school work</q> 
+
+OR <q>Some young people don’t do very well
+at their school work</q>
+
+ 
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q27 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6084 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+
+25 
+
+26 
+
+27 
+
+
+
+Page 14 
+
+Which type of young person is most like you? 
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people are very happy   
+ with the way they are</q> 
+
+OR <q>Some young people wish they were 
+different from the way they are</q>
+
+ 
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q28 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6085 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people have trouble   
+ working out the right answers in   
+ school</q> 
+
+OR <q>Some young people can almost always 
+work out the right answers</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q29 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6086 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+
+ 
+ 
+ 
+        
+
+ 
+ 
+ 
+
+                  
+
+   <q>Some young people aren’t very   
+ happy with the way they do most   
+ things</q> 
+
+OR <q>Some young people think the way they 
+do most things is fine</q> 
+
+                 
+
+                  
+        Tick one box        
+
+                  
+
+Q30 <o>Really true 
+ for me</o> 
+
+<o>Sort of true  
+for me</o>  
+
+<o>Sort of true 
+for me</o> 
+
+<o>Really true 
+for me</o>  
+
+    
+6087 
+
+             
+
+ 
+
+1 
+
+ 
+
+2 
+
+    
+3 
+
+  
+
+4
+ 
+
+ 
+
+    
+
+ 
+
+   
+ 
+ 
+
+      
+
+                  
+Spare 6088 - 6095 
+
+ 
+
+28 
+
+29 
+
+30 
+
+
+
+Page 15 
+
+ 
+ <q>This question is about smoking.  Read the following 
+
+sentences carefully and choose the one that best describes 
+you.</q> 
+ 
+
+    
+
+  Tick one box 
+   6096   
+
+    
+
+ 
+
+1
+  Q31 <o>I have never smoked cigarettes</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I have smoked cigarettes once or twice only</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>I used to smoke cigarettes, but I don’t now</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   
+
+<o>I sometimes smoke cigarettes, 
+but I don’t smoke every week</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>I smoke cigarettes regularly, once a week or more</o>
+
+    
+      
+
+ 
+ 
+ <q>This question is about drinking alcohol. Read the following 
+
+sentences carefully and choose the one that best describes 
+you.  Please include whole drinks, not just a sip.</q> 
+ 
+
+    
+
+  Tick one box 
+   6097   
+
+    
+
+ 
+
+1
+  Q32 <o>I have never drunk alcohol</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I have drunk alcohol once or twice only</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>I used to drink alcohol but I don’t now</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   
+
+<o>I sometimes drink alcohol, 
+but I don’t drink alcohol every week</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>I drink alcohol regularly, once a week or more</o>
+
+    
+      
+
+ 
+ 
+ <q>This question is about cannabis – this is also called lots of 
+
+other things, for example marijuana, dope, hash, spliff, 
+skunk or weed. Read the following sentences carefully and 
+choose the one that best describes you.</q> 
+
+    
+
+  Tick one box 
+   6098   
+
+    
+
+ 
+
+1
+  Q33 <o>I have never smoked cannabis</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I  have smoked cannabis once or twice only</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>I used to smoke cannabis, but I don’t now</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   
+
+<o>I sometimes smoke cannabis, but I don’t  smoke every 
+week</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>I smoke cannabis regularly, once a week or more</o>
+
+    
+
+ 
+ 
+
+31 
+
+32 
+
+33 
+
+
+
+Page 16 
+
+ <q>This question is about inhaling or sniffing glue, gas, 
+aerosols or solvents. Read the following sentences 
+carefully and choose the one that best describes you.</q> 
+
+    
+
+  Tick one box 
+   6099   
+
+    
+
+ 
+
+1
+  Q34 <o>I have never  sniffed glue, gas, aerosols or solvents</o> 
+
+    
+      
+
+    
+
+ 
+
+2
+   
+
+<o>I  have sniffed glue, gas, aerosols or solvents once or 
+twice only</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   
+
+<o>I used to sniff glue, gas, aerosols or solvents, but I don’t 
+now</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   
+
+<o>I sometimes sniff glue, gas, aerosols or solvents, but I 
+don’t do it every  week</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   
+
+<o>I sniff glue, gas, aerosols or solvents regularly, once a 
+week or more</o>
+
+    
+
+ 
+ 
+ <q>Have you ever stolen something from a shop, supermarket 
+
+or department store?</q> 
+    
+
+   6100   
+    
+
+ 
+
+1
+  Q35 Yes
+
+    
+      
+
+    
+
+ 
+
+2
+   No
+
+    
+      
+
+ 
+ 
+ <q>Have you ever been picked on or bullied by another school 
+
+pupil?</q> 
+    
+
+   6101   
+    
+
+ 
+
+1
+  Q36 Yes
+
+    
+      
+
+    
+
+ 
+
+2
+   No
+
+    
+      
+
+ 
+ 
+ <q>Have you ever picked on or bullied another school pupil, 
+
+either by yourself or with someone else?</q> 
+    
+
+   6102   
+    
+
+ 
+
+1
+  Q37 Yes
+
+    
+      
+
+    
+
+ 
+
+2
+   No
+
+    
+      
+
+Spare 6103 - 6120 
+
+ 
+ 
+
+34 
+
+35 
+
+36 
+
+37 
+
+
+
+Page 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+Thank you very much for taking the time to answer our questions.  Please put your 
+
+questionnaire in the envelope provided. If the interviewer is still in your home, give the 
+envelope to them.  If not, please post it back as soon as possible.  All your answers will 
+
+remain confidential. Please call Freephone 0500 600 616 if you have any queries. 
+ 
+
+

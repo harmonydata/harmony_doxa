@@ -1,0 +1,2231 @@
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+   Variables In dataset: bcs70pc_6to16yr11mths.sav   
+
+1970 British Cohort Study (BCS70)  
+2004 Survey 
+
+  
+ 
+
+Questionnaire about children aged 6 – 16 years 
+ 
+
+Lilac questionnaire 
+Confidential 
+
+ 
+ 
+ 
+ 
+    We would like you to answer a few questions about ___________________’s development and behaviour. 
+ 
+ 
+ 
+ 
+
+ 
+  HOW TO FILL IN THIS QUESTIONNAIRE 
+
+    
+
+     
+
+  Please answer the questions by:     
+    
+
+ 
+
+  
+   Ticking a box - like this 
+
+    
+      
+
+     
+    
+
+ 
+
+3     Or writing a number in a box - like this 
+    
+
+     
+
+     
+      
+
+  
+
+ 
+   Sometimes you will find an instruction telling 
+
+  you which question to answer next - like this Yes
+      
+
+         
+
+     
+      
+
+ 
+
+  Go to question 99  No
+      
+
+         
+
+   
+ 
+ 
+ 
+Serial number  +    check letter Cohort member’s first name   Child No.             Child’s age (years) 
+ 
+ 
+5001 - 007 5008    5009 - 010  5022 - 023 
+
+Interviewer number   
+ 
+ 
+
+Barcode label Card 5011 - 012 
+Batch  5013 - 017 
+
+ 
+
+ 
+
+P2321 
+
+ 
+
+         
+
+5018 - 021 Spare 5024 - 029
+
+      
+
+
+
+Page 2 
+
+ 
+ 
+
+ 
+  Please can you think back to how your child has been feeling over the past 6 
+months.            
+  For each of the following statements, please say whether it is not true of your  
+  child, somewhat true, or certainly true. 
+
+   
+Tick one box on each line 
+
+          
+  <o>Not  
+
+true</o> 
+<o>Somewhat 
+
+true</o> 
+<o>Certainly 
+
+true</o> 
+   
+
+5030 
+      
+
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1a <q>Considerate of other people’s feelings</q> 
+
+         
+
+   
+5031 
+
+      
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1b <q>Restless, overactive and not able to sit still for long</q> 
+
+         
+
+   
+5032 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1c <q>Often complaining of headaches, stomach-aches or sickness</q>
+
+ 
+         
+
+   
+5033 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1d <q>Sharing readily with other children (treats, toys, pencils  
+
+etc.)</q> 
+         
+
+   
+5034 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1e <q>Has often had temper tantrums or hot tempers</q> 
+
+ 
+         
+
+   
+5035 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1f <q>Rather solitary, tending to play alone</q> 
+
+ 
+         
+
+   
+5036 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1g <q>Generally obedient, usually doing what adults requested</q> 
+
+ 
+         
+
+   
+5037 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1h <q>Many worries, often seeming worried</q> 
+
+ 
+         
+
+   
+5038 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1i <q>Helpful if someone was hurt, upset or feeling ill</q> 
+
+ 
+         
+
+   
+5039 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1j <q>Constantly fidgeting and squirming</q> 
+
+         
+
+   
+5040 
+
+      
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1k <q>Has had at least one good friend</q> 
+
+ 
+         
+
+   
+5041 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1l <q>Has often had fights with other children or bullies them</q> 
+
+ 
+         
+
+   
+5042 
+
+  
+ 
+
+   
+         
+
+ 
+
+1
+
+  
+
+2 3
+ Q1m <q>Often unhappy, downhearted or tearful</q> 
+
+ 
+         
+
+Spare 5043 - 049 
+
+1 
+
+
+
+Page 3 
+
+ 
+   Continued … 
+
+   
+Tick one box on each line 
+
+ 
+ 
+
+ 
+  
+
+<o>Not  
+true</o> 
+
+<o>Somewhat 
+true</o> 
+
+<o>Certainly 
+true</o> 
+
+   5050   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1n <q>Generally liked by other children</q> 
+
+ 
+         
+
+   5051       
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1o <q>Easily distracted, concentration wandered</q> 
+
+         
+
+   5052   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1p <q>Nervous or clingy in new situations, easily loses confidence</q> 
+
+         
+
+   5053   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1q <q>Kind to younger children</q> 
+
+         
+
+   5054   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1r <q>Often lied or cheated</q> 
+
+         
+
+   5055   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1s <q>Picked on or bullied by other children</q> 
+
+         
+
+   5056   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1t <q>Has often volunteered to help others (parents, teachers, other 
+
+children)</q> 
+         
+
+   
+5057 
+
+      
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1u <q>Able to think things out before acting</q> 
+
+         
+
+   5058   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1v <q>Stole from home, school or elsewhere</q> 
+
+         
+
+   5059   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1w <q>Getting on better with adults than with other children</q> 
+
+         
+
+   5060   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1x <q>Many fears, easily scared</q> 
+
+         
+
+   5061   
+ 
+
+   
+         
+
+ 
+
+1 
+
+  
+
+2 3
+ Q1y <q>Has seen tasks through to the end, good attention span</q> 
+
+         
+
+Spare 5062 - 5069 
+
+1 
+
+
+
+Page 4 
+
+ 
+
+ 
+
+ 
+
+  <q>Overall, do you think that your child has difficulties in one  
+  or more of the following areas: emotions, concentration,  
+  behaviour or being able to get on with other people?</q>  
+
+  Tick one box 
+   5070   
+
+    
+
+ 
+
+1
+  Q2 <o>Yes – minor difficulties</o>
+
+    
+      
+
+    
+
+ 
+
+2
+ Please go to 
+
+ question 3  <o>Yes – definite difficulties</o>
+    
+
+      
+    
+
+ 
+
+3
+   <o>Yes – severe difficulties</o>
+
+    
+      
+
+    
+
+ 
+
+4
+
+ Please go to 
+ question 7  <o>No</o>
+
+    
+      
+
+ 
+ 
+
+   <q>How long have these difficulties been present?</q>  
+    Tick one box 
+   5071   
+
+    
+
+ 
+
+1
+  Q3 <o>Less than a  month</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>1 – 5 months</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>6 – 12 months</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Over a year</o>
+
+    
+      
+
+ 
+ 
+
+   <q>Do these difficulties upset or distress your child?</q>  
+  Tick one box 
+   5072   
+
+    
+
+ 
+
+1
+  Q4 <o>Not at all</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Only a little</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Quite a lot</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>A great deal</o>
+
+    
+      
+
+ 
+
+2 
+
+3 
+
+4 
+
+
+
+Page 5 
+
+ 
+
+   <q>Do these difficulties interfere with your child’s  
+  everyday life in the following areas …</q>  
+
+   
+  Tick one box on each line 
+
+              
+  
+
+<o>Not at all</o>
+<o>Only a 
+little</o> 
+
+<o>Quite a 
+lot</o> 
+
+<o>A great 
+deal</o> 
+
+   5073           
+            
+
+ 
+
+1 2 
+
+  
+
+3 4
+ Q5a <q>… home life?</q>
+
+            
+              
+
+  5074           
+            
+
+ 
+
+1 2 
+
+  
+
+3 4
+ Q5b <q>… friendship?</q>
+
+            
+              
+
+  5075           
+            
+
+ 
+
+1 2 
+
+  
+
+3 4
+ Q5c <q>… classroom learning?</q>
+
+(if your child is at school)
+            
+
+              
+
+  5076           
+            
+
+ 
+
+1 2 
+
+  
+
+3 4
+ Q5d <q>… leisure activities?</q>
+
+            
+              
+
+ 
+ 
+ 
+
+ 
+ 
+
+  <q>Do these difficulties put a burden on you or the family as 
+  a whole?</q> 
+  
+
+  Tick one box 
+   5077   
+
+    
+
+ 
+
+1
+  Q6 <o>Not at all</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Only a little</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Quite a lot</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>A great deal</o>
+
+    
+      
+
+Spare 5078 - 079 
+
+5 
+
+6 
+
+
+
+Page 6 
+
+ 
+
+   This section is about your relationship with your child. Please think about how far 
+  each of the statements currently applies to your relationship with your child. 
+
+   
+Tick one box on each line 
+
+                 
+  <o>Definitely 
+
+does not 
+apply</o> 
+
+<o>Not  
+really</o> 
+
+<o>Neutral, 
+not sure</o> 
+
+<o>Applies 
+sometimes</o> 
+
+<o>Definitely 
+applies</o> 
+
+   
+5080 
+
+             
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7a <q>I share an affectionate, warm 
+
+relationship with my child</q> 
+               
+
+   
+5081 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7b <q>My child will seek comfort from me</q>
+
+               
+
+   
+5082 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7c <q>My child is uncomfortable with 
+
+physical affection or touch from 
+me</q> 
+
+    
+
+ 
+
+          
+
+   
+5083 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7d <q>My child values his or her 
+
+relationship with me</q> 
+               
+
+   
+5084 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7e <q>My child spontaneously shares 
+
+information about him or herself</q> 
+               
+
+   
+5085 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7f <q>My child easily becomes angry at 
+
+me</q> 
+               
+
+   
+5086 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7g <q>It is easy to be in tune with what 
+
+my child is feeling</q> 
+               
+
+   
+5087 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7h <q>My child remains angry or is 
+
+resistant after being disciplined</q> 
+               
+
+   
+5088 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7i <q>Dealing with my child drains my 
+
+energy</q> 
+               
+
+   5089              
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7j <q>When my child wakes in a bad 
+
+mood, I know we’re in for a long 
+and difficult day</q> 
+
+    
+
+ 
+
+          
+
+   
+5090 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7k <q>My child’s feelings towards me can 
+
+be unpredictable or can change 
+suddenly</q> 
+
+    
+
+ 
+
+          
+
+   
+5091 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7l <q>My child is sneaky or manipulative 
+
+with me</q> 
+               
+
+   
+5092 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2 3
+
+ 
+
+4 
+
+  
+
+5
+ Q7m <q>My child shares his or her feelings 
+
+and experiences with me</q> 
+               
+
+Spare 5093 - 099 
+
+ 
+ 
+ 
+ 
+
+7 
+
+
+
+Page 7 
+
+   Sometimes children are pretty well behaved and other times they are not.  We are  
+  interested in what parents do when their children misbehave.  Please think about  
+  how your child has been in the last three months. 
+
+  
+   
+
+Tick one box on each line 
+ 
+
+  
+
+<o>Never</o> <o>Rarely</o> 
+
+<o>Sometimes
+(about 
+once a 
+month)</o> 
+
+<o>Often 
+(about 
+once a 
+week)</o> <o>Daily</o> 
+
+   5100              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8a <q>How often have you ignored your 
+
+child?</q> 
+               
+
+                 
+
+   5101              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8b <q>How often have you shouted at your 
+
+child?</q> 
+               
+
+                 
+
+  5102              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8c <q>How often have you sent your child 
+
+to their bedroom, etc.?</q> 
+               
+
+                 
+
+   5103              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8d <q>How often have you had to take away 
+
+TV privileges or other treats?</q> 
+               
+
+                 
+
+   5104              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8e <q>How often have you told your child 
+
+off?</q> 
+               
+
+                 
+
+   5105              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8f <q>How often have you had to bribe your 
+
+child (e.g. with sweets, or a treat)?</q> 
+               
+
+                 
+
+  5106              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8g <q>How often have you taken away your 
+
+child’s pocket money or allowance?</q> 
+               
+
+                 
+
+   5107              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ 
+
+Q8h 
+
+<q>How often have you given your child 
+a household task to do (e.g. clean 
+their room or the bathroom, tidy the 
+garden, mow the lawn)?</q> 
+
+               
+
+                 
+
+   5108              
+               
+
+ 
+
+1 2 3
+
+  
+
+4 
+
+ 
+
+5
+ Q8i <q>How often have you had to smack 
+
+your child?</q> 
+               
+
+                 
+
+ 
+ 
+ 
+
+   <q>Since starting school, has your child ever been off school for 
+  a continuous period of 1 month or more, other than for  
+  school holidays?</q> 
+
+ 
+
+    
+
+  Tick one box  
+
+   5109                                                                                                      5110 - 111 
+    
+
+ 
+
+1 
+ <q>How many times has this happened?</q> Q9b Times   Go to question 10Q9a Yes 
+
+       
+      
+
+     
+
+ 
+
+2 
+ Go to question 11  No 
+
+    
+      
+
+ 
+
+8 
+
+9 
+
+
+
+Page 8 
+
+ 
+ 
+ 
+
+    <q>Thinking about the (last) time your child was off school
+   for 1 month or more, what was the reason for this   
+   absence?</q> 
+
+ 
+ 
+ 
+
+   
+  Tick one box 
+   5112   
+
+    
+
+ 
+
+1
+  Q10 <o>Ill health</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Needed to help out at home or other family reason</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Some other reason</o>
+
+    
+      
+
+ 
+ 
+
+   <q>Has your child ever been temporarily suspended or    
+  temporarily excluded from school for at least one day?</q> 
+
+ 
+
+   
+Tick one box 
+
+ 
+
+   5113                                                                                                        5114 - 115 
+    
+
+ 
+
+1 
+ <q>How many times has this happened?</q> Q11b  times   Q11a Yes 
+
+       
+      
+
+     
+
+ 
+
+2 
+   No 
+
+    
+      
+
+ 
+ 
+ 
+
+   <q>Has your child ever been expelled or permanently excluded 
+  from school?</q> 
+
+ 
+
+   
+Tick one box 
+
+ 
+
+   5116                                                                                                          5117 - 118 
+    
+
+ 
+
+1 
+ <q>How many times has this happened?</q> Q12b  times   Q12a Yes 
+
+       
+      
+
+     
+
+ 
+
+2 
+   No 
+
+    
+      
+
+ 
+ 
+ 
+
+   <q>Have the police ever got in contact with you (or the child’s 
+  other parent) about your child because he or she has 
+done  
+  something against the law?</q> 
+
+ 
+
+   
+
+   
+Tick one box 
+
+ 
+
+   5119                                                                                                         5120 - 121 
+    
+
+ 
+
+1 
+ <q>How many times has this happened?</q> Q13b  times   Q13a Yes 
+
+       
+      
+
+     
+
+ 
+
+2 
+   No 
+
+    
+      
+
+Spare 5122 - 129 
+
+10 
+
+11 
+
+12 
+
+13 
+
+
+
+Page 9 
+
+ 
+        
+
+ 
+   5130   
+
+    
+
+ 
+
+1
+ Please go to question 15 
+
+   <q>If your child is under the age of 10, tick 
+  this box</q> 
+
+    
+      
+
+      
+    
+
+ 
+
+2
+ Please go to question 16 Q14 
+
+ 
+
+  <q>If your child is 10 or older, tick this box</q> 
+    
+
+      
+
+ 
+        
+
+ 
+ 
+ 
+ 
+ 
+
+   <q>Approximately how often do you get the chance to read  
+  stories with or to your child?</q>  
+
+  Tick one box 
+   5131   
+
+    
+
+ 
+
+1
+  Q15 <o>Every day</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Several times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Several times a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Several times a year</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+ 
+ 
+ 
+
+The following question is about children younger than 10 
+
+14 
+
+15 
+
+
+
+Page 10 
+
+ 
+ 
+ 
+ 
+
+   <q>Approximately how many books does your child have  
+  (including books shared with brothers or sisters)?</q>  
+
+  Tick one box 
+   5132   
+
+    
+
+ 
+
+1
+  Q16 <o>No books</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>1 – 2 books</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>3 – 9 books</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>10 – 19 books</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>20 – 49 books</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>50 plus</o>
+
+    
+      
+
+ 
+
+   <q>About how often would you say your child reads for    
+  enjoyment (not schoolwork)?</q>  
+
+  Tick one box 
+   5133   
+
+    
+
+ 
+
+1
+  Q17 <o>Every day</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Several times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Several times a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Several times a year</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+ 
+ 
+ 
+
+   <q>Does your child ever get any homework from school?</q>     
+  Tick one box 
+   5134   
+
+    
+
+ 
+
+1
+  Q18 <o>Yes, my child regularly gets homework from school</o>
+
+    
+      
+
+    
+
+ 
+
+2
+ Please go to 
+
+question 19  <o>Yes, my child sometimes gets homework from school</o>
+    
+
+      
+    
+
+ 
+
+3
+   <o>No homework is given by the school</o>
+
+    
+      
+
+    
+
+ 
+
+4
+ Thank you. Now go 
+
+the end of page 12.  <o>My child does not go to school</o>
+    
+
+      
+
+ 
+
+The following questions are for everyone to answer
+
+16 
+
+17 
+
+18 
+
+
+
+Page 11 
+
+ 
+
+   <q>Do you (or the child’s other parent) help your child with his 
+  or her homework, even if it’s only occasionally?</q>  
+
+  Tick one box 
+   5135   
+
+    
+
+ 
+
+1
+  Q19 <o>No one helps</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>I usually help</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Other parent usually helps</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Both parents help equally</o>
+
+    
+      
+
+ 
+
+   <q>Do you (or the child’s other parent) make sure that your  
+  child does his or her homework?</q>  
+
+  Tick one box 
+   5136   
+
+    
+
+ 
+
+1
+  Q20 <o>Always</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Sometimes</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Occasionally</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Never</o>
+
+    
+      
+
+ 
+ 
+ 
+
+   <q>Is there a computer at home your child can use to help  
+  with his or her homework?</q>  
+
+  Tick one box 
+   5137   
+
+    
+
+ 
+
+1
+  Q21 <o>Yes</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>No, there’s not a computer at home</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>No, there’s a computer at home but not for my child to use</o> 
+
+    
+      
+
+Spare 5138 - 150 
+
+ 
+ 
+ 
+Thank you very much for taking the time to answer our questions.  Please give the 
+questionnaire to the interviewer or post it back in the envelope provided. All your 
+answers will remain confidential. Please call Freephone 0500 600 616 if you have 
+
+any queries. 
+ 
+
+ 
+ 
+ 
+
+19 
+
+20 
+
+21 
+
+

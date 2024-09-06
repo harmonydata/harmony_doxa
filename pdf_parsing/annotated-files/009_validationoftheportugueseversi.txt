@@ -1,0 +1,209 @@
+
+188
+
+TEMPERAMENT INVENTORY 
+
+Final Set of Items fo r the TI
+
+(C) 1. (1) <q>I succeed when some people f a i l ,  not because my plans 
+are better, but because I keep pushing when they get 
+discouraged and quit.</q>
+
+(P) 2. (2) <q>My calm, tranquil nature usually keeps me from getting 
+upset in the face of external turmoil or stress.</q>
+
+(S) 3. (7) <q>I am not able to converse easily with other people, 
+but I'm pretty good a t sizing them up and analyzing them</q>
+
+(C) 4. (8) <q>I frequently find myself arriv ing la te  for engagements 
+and forgetting resolutions.</q>
+
+(C) 5. (11) <q>I am self-motivated. I f  something is there to be done, 
+I can't be satisfied until I've  completed i t .</q>
+
+(M) 6. (12) <q>I usually prefer so lita ry  a c tiv it ie s , such as reading, 
+to a c tiv itie s  which involve other people.</q>
+
+(M) 7. (13) <q>I go over and over decisions a fte r I make them, asking 
+myself i f  I chose right.</q>
+
+(M) 8. (15) <q>I tend to remember when people have insulted me and to 
+think about i t  every now and then.</q>
+
+(S) 9. (16) <q>I rea lly  enjoy myself, and my attitude seems to be 
+contagious to those around me.</q>
+
+(M) 10. (17) <q>In my introspection I tend to re live  over and over 
+again the events of the past.</q>
+
+(S) 11. (20) <q>I like  to be where there is something going on a ll 
+the time.</q>
+
+(M) 12. (21) <q>I t  makes me gloomy when other people ignore or avoid me.</q>
+
+(M) 13. (24) <q>I have a tendency to hold grudges against people who 
+are rude to me.</q>
+
+(M) 14. (25) <q>I tend to be emotional. Things arouse or upset me 
+pretty easily.</q>
+
+(P) 15. (26) <q>I t  usually takes something drastic to get me excited 
+or upset.</q>
+
+(P) 16. (27) <q>I have a rather even-tempered emotional response to
+things.</q>
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+
+
+(M) 17. (28 <q>Sometimes when I see two people laughing, I wonder i f  
+they're laughing at me.</q>
+
+(py 18. (29 <q>I have a pretty even disposition, not too many ups and 
+downs.</q>
+
+<p) 19. (30 <q>My friends would describe me as relaxed and even-tempered</q>
+
+(M) 20. (31 <q>I should have more self-confidence: I tend to under­
+estimate my a b ilit ie s .</q>
+
+(C) 21. (32 <q>I f  a job needs to be done I do i t  regardless of how 
+unpleasant i t  is .</q>
+
+(M) 22. (33 <q>I tend to re fle c t a good deal on my dreams, hopes, and 
+aspirations.</q>
+
+(M) 23. (37 <q>I have a tendency to think gloomy, pessimistic thoughts.</q>
+
+(C) 24. (38 <q>I often have trouble finishing things that I've  started.</q>
+
+(S) 25. (39 <q>In social situations, I am ta lka tive  and spontaneous.</q>
+
+(S) 26. (40 <q>I am usually uncomfortable in a group of people.</q>
+
+(S) 27. (41 <q>I enjoy people and just like  to be around them.</q>
+
+(M) 28. (43 <q>I have a somewhat defensive, touchy nature.</q>
+
+(C) 29. (45 <q>Adversity just stimulates me to push a l i t t l e  harder.</q>
+
+(M) 30. (46 <q>I am somewhat serious and very deeply emotional.</q>
+
+(S) 31. (48 <q>I have a warm s p ir it .  I am liv e ly  and enjoy liv in g .</q>
+
+(P) 32. (49 <q>By nature I seem to be a pretty good "peacemaker."</q>
+
+(P) 33. (50 <q>My friends consider me to be a tactfu l person.</q>
+
+(P) 34. (51 <q>I tend to be pretty tolerant of other people.</q>
+
+(C) 35. (53 <q>When things go wrong I knuckle down and try  harder.</q>
+
+(C) 36. (55 <q>I am calm and relaxed, and rather unemotional.</q>
+
+(P) 37. (56 <q>I tend to get my feelings hurt fa ir ly  eas ily .</q>
+
+(S) 38. (57 <q>I see myself as a cheerful, sociable person.</q>
+
+(S) 39. (59 <q>Socia lly , I am a pretty outgoing person.</q>
+
+(C) 40. (60 <q>A strong w ill is one of my best assets.</q>
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+
+
+190
+
+(S) 41. (61) <q>I usually have a good time at parties.</q>
+
+(S) 42. (62) <q>I usually make new friends eas ily .</q>
+
+(M) 43. (64) <q>I need to learn to worry less.</q>
+
+(P) 44. (65) <q>I tend to move and speak slowly and calmly.</q>
+
+(M) 45. (66) <q>I have a tendency to brood about things.</q>
+
+(P) 46. (67) <q>I tend to be a pretty easygoing person.</q>
+
+(S) 47. (71) <q>I usually get a lo t of fun out of l i f e .</q>
+
+(S) 48. (72) <q>My friends would call me an extrovert.</q>
+
+(M) 49. (73) <q>I tend to analyze myself frequently.</q>
+
+(P) 50. (75) <q>I don't get ru ffled  eas ily .</q>
+
+(C) 51. (76) <q>I tend to be a hard, persistent worker.</q>
+
+(M) 52. (77) <q>I tend to resent people who oppose me.</q>
+
+(S) 53. (79) <q>I don't make friends very easily .</q>
+
+(C) 54. (80) <q>I should probably be less lazy.</q>
+
+(P) 55. (84) <q>1 prefer occupations that do not require much
+from me.</q>
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+
+
+B I B L I O G R A P H Y
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+
+
+BIBLIOGRAPHY
+
+Adler, A. (1927). Understanding human nature. New York: Garden
+City Publishing.
+
+All port, G. W. (1937). Personality: A psychosocial in terpretation .
+New York: Holt.
+
+American Psychological Association. (1981). Ethical principles 
+of psychologists. Washington, DC: Author.
+
+Bayley, N. (1969). Ba.yley scales of infant development. New York: 
+Psychological Corporation.
+
+Berger, L. (1968). Psychological testings: Treating and research 
+implications. Journal of Consulting and Chemical Psychology, 
+32, 176-181.
+
+Bersoff, D. N. (1973). S ilk  purse in a sow's ear: The decline
+of psychological testing and a suggestion for its  redemption. 
+American Psychologist, 28, 822-899.
+
+B1itchington, Peter W., & Cruise, Robert J. (1979). Understanding 
+your temperament: A self-analysis with a Christian view­
+point. Berrien Springs, MI: Andrews University Press.
+
+Brock, Arthur John. (1929). Greek medicine. New York: E. P. Dutton.
+
+Brown, S. R ., & Hendrick, C. (1971). Introversion, extroversion, 
+and social perception. British Journal of Social and 
+C lin ical Psychology, 10, 313-319.
+
+Buss, A ., Plomin, R ., & Willerman, L. (1973). The inheritance of 
+temperaments. Journal of Personality, 41, 513-524.
+
+Buss, Arnold H ., & Plomin, Robert. (1975). A temperament theory of 
+personality development. New York: John Wiley & Sons.
+
+Caldwell, B. (1978). Manual of the home scale fo r measuring the 
+environment. Unpublished manuscript.
+
+Campos, Barrett, Lamb, Goldsmith, & Stenberger. (1983). Handbook 
+of child psychology. Paul H. Mussen (E d .). New York:
+John Wiley a Sons.
+
+192
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+
+

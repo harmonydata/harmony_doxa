@@ -1,0 +1,153 @@
+
+Beck's Depression Inventory 
+This depression inventory can be self-scored. The scoring scale is at the end of the questionnaire. 
+1. 
+
+0  <o>I do not feel sad.</o> 
+1  <o>I feel sad</o> 
+2  <o>I am sad all the time and I can't snap out of it.</o> 
+3  <o>I am so sad and unhappy that I can't stand it.</o> 
+
+2. 
+0  <o>I am not particularly discouraged about the future.</o> 
+1  <o>I feel discouraged about the future.</o> 
+2  <o>I feel I have nothing to look forward to.</o> 
+3  <o>I feel the future is hopeless and that things cannot improve.</o> 
+
+3. 
+0 <o>I do not feel like a failure.</o> 
+1  <o>I feel I have failed more than the average person.</o> 
+2  <o>As I look back on my life, all I can see is a lot of failures.</o> 
+3  <o>I feel I am a complete failure as a person.</o> 
+
+4. 
+  0 <o>I get as much satisfaction out of things as I used to.</o> 
+            1  <o>I don't enjoy things the way I used to.</o> 
+            2  <o>I don't get real satisfaction out of anything anymore.</o> 
+            3  <o>I am dissatisfied or bored with everything.</o> 
+5. 
+           0  <o>I don't feel particularly guilty</o> 
+           1  <o>I feel guilty a good part of the time.</o> 
+           2  <o>I feel quite guilty most of the time.</o> 
+           3  <o>I feel guilty all of the time.</o> 
+6. 
+          0  <o>I don't feel I am being punished.</o> 
+          1  <o>I feel I may be punished.</o> 
+          2  <o>I expect to be punished.</o> 
+          3  <o>I feel I am being punished.</o> 
+7. 
+         0  <o>I don't feel disappointed in myself.</o> 
+         1  <o>I am disappointed in myself.</o> 
+         2  <o>I am disgusted with myself.</o> 
+         3  <o>I hate myself.</o> 
+8. 
+         0  <o>I don't feel I am any worse than anybody else.</o> 
+         1  <o>I am critical of myself for my weaknesses or mistakes.</o> 
+         2  <o>I blame myself all the time for my faults.</o> 
+         3  <o>I blame myself for everything bad that happens.</o> 
+9. 
+       0   <o>I don't have any thoughts of killing myself.</o> 
+       1   <o>I have thoughts of killing myself, but I would not carry them out.</o> 
+       2   <o>I would like to kill myself.</o>  
+       3  <o>I would kill myself if I had the chance.</o> 
+10. 
+       0   <o>I don't cry any more than usual.</o> 
+       1   <o>I cry more now than I used to.</o> 
+       2   <o>I cry all the time now.</o> 
+       3   <o>I used to be able to cry, but now I can't cry even though I want to.</o> 
+
+
+
+11. 
+       0   <o>I am no more irritated by things than I ever was.</o> 
+       1   <o>I am slightly more irritated now than usual.</o> 
+       2   <o>I am quite annoyed or irritated a good deal of the time.</o> 
+       3   <o>I feel irritated all the time.</o> 
+12. 
+        0   <o>I have not lost interest in other people.</o> 
+        1   <o>I am less interested in other people than I used to be.</o> 
+        2   <o>I have lost most of my interest in other people.</o> 
+        3   <o>I have lost all of my interest in other people.</o> 
+13. 
+        0   <o>I make decisions about as well as I ever could.</o> 
+        1   <o>I put off making decisions more than I used to.</o> 
+        2   <o>I have greater difficulty in making decisions more than I used to.</o> 
+        3   <o>I can't make decisions at all anymore.</o> 
+14. 
+        0   <o>I don't feel that I look any worse than I used to.</o> 
+        1   <o>I am worried that I am looking old or unattractive.</o> 
+        2   <o>I feel there are permanent changes in my appearance that make me look    
+                        unattractive</o>  
+        3   <o>I believe that I look ugly.</o> 
+15. 
+        0   <o>I can work about as well as before.</o> 
+        1   <o>It takes an extra effort to get started at doing something.</o> 
+        2   <o>I have to push myself very hard to do anything.</o> 
+        3   <o>I can't do any work at all.</o> 
+16. 
+        0   <o>I can sleep as well as usual.</o> 
+        1   <o>I don't sleep as well as I used to.</o> 
+        2   <o>I wake up 1-2 hours earlier than usual and find it hard to get back to sleep.</o> 
+        3   <o>I wake up several hours earlier than I used to and cannot get back to sleep.</o> 
+ 
+17. 
+       0   <o>I don't get more tired than usual.</o> 
+       1   <o>I get tired more easily than I used to.</o> 
+       2   <o>I get tired from doing almost anything.</o> 
+       3   <o>I am too tired to do anything.</o> 
+18. 
+       0   <o>My appetite is no worse than usual.</o> 
+       1  <o>My appetite is not as good as it used to be.</o> 
+       2   <o>My appetite is much worse now.</o> 
+       3   <o>I have no appetite at all anymore.</o> 
+19. 
+      0   <o>I haven't lost much weight, if any, lately.</o> 
+      1  <o>I have lost more than five pounds.</o> 
+      2   <o>I have lost more than ten pounds.</o> 
+      3   <o>I have lost more than fifteen pounds.</o> 
+ 
+ 
+ 
+ 
+
+
+
+20. 
+      0   <o>I am no more worried about my health than usual.</o> 
+      1   <o>I am worried about physical problems like aches, pains, upset stomach, or  
+             constipation.</o>  
+      2   <o>I am very worried about physical problems and it's hard to think of much else.</o> 
+      3   <o>I am so worried about my physical problems that I cannot think of anything else.</o>  
+21. 
+      0   <o>I have not noticed any recent change in my interest in sex.</o> 
+      1   <o>I am less interested in sex than I used to be.</o> 
+      2   <o>I have almost no interest in sex.</o> 
+      3   <o>I have lost interest in sex completely.</o> 
+
+INTERPRETING THE BECK DEPRESSION INVENTORY 
+
+Now that you have completed the questionnaire, add up the score for each of the twenty-one 
+questions by counting the number to the right of each question you marked. The highest possible 
+total for the whole test would be sixty-three. This would mean you circled number three on all 
+twenty-one questions. Since the lowest possible score for each question is zero, the lowest 
+possible score for the test would be zero. This would mean you circles zero on each question. 
+You can evaluate your depression according to the Table below. 
+
+Total Score____________________Levels of Depression 
+
+1-10____________________These ups and downs are considered normal  
+11-16___________________ Mild mood disturbance  
+17-20___________________Borderline clinical depression  
+21-30___________________Moderate depression  
+31-40___________________Severe depression  
+over 40__________________Extreme depression 
+
+ 
+
+helau
+Text Box
+http://www.med.navy.mil/sites/NMCP2/PatientServices/SleepClinicLab/Documents/Beck_Depression_Inventory.pdf
+
+
+
+

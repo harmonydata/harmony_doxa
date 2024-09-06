@@ -1,0 +1,268 @@
+
+RAND > RAND Health > Surveys > RAND Medical Outcomes Study > 36-Item Short Form Survey (SF-36) >
+
+36-Item Short Form Survey Instrument
+(SF-36)
+
+RAND 36-Item Health Survey 1.0 Questionnaire Items
+Choose one option for each questionnaire item.
+
+1. <q>In general, would you say your health is:</q>
+
+ 1 - <o>Excellent</o>
+
+ 2 - <o>Very good</o>
+
+ 3 - <o>Good</o>
+
+ 4 - <o>Fair</o>
+
+ 5 - <o>Poor</o>
+
+2. <q>Compared to one year ago, how would you rate your health in general now?</q>
+
+ 1 - <o>Much better now than one year ago</o>
+
+ 2 - <o>Somewhat better now than one year ago</o>
+
+ 3 - <o>About the same</o>
+
+ 4 - <o>Somewhat worse now than one year ago</o>
+
+ 5 - <o>Much worse now than one year ago</o>
+
+HEALTH
+
+
+
+The following items are about activities you might do during a typical day. Does your
+health now limit you in these activities? If so, how much?
+
+  <o>Yes,
+limited a
+lot</o>
+
+<o>Yes,
+limited a
+little</o>
+
+<o>No, not
+limited at
+all</o>
+
+3. <q>Vigorous activities, such as running, lifting heavy objects,
+participating in strenuous sports</q>
+
+ 1  2  3
+
+4. <q>Moderate activities, such as moving a table, pushing a
+vacuum cleaner, bowling, or playing golf</q>
+
+ 1  2  3
+
+5. <q>Lifting or carrying groceries</q>  1  2  3
+
+6. <q>Climbing several flights of stairs</q>  1  2  3
+
+7. <q>Climbing one flight of stairs</q>  1  2  3
+
+8. <q>Bending, kneeling, or stooping</q>  1  2  3
+
+9. <q>Walking more than a mile</q>  1  2  3
+
+10. <q>Walking several blocks</q>  1  2  3
+
+11. <q>Walking one block</q>  1  2  3
+
+12. <q>Bathing or dressing yourself</q>  1  2  3
+
+
+
+During the past 4 weeks, have you had any of the following problems with your work or
+other regular daily activities as a result of your physical health?
+
+  Yes No
+
+13. <q>Cut down the amount of time you spent on work or other activities</q>
+1 2
+
+14. <q>Accomplished less than you would like</q>
+1 2
+
+15. <q>Were limited in the kind of work or other activities</q>
+1 2
+
+16. <q>Had difficulty performing the work or other activities (for example, it took extra
+effort)</q> 1 2
+
+During the past 4 weeks, have you had any of the following problems with your work or
+other regular daily activities as a result of any emotional problems (such as feeling
+depressed or anxious)?
+
+  Yes No
+
+17. <q>Cut down the amount of time you spent on work or other activities</q>  1  2
+
+18. <q>Accomplished less than you would like</q>  1  2
+
+19. <q>Didn't do work or other activities as carefully as usual</q>  1  2
+
+20. <q>During the past 4 weeks, to what extent has your physical health or emotional
+problems interfered with your normal social activities with family, friends, neighbors, or
+groups?</q>
+
+ 1 - <o>Not at all</o>
+
+ 2 - <o>Slightly</o>
+
+ 3 - <o>Moderately</o>
+
+ 4 - <o>Quite a bit</o>
+
+ 5 - <o>Extremely</o>
+
+
+
+21. <q>How much bodily pain have you had during the past 4 weeks?</q>
+
+ 1 - <o>None</o>
+
+ 2 - <o>Very mild</o>
+
+ 3 - <o>Mild</o>
+
+ 4 - <o>Moderate</o>
+
+ 5 - <o>Severe</o>
+
+ 6 - <o>Very severe</o>
+
+22. <q>During the past 4 weeks, how much did pain interfere with your normal work
+(including both work outside the home and housework)?</q>
+
+ 1 - <o>Not at all</o>
+
+ 2 - <o>A little bit</o>
+
+ 3 - <o>Moderately</o>
+
+ 4 - <o>Quite a bit</o>
+
+ 5 - <o>Extremely</o>
+
+
+
+These questions are about how you feel and how things have been with you during the
+past 4 weeks. For each question, please give the one answer that comes closest to the way
+you have been feeling.
+
+How much of the time during the past 4 weeks...
+
+  <o>All of
+the
+time</o>
+
+<o>Most
+of the
+time</o>
+
+<o>A good
+bit of the
+time</o>
+
+<o>Some
+of the
+time</o>
+
+<o>A little
+of the
+time</o>
+
+<o>None
+of the
+time</o>
+
+23. <q>Did you feel full of pep?</q>  1  2  3  4  5  6
+
+24. <q>Have you been a very nervous
+person?</q>
+
+ 1  2  3  4  5  6
+
+25. <q>Have you felt so down in the
+dumps that nothing could cheer you
+up?</q>
+
+ 1  2  3  4  5  6
+
+26. <q>Have you felt calm and peaceful?</q>  1  2  3  4  5  6
+
+27. <q>Did you have a lot of energy?</q>  1  2  3  4  5  6
+
+28. <q>Have you felt downhearted and
+blue?</q>
+
+ 1  2  3  4  5  6
+
+29. <q>Did you feel worn out?</q>  1  2  3  4  5  6
+
+30. <q>Have you been a happy person?</q>  1  2  3  4  5  6
+
+31. <q>Did you feel tired?</q>  1  2  3  4  5  6
+
+32. <q>During the past 4 weeks, how much of the time has your physical health or emotional
+problems interfered with your social activities (like visiting with friends, relatives, etc.)?</q>
+
+ 1 - <o>All of the time</o>
+
+ 2 - <o>Most of the time</o>
+
+ 3 - <o>Some of the time</o>
+
+ 4 - <o>A little of the time</o>
+
+ 5 - <o>None of the time</o>
+
+
+
+How TRUE or FALSE is each of the following statements for you.
+
+  <o>Definitely
+true</o>
+
+<o>Mostly
+true</o>
+
+<o>Don't
+know</o>
+
+<o>Mostly
+false</o>
+
+<o>Definitely
+false</o>
+
+33. <q>I seem to get sick a little easier than
+other people</q>
+
+ 1  2  3  4  5
+
+34. <q>I am as healthy as anybody I know</q>  1  2  3  4  5
+
+35. <q>I expect my health to get worse</q>  1  2  3  4  5
+
+36. <q>My health is excellent</q>  1  2  3  4  5
+
+ABOUT
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make
+communities throughout the world safer and more secure, healthier and more prosperous. RAND is nonprofit, nonpartisan,
+and committed to the public interest.
+
+1776 Main Street 
+Santa Monica, California 90401-3208
+
+RAND® is a registered trademark. Copyright © 1994-2016 RAND Corporation.
+
+
+
+

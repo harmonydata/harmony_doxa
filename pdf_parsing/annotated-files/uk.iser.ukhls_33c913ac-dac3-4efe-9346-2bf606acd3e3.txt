@@ -1,0 +1,1390 @@
+
+ADULT SELF-COMPLETION  
+QUESTIONNAIRE (AGED 16+)
+
+P2821 W2 v2
+
+First name Int No F/Area
+
+Serial Address HH. No ChkL P.No
+
+F/Month
+
+INTERVIEWER WRITE IN FROM CAPI SCREEN
+
+FRONT/BACK COVER
+
+
+
+Returning the questionnaire
+
+If the interviewer is still in your home when you have completed the questionnaire, 
+please hand it back to them. If not, please return the completed questionnaire in the 
+pre-paid envelope as soon as you possibly can.
+
+Now please go to Q1 and start filling in your answers
+
+Example Question
+
+Did you have breakfast this morning?
+
+Yes
+
+No
+
+Q1
+
+Completing the questionnaire
+
+Please answer questions by ticking the box next to the answer, as in the example  
+below. Some questions have instructions that show which question to answer next.  
+If there are no instructions, just answer the next question.
+
+Please tick only one box for each question.
+
+
+
+2 3
+
+Q2
+
+<q>Are you male or female?</q>
+
+<o>Male</o>
+
+<o>Female</o>
+
+3
+
+Q5
+
+<q>During the past 4 weeks, how much of the time have you had any of the following problems 
+with your work or other regular daily activities as a result of your physical health?</q>
+
+<o>Accomplished less than you would like</o>
+
+<o>Were limited in the kind of work or other activities</o>
+
+<o>A little of  
+the time</o>
+
+<o>None of 
+the time</o>
+
+<o>Some of  
+the time</o>
+
+<o>Most of  
+the time</o>
+
+<o>All of  
+the time</o>
+
+Q6
+
+<q>During the past 4 weeks, how much of the time have you had any of the following problems 
+with your work or other regular daily activities as a result of any emotional problems (such 
+as feeling depressed or anxious)?</q>
+
+<o>A little of  
+the time</o>
+
+<o>None of 
+the time</o>
+
+<o>Some of  
+the time</o>
+
+<o>Most of  
+the time</o>
+
+<o>All of  
+the time</o>
+
+<o>Accomplished less than you would like</o>
+
+<o>Did work or other activities less carefully than usual</o>
+
+Q7
+
+<q>During the past 4 weeks, how much did pain interfere with your normal work (including both 
+work outside the home and housework)?</q>
+
+<o>Not at all</o> <o>Moderately</o> <o>Quite a bit</o> <o>Extremely</o><o>A little bit</o>
+
+Q8
+
+These questions are about how you feel and how things have been with you during the past 
+4 weeks. For each question, please give the one answer that comes closest to the way you 
+have been feeling. How much of the time during the past 4 weeks...
+
+<o>A little of  
+the time</o>
+
+<o>None of 
+the time</o>
+
+<o>Some of  
+the time</o>
+
+<o>Most of  
+the time</o>
+
+<o>All of  
+the time</o>
+
+<q>Have you felt calm and peaceful?</q>
+
+<q>Did you have a lot of energy?</q>
+
+<q>Have you felt downhearted and depressed?</q>
+
+Q1
+
+<q>Please write in your date of birth:</q>
+
+MM YYYY 1 9DD
+
+Q4
+
+<q>The following questions are about activities you might do during a typical day. Does your 
+health now limit you in these activities? If so, how much?</q>
+
+<o>Moderate activities, such as moving a table, pushing  
+a vacuum cleaner, bowling, or playing golf</o>
+
+<o>Climbing several flights of stairs</o>
+
+<o>Yes, limited
+a little</o>
+
+<o>No, not limited
+at all</o>
+
+<o>Yes, limited
+a lot</o>
+
+For each of the following questions, please tick the one box that best describes 
+your answer.
+
+Q3
+
+<q>In general, would you say your health is?</q>
+
+<o>Excellent</o> <o>Good</o> <o>Fair</o><o>Very good</o> <o>Poor</o>
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCDOBM
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCDOBY4
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSEX
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSF1
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSF2a
+
+vlnolan
+Typewritten Text
+SCSF2b
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSF3a
+
+vlnolan
+Typewritten Text
+SCSF3b
+
+vlnolan
+Typewritten Text
+SCSF4A
+
+vlnolan
+Typewritten Text
+SCSF4B
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSF5
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSF6A
+
+vlnolan
+Typewritten Text
+SCSF6B
+
+vlnolan
+Typewritten Text
+SCSF6C
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCDOBD
+
+
+
+4 5
+
+Here are some questions regarding the way you have been feeling over the last 
+few weeks. For each question please tick the box next to the answer that best 
+describes the way you have felt.
+
+Have you recently...
+
+Q10
+
+<q>...been able to concentrate  
+on whatever you’re doing?</q> <o>Better than usual</o>
+
+<o>Same as usual</o>
+
+<o>Less than usual</o>
+
+<o>Much less than usual</o>
+
+Q11
+
+<q>...lost much sleep over worry?</q>
+<o>Not at all</o>
+
+<o>No more than usual</o>
+
+<o>Rather more than usual</o> 
+
+<o>Much more than usual</o> 
+
+Q12
+
+<q>...felt that you were playing  
+a useful part in things?</q> <o>More so than usual</o> 
+
+<o>Same as usual</o>
+
+<o>Less so than usual</o>
+
+<o>Much less than usual</o> 
+
+Q9
+
+<q>During the past 4 weeks, how much of the time has your physical health or emotional 
+problems interfered with your social activities (like visiting with friends, relatives, etc.)?</q>
+
+Q15
+
+<q>...felt you couldn’t overcome  
+your difficulties?</q> <o>Not at all</o>
+
+<o>No more than usual</o>
+
+<o>Rather more than usual</o>
+
+<o>Much more than usual</o> 
+
+Q16
+
+<q>...been able to enjoy your normal  
+day-to-day activities?</q> <o>More so than usual</o>
+
+<o>Same as usual</o>
+
+<o>Less so than usual</o>
+
+<o>Much less than usual</o> 
+
+Q17
+
+<q>...been able to face up  
+to problems?</q> <o>More so than usual</o>
+
+<o>Same as usual</o>
+
+<o>Less able than usual</o> 
+
+<o>Much less able</o> 
+
+Q14
+
+<q>...felt constantly under strain?</q>
+<o>Not at all</o>
+
+<o>No more than usual</o>
+
+<o>Rather more than usual</o> 
+
+<o>Much more than usual</o> 
+
+Have you recently…
+
+Q13
+
+<q>...felt capable of making  
+decisions about things?</q> <o>More so than usual</o> 
+
+<o>Same as usual</o>
+
+<o>Less so than usual</o>
+
+<o>Much less capable</o> 
+
+<o>A little of  
+the time</o>
+
+<o>None of 
+the time</o>
+
+<o>Some of  
+the time</o>
+
+<o>Most of  
+the time</o>
+
+<o>All of  
+the time</o>
+
+vlnolan
+Typewritten Text
+SCSF7
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHQA
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHQB
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHQC
+
+vlnolan
+Typewritten Text
+SCGHQD
+
+vlnolan
+Typewritten Text
+SCGHQE
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHQF
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHQG
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCGHGH
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+
+
+6 7
+
+Have you recently… Q22
+
+We’d like to know how important various things are to your sense of who you are. Please 
+think about each of the following and tick the box that indicates whether you think it is very 
+important, fairly important, not very important or not at all important to your sense of who 
+you are. Please tick one answer on each line.
+
+<o>Very important 
+to my sense of 
+
+who I am</o>
+
+<q>Your profession?</q>
+
+<q>Your level of education?</q>
+
+<q>Your ethnic or racial 
+background?</q>
+
+Q24
+
+<q>Thinking now about all kinds of drinks, how  
+often have you had an alcoholic drink of any  
+kind during the last 12 months?</q>
+
+<o>Not very  
+important to  
+my sense of  
+who I am</o>
+
+<o>Don’t know/
+doesn’t apply</o>
+
+<o>Fairly  
+important to  
+my sense of  
+who I am</o>
+
+<o>Not at all 
+important to  
+my sense of  
+who I am</o>
+
+<q>Your political beliefs?</q>
+
+<q>Your family?</q>
+
+<q>Your gender?</q>
+
+<q>Your age and life stage?</q>
+
+<o>Almost every day</o>
+
+<o>Five or six days a week</o>
+
+<o>Three or four days a week</o>
+
+<o>Once or twice a week</o>
+
+<o>Once or twice a month</o>
+
+<o>Once every couple of months</o>  
+
+<o>Once or twice a year</o>
+
+<o>Not at all in the last 12 months</o> Q31
+
+Q25
+
+Q18
+
+<q>...been feeling unhappy  
+or depressed?</q> <o>Not at all</o> 
+
+<o>No more than usual</o>
+
+<o>Rather more than usual</o>
+
+<o>Much more than usual</o> 
+
+Q19
+
+<q>...been losing confidence  
+in yourself?</q> <o>Not at all</o> 
+
+<o>Not more than usual</o>
+
+<o>Rather more than usual</o> 
+
+<o>Much more than usual</o> 
+
+Q20
+
+<q>...been thinking of yourself  
+as a worthless person?</q> <o>Not at all</o>
+
+<o>No more than usual</o>
+
+<o>Rather more than usual</o> 
+
+<o>Much more than usual</o> 
+
+Q21
+
+<q>...been feeling reasonably happy,  
+all things considered?</q> <o>More so than usual</o>
+
+<o>About the same as usual</o>
+
+<o>Less so than usual</o> 
+
+<o>Much less than usual</o> 
+
+Q23
+
+<q>How old were you the first time you ever had an alcoholic drink, that is, a whole drink not 
+just a sip? Do not include non-alcoholic or low alcohol drinks but do include shandy.</q>
+
+Please, either write in your age, in years, OR tick the box indicating you’ve never had an 
+alcoholic drink.
+
+Q31Q24
+
+Write in how old you were then
+
+years old
+
+<o>Have never had an alcoholic drink</o>
+
+vlnolan
+Typewritten Text
+SCGHQI
+
+vlnolan
+Typewritten Text
+SCGHQJ
+
+vlnolan
+Typewritten Text
+SCGHQK
+
+vlnolan
+Typewritten Text
+SCGHQL
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCWHORUPRO
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCWHORUEDU
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCHOWRURAC
+
+vlnolan
+Typewritten Text
+SCWHORUPOL
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCWHORUFAM
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCWHORUSEX
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCWHORUAGE
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCAGE1DRINK
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCEVERDRNK
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCFALCDRNK
+
+
+
+8 9
+
+Q25
+
+<q>Did you have an alcoholic drink in  
+the seven days ending yesterday?</q>
+
+No Q31
+
+Yes Q26
+
+Q26
+
+<q>In the last seven days, on how many  
+days did you have an alcoholic drink?</q>  
+Tick one box only.
+
+<o>One day</o>
+
+<o>Two days</o>
+
+<o>Three days</o>
+
+<o>Four days</o>
+
+<o>Five days</o>
+
+<o>Six days</o>
+
+<o>Seven days</o>
+
+Q32
+
+Please say how much you agree or disagree with the following statements. Tick one box on 
+each line.
+
+<q>At home, I feel I have control over what 
+happens in most situations</q>
+
+<q>I feel that what happens in life is often 
+determined by factors beyond my control</q>
+
+<q>In general, I have different demands on 
+me that are hard to combine</q>
+
+<q>In general, I have enough time to do 
+everything</q>
+
+<q>Considering the things I have to do at 
+home, I have to work very fast</q>
+
+<o>Moderately 
+agree</o>
+
+<o>Slightly 
+agree</o>
+
+<o>Slightly 
+disagree</o>
+
+<o>Moderately 
+disagree</o>
+
+<o>Strongly 
+disagree</o>
+
+<o>Strongly 
+agree</o>
+
+Q31
+
+Here are some questions about how you feel about your life. Please tick the number which 
+you feel best describes how dissatisfied or satisfied you are with the following aspects of your 
+current situation.
+
+1 = Completely dissatisfied, 7 = Completely satisfied
+
+<q>Your health</q>
+
+<q>The income of your 
+household</q> 
+
+<q>The amount of leisure  
+time you have</q>
+
+<q>Your life overall</q>
+
+<o>Completely
+dissatisfied</o> 
+
+<o>Mostly
+dissatisfied</o> 
+
+<o>Somewhat
+dissatisfied</o> 
+
+<o>Neither  
+satisfied
+
+nor  
+dissatisfied</o> 
+
+<o>Somewhat
+satisfied</o> 
+
+<o>Mostly
+satisfied</o> 
+
+<o>Completely
+satisfied</o> 
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6 7
+
+1 2 3 4 5 6 7
+
+Q27
+
+<q>Please think about the day on which you drank the most in the last seven days (if you 
+drank the same amount on more than one day, please answer about the most recent of  
+those days).
+
+On the day you drank the most, how many pints of beer, lager, stout or cider did you have?</q> 
+
+If none, please enter ‘0’.
+
+Write number in this box pints
+
+Q28
+
+<q>On the day you drank the most, how many measures of spirits or liqueurs, such as gin, 
+whisky, rum, brandy, vodka or cocktails did you have? Drinks poured at home may be larger 
+than a pub single measure – please estimate the number of single measures.</q> 
+
+If none, please enter ‘0’.
+
+Write the number in this box single measures
+
+Q29
+
+<q>On the day you drank the most, how many glasses of wine did you have? Include sherry, 
+port or vermouth.</q>
+
+If none, please enter ‘0’.
+
+Write the number in this box glasses
+
+Q30
+
+<q>On the day you drank the most, how many ‘alcopops’ did you have? Include pre-mixed 
+alcoholic drinks such as Bacardi Breezer, WKD or Smirnoff Ice.</q>
+
+If none, please enter ‘0’.
+
+Write the number in this box bottles
+
+vlnolan
+Typewritten Text
+SCALCL7D
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCNALCL7D
+
+vlnolan
+Typewritten Text
+SCNALCPINT
+
+vlnolan
+Typewritten Text
+SCNALCSHOT
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCNALCWINE
+
+vlnolan
+Typewritten Text
+SCNALCPOPS
+
+vlnolan
+Typewritten Text
+SCLFSAT1
+
+vlnolan
+Typewritten Text
+SCLFSAT2
+
+vlnolan
+Typewritten Text
+SCLFSAT7
+
+vlnolan
+Typewritten Text
+SCLFSATO
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCHMCONT
+
+vlnolan
+Typewritten Text
+SCLOUTCONT
+
+vlnolan
+Typewritten Text
+SCDEM2MANY
+
+vlnolan
+Typewritten Text
+SCTIMEMNUF
+
+vlnolan
+Typewritten Text
+SCWKVFAST
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+
+
+10 11
+
+Q40
+
+<q>What is this person’s relationship to you?</q>  
+Tick one box only.
+
+ 
+
+<o>Husband/wife or partner</o>
+
+<o>Son or Daughter</o>
+
+<o>Mother or Father</o>
+
+<o>Brother or Sister</o>
+
+<o>Grandparent</o>
+
+<o>Grandchild</o>
+
+<o>Aunt/Uncle or Cousin</o>
+
+<o>Other relative</o>
+
+<o>Friend</o>
+
+Q39
+
+<q>Please think of the person you can best share your private feelings and concerns with. Is this 
+person male or female?</q>
+
+<o>Have no-one to share my feelings with</o> Q41
+
+<o>Male</o>
+
+<o>Female</o>
+Q40
+
+Q33
+
+<q>Do you have a husband, wife or partner  
+with whom you live?</q>
+
+No Q35
+
+Yes Q34
+
+Q35
+
+<q>Do you have any immediate family, for example,  
+any children, brothers or sisters, parents, cousins,  
+aunts, uncles, grandparents or grandchildren?</q>  
+Please do not consider deceased persons when  
+answering. No Q37
+
+Yes Q36
+
+Q34
+
+We would now like to ask you some questions about your spouse or partner. Please tick the 
+box which best shows how you feel about each statement.
+
+<q>How much do they really understand the way you 
+feel about things?</q>
+
+<q>How much can you rely on them if you have a 
+serious problem?</q>
+
+<q>How much can you open up to them if you need to 
+talk about your worries?</q>
+
+<o>A lot</o> <o>Somewhat</o> <o>A little</o> <o>Not at all</o>
+
+<q>How much do they criticise you?</q>
+
+<q>How much do they let you down when you are 
+counting on them?</q>
+
+<q>How much do they get on your nerves?</q>
+
+Q36
+
+We would now like to ask you some questions about these family members. Please tick the 
+box which best shows how you feel about each statement.
+
+<q>How much do they really understand the way 
+you feel about things?</q>
+
+<q>How much can you rely on them if you have a 
+serious problem?</q>
+
+<q>How much can you open up to them if you need 
+to talk about your worries?</q>
+
+<q>How much do they criticise you?</q>
+
+<q>How much do they let you down when you 
+are counting on them?</q>
+
+<q>How much do they get on your nerves?</q>
+
+<o>A lot</o> <o>Somewhat</o> <o>A little</o> <o>Not at all</o>
+
+Q38
+
+<q>We would now like to ask you some questions about your friends. Please tick the box which 
+best shows how you feel about each statement.</q>
+
+<q>How much do they really understand the way 
+you feel about things?</q>
+
+<q>How much can you rely on them if you have 
+a serious problem?</q>
+
+<q>How much can you open up to them if you need 
+to talk about your worries?</q>
+
+<q>How much do they criticise you?</q>
+
+<q>How much do they let you down when you are 
+counting on them?</q>
+
+<q>How much do they get on your nerves?</q>
+
+<o>A lot</o> <o>Somewhat</o> <o>A little</o> <o>Not at all</o>
+
+Q37
+
+<q>Do you have any friends?</q>
+
+No Q39
+
+Yes Q38
+
+vlnolan
+Typewritten Text
+SCMOLWP
+
+vlnolan
+Typewritten Text
+SCPUNDSTND
+
+vlnolan
+Typewritten Text
+SCPRELY
+
+vlnolan
+Typewritten Text
+SCPOPENUP
+
+vlnolan
+Typewritten Text
+SCPCRITIC
+
+vlnolan
+Typewritten Text
+SCPLETDWN
+
+vlnolan
+Typewritten Text
+SCPANNOY
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCRELANY
+
+vlnolan
+Typewritten Text
+SCRUNDSTND
+
+vlnolan
+Typewritten Text
+SCRRELY
+
+vlnolan
+Typewritten Text
+SCROPENUP
+
+vlnolan
+Typewritten Text
+SCRCRITIC
+
+vlnolan
+Typewritten Text
+SCRLETDWN
+
+vlnolan
+Typewritten Text
+SCRANNOY
+
+vlnolan
+Typewritten Text
+SCFRENDANY
+
+vlnolan
+Typewritten Text
+SCFUNDSTND
+
+vlnolan
+Typewritten Text
+SCFRELY
+
+vlnolan
+Typewritten Text
+SCFOPENUP
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCFCRITIC
+
+vlnolan
+Typewritten Text
+SCFLETDWN
+
+vlnolan
+Typewritten Text
+SCFANNOY
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCSSUP1
+
+vlnolan
+Typewritten Text
+SCSSUPR2R
+
+
+
+12
+
+Q42
+
+<q>If there is anything else you would like to tell us, please write in the space below. We would 
+be very interested in reading what you have to say.</q>
+
+Please place the questionnaire in the envelope 
+and hand it back to your interviewer
+
+Or please return to the address below:
+
+National Centre for Social Research
+Unit B2, Admiralty Park, Station Road, Holton Heath,
+Poole, BH16 6HX
+
+Q41
+
+Here are some questions about family life. Do you personally agree or disagree...
+
+<q>A pre-school child is likely to suffer if his or 
+her mother works</q>
+
+<q>All in all, family life suffers when the woman
+has a full-time job</q>
+
+<q>Employers should make special arrangements  
+to help mothers combine jobs and childcare</q>
+
+<q>Both the husband and wife should contribute 
+to the household income</q>
+
+<q>A husband’s job is to earn money; a wife’s job 
+is to look after the home and family</q>
+
+Thank you very much for taking the time to answer our questions.
+
+<o>Strongly 
+agree</o> <o>Agree</o>
+
+<o>Neither agree 
+nor disagree</o> <o>Disagree</o>
+
+<o>Strongly 
+disagree</o>
+
+vlnolan
+Typewritten Text
+SCOPFAMA
+
+vlnolan
+Typewritten Text
+SCOPFAMB
+
+vlnolan
+Typewritten Text
+SCOPFAMD
+
+vlnolan
+Typewritten Text
+SCOPFAMF
+
+vlnolan
+Typewritten Text
+SCOPFAMH
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+
+vlnolan
+Typewritten Text
+SCANYELSETXT
+
+vlnolan
+Typewritten Text
+
+
+
+

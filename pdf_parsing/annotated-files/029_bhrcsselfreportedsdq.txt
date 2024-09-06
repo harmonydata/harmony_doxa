@@ -1,0 +1,251 @@
+
+Questionário de Capacidades e Dificuldades – Auto-relato 
+Instruções: Esta entrevista cobre muitos tópicos em detalhes, mas 
+antes de nos concentrarmos nesses detalhes, nós gostaríamos que você 
+preenchesse um breve questionário para nos dar uma visão geral sobre 
+suas capacidades e dificuldades. Por favor responda todos os 
+itens mesmo que você não tenha 100% de certeza de que as respostas 
+estão certas. O quão bem cada afirmação descreve como você tem 
+estado nos últimos 6 meses? 
+
+<o>Fa
+ls
+
+o</o> 
+
+<o>M
+ai
+
+s 
+ou
+
+ m
+en
+
+os
+ 
+
+ve
+rd
+
+ad
+ei
+
+ro</o>
+ 
+
+<o>Ve
+rd
+
+ad
+ei
+
+ro</o>
+ 
+
+EM
+O
+
+C
+IO
+
+N
+AL
+
+ 
+
+C
+O
+
+N
+D
+
+U
+TA
+
+ 
+
+H
+IP
+
+ER
+AT
+
+IV
+ID
+
+AD
+E 
+
+SO
+C
+
+IA
+L 
+
+PR
+Ó
+
+- S
+O
+
+C
+IA
+
+L 
+
+SDQ1. <q>Tento ser legal com as outras pessoas. Eu me preocupo com 
+os sentimentos dos outros</q> 0 1 2           
+SDQ2. <q>Sou inquieto/a, é difícil para mim ficar sentado por muito 
+tempo</q> 0 1 2           
+SDQ3. <q>Muitas vezes tenho dor de cabeça, dor de barriga ou enjôo</q> 0 1 2           
+SDQ4. <q>Geralmente me disponho a dividir com os outros (ex. comida 
+ou bebida)</q> 0 1 2           
+SDQ5. <q>Fico muito bravo/a e geralmente perco a paciência</q> 0 1 2           
+SDQ6. <q>Prefiro estar sozinho/a do que com outras pessoas</q> 0 1 2           
+SDQ7. <q>Geralmente estou disposto/a a fazer o que as outras pessoas 
+querem</q> 2 1 0           
+SDQ8. <q>Tenho muitas preocupações, muitas vezes pareço 
+preocupado/a com tudo</q> 0 1 2           
+SDQ9. <q>Tento ajudar se alguém parece magoado, aflito ou sentindo-
+se mal</q> 0 1 2          
+SDQ10. <q>Estou sempre agitado/a, balançando as pernas ou mexendo 
+as mãos</q> 0 1 2           
+SDQ11. <q>Eu tenho pelo menos um bom amigo ou amiga</q> 2 1 0          
+SDQ12. <q>Brigo muito. Consigo fazer com que as pessoas façam o que 
+eu quero</q> 0 1 2           
+SDQ13. <q>Frequentemente estou chateado/a, desanimado/a ou 
+choroso/a</q> 0 1 2          
+SDQ14. <q>Outras pessoas geralmente gostam de mim</q> 2 1 0           
+SDQ15. <q>Facilmente perco a concentração</q> 0 1 2          
+SDQ16. <q>Fico nervoso/a quando tenho que fazer alguma coisa 
+diferente, facilmente perco a confiança em mim mesmo</q> 0 1 2           
+SDQ17. <q>Sou legal com crianças</q> 0 1 2          
+SDQ18. <q>Frequentemente sou acusado/a de mentir ou trapacear</q> 0 1 2           
+SDQ19. <q>Outras pessoas "pegam no meu pé" ou fazem bullying 
+comigo</q> 0 1 2          
+SDQ20. <q>Frequentemente me ofereço para ajudar os outros (pessoas 
+da família, amigos, colegas)</q> 0 1 2           
+SDQ21. <q>Penso antes de fazer as coisas</q> 2 1 0          
+SDQ22. <q>Pego para mim coisas que não são minhas, de casa, do 
+trabalho ou de outros lugares</q> 0 1 2           
+SDQ23. <q>Eu me dou melhor com pessoas mais velhas do que com 
+pessoas da minha idade</q> 0 1 2          
+SDQ24. <q>Sinto muito medo. Eu me assusto facilmente</q> 0 1 2           
+SDQ25. <q>Consigo terminar as atividades que começo e prestar 
+atenção</q> 2 1 0          
+SUB-TOTAIS                 
+
+ 
+
+ 
+ 
+ 
+
+
+
+SDQ26. <q>De forma geral, você acha que você tem dificuldades em uma ou mais das seguintes 
+áreas: emoções, concentração, comportamento ou ser capaz de se relacionar com outras 
+pessoas?</q> 
+ 
+
+Não Sim – pequenas 
+dificuldades 
+
+Sim – dificuldades bem 
+definidas 
+
+Sim – dificuldades 
+graves 
+
+(  ) 0 (  ) 1 (  ) 2 (  ) 3 
+ 
+ 
+                     Pule para Seção A     SDQ26a 
+ 
+SDQ26a. <q>Há quanto tempo estas dificuldades existem?</q> 
+
+Menos de 1 mês 1-5 meses 6-12 meses Mais de 1 ano 
+(  ) 0 (  ) 1 (  ) 2 (  ) 3 
+
+ 
+ 
+SDQ26b. <q>Estas dificuldades incomodam ou aborrecem você?</q> 
+
+Nada Um pouco Muito Extremamente 
+(  ) 0 (  ) 1  (  ) 2 (  ) 3 
+
+ 
+ 
+• <q>Estas dificuldades atrapalham o seu dia-a-dia em alguma das situações abaixo?</q> 
+ 
+
+ Nada Um pouco Muito Extremamente 
+SDQ26c. <q>Relacionamento com 
+pessoas próximas (ex. família, 
+esposo/a)</q> 
+
+(  ) 0 
+ 
+
+(  ) 1 
+ 
+
+(  ) 2 
+ 
+
+(  ) 3 
+ 
+
+SDQ26d. <q>Fazer e manter amigos</q> (  ) 0 
+ 
+
+(  ) 1 
+ 
+
+(  ) 2 
+ 
+
+(  ) 3 
+ 
+
+SDQ26e. <q>Trabalho ou estudos</q> (  ) 0 
+ 
+
+(  ) 1 
+ 
+
+(  ) 2 
+ 
+
+(  ) 3 
+ 
+
+SDQ26f. <q>Coisas que você gosta de 
+fazer, esportes ou outras atividades de 
+lazer</q> 
+
+(  ) 0 
+ 
+
+(  ) 1 
+ 
+
+(  ) 2 
+ 
+
+(  ) 3 
+ 
+
+ 
+ 
+SDQ26g. <q>Estas dificuldades tornam as coisas mais difíceis para as pessoas que convivem 
+com você (família, amigos, etc.)?</q> 
+ 
+
+Nada Um pouco Muito Extremamente 
+(  ) 0 (  ) 1 (  ) 2 (  ) 3 
+
+ 
+
+

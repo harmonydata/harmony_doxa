@@ -1,0 +1,146 @@
+
+ 
+
+ 
+
+ 
+
+German
+
+ 
+
+VT-HT |_ __ | KW4
+
+Code Datum Termin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MNWS-R
+Bitte geben Sie an, wie sehr Sie aktuell unter folgenden Symptomen leiden. Ziehen Sie dazu bitte die
+
+letzten 24 Stunden in Betracht und beachten Sie die folgende Skalierung:
+
+0 = <o>Uberhaupt nicht</o>
+1 = <o>ganz leicht</o>
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 = <o>etwas</o>
+
+3 = <o>mittel</o>
+
+4 = <o>sehr</o>
+
+1. <q>Verargert, gereizt, frastriart</q> | 0 1 2 | 3 4
+2. <q>Angstlich, nervés</q> 0 61 2 3 4
+3. <q>Depressiv verstimmt, traurig</q> / 0 1 2 3 4
+4. | <q>Wunsch oder Verlangen, zu rauchen</q> . 0 1 2 3 4
+5.  <q>Konzentrationsschwierigkeiten</q> 0 1 2 3 4
+6.. <q>Gesteigerter Appetit, Hunger, Gewichtszunahme</q> 0 1 2 3 4
+7. <q>Schlaflosigkeit, Schlafprobleme, Erwachen in der Nacht</q> _ 0 1 2 3 4
+8.  <q>Unruhe</q> 0 1 2.3 4
+9. <q>ungeduldig</q> . . 0 1 2 3 4
+10. -<q>Verstopfung</q> . | 0 1 2 3 4
+11. <q>Schwindel</q> | 0 4 2 3 4
+12. <q>Husten</q> 0 1 2 3 4
+13. <q>Lebendige Traume oder Alptraume</q> Oo 61 2 3 4
+14. <q>Ubelkeit</q> 0 1 2 8 4
+15. _<q>Halsschmerzen</q> 0 1 2 3 4
+<q>Sonstige Beschwerden/Symptome:</q>
+
+16. a 0 1 2 38 4
+17. . 0 1 #2 8 4
+18. . oO i 2 3 #4
+
+ 
+
+ 
+
+DKH-Studie VT-HT
+
+
+
+
+MNWS
+Beurteilungsfragebogen Verhalten
+Untersucherfragebogen:
+
+Bitte beurteilen Sie, ob Sie beim Raucher die folgenden Symptome in den letzten
+beobachten konnten.
+
+Es spielt keine Rolle, ob die Person Uber diese Symptome klagte. Wir méchten nur
+
+wissen, ob Sie dieses Symptom beobachtet haben.
+
+O= <o>Uberhaupt nicht</o>, 1 = <o>leicht</o>, 2 = <o>mittel</o>, 3.= <o>moderat</o>, 4 = <o>schwer</o>
+
+ 
+
+a. <q>argerlich, irritierbar, frustriert</q>
+
+ 
+
+b. <q>Angstlich, angespannt</q>
+
+ 
+
+_c. <q>deprimiert</q>
+
+ 
+
+ 
+
+ 
+
+O}O/O/;O
+
+ 
+
+ 
+
+ 
+
+NINN }N
+
+ 
+
+ 
+
+—=j/3)/o)/o
+AAJA
+
+d. <q>unruhig, ungeduldig</q>
+
+ 
+
+-|e}a@lo]o
+
+1. <q>Wie zuversichtlich sind Sie, dass diese Einschatzung genau ist?</q>
+
+0 = <o>Uberhaupt nicht</o>
+
+1 = <o>ein wenig zuversichtlich</o>
+
+2 = <o>mittelmafig zuversichtlich</o>
+3 = <o>sehr zuversichtlich</o>
+
+ 
+
+
+

@@ -1,0 +1,44 @@
+
+ 
+
+ 
+
+Client ID #   Date of Administration:   
+
+MEDICATION SIDE EFFECTS AND TREATMENT 
+ADHERENCE  
+CLINICIAN ADMINISTERED  
+
+Brief Adherence Rating Scale (BARS)  
+
+1. [OPTIONAL] <q>How many pills of [name of antipsychotic] did the doctor tell you to 
+take each day?</q>  
+_______ 
+
+2. [OPTIONAL] <q>Over the month, since your last visit with me, on how many days did 
+you NOT TAKE your [name of antipsychotic]?</q> 
+ <o>Few, if any (<7)</o> 
+ <o>7-13</o> 
+ <o>14-20</o>  
+ <o>Most (>20)</o> 
+
+3. <q>Over the month, since your last visit with me, how many days did you TAKE LESS 
+THAN the prescribed number of pills of your [name of antipsychotic]?</q> 
+ <o>Always/almost always = 1  (76%-100% of the time)</o>   ___
+ <o>Usually = 2  (51%-75% of the time)</o>  ___
+ <o>Sometimes = 3 (26%-50% of the time)</o> ___ 
+ <o>Never/almost never = 4  (0%-25% of the time)</o>   ___
+
+4. [OPTIONAL] <q>Please place a single vertical line on the dotted line below that you 
+believe best describes, out of the prescribed antipsychotic medication doses, the 
+proportion of doses taken by the client in the past month.</q> 
+
+1 
+
+
+	Medication Side Effects and Treatment Adherence
+	Clinician administered
+	Brief Adherence Rating Scale (BARS)
+
+
+

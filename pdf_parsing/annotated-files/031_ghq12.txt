@@ -1,0 +1,86 @@
+
+ 3 
+
+ 
+
+ 
+
+Short General Health Questionnaire (GHQ 12) 
+ 
+Have you recently? 
+ 
+
+1. <q>Been able to concentrate on what you’re doing?</q> <o>Better than usual</o> <o>Same as usual</o>  <o>Less than usual</o> <o>Much less than 
+usual</o> 
+
+2. <q>Lost much sleep over worry?</q> <o>Not at all</o> <o>No more than 
+usual</o> 
+
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+3. <q>Felt you were playing a useful part in things?</q> <o>More so than usual</o> <o>Same as usual</o> <o>Less useful than 
+usual</o> 
+
+<o>Much less useful</o> 
+
+4. <q>Felt capable of making decisions about things?</q> <o>More so than usual</o> <o>Same as usual</o> <o>Less so than usual</o> <o>Much less capable</o> 
+5. <q>Felt constantly under strain?</q> <o>Not at all</o> <o>No more than 
+
+usual</o> 
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+6. <q>Felt you couldn’t overcome your difficulties?</q> <o>Not at all</o> <o>No more than 
+usual</o> 
+
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+7. <q>Been able to enjoy your normal day-to-day activities?</q> <o>More so than usual</o> <o>Same as usual</o> <o>Less so than usual</o> <o>Much less than 
+usual</o> 
+
+8. <q>Been able to face up to your problems?</q> <o>More so than usual</o> <o>Same as usual</o> <o>Less so than usual</o> <o>Much less able</o> 
+9. <q>Been feeling unhappy and depressed?</q> <o>Not at all</o> <o>No more than 
+
+usual</o> 
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+10. <q>Been losing confidence in yourself?</q> <o>Not at all</o> <o>No more than 
+usual</o> 
+
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+11. <q>Been thinking of yourself as a worthless person?</q> <o>Not at all</o> <o>No more than 
+usual</o> 
+
+<o>Rather more than 
+usual</o> 
+
+<o>Much more than 
+usual</o> 
+
+12. <q>Been feeling reasonably happy, all things considered</q> <o>More so than usual</o> <o>About same as 
+usual</o> 
+
+<o>Less so than usual</o> <o>Much less than 
+usual</o>; 
+
+

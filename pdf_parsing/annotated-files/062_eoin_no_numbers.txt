@@ -1,0 +1,68 @@
+<q>Little interest or pleasure in doing things?</q>
+<q>Feeling down, depressed, or hopeless?</q>
+<q>Trouble falling or staying asleep, or sleeping too much?</q>
+<q>Feeling tired or having little energy?</q>
+<q>Poor appetite or overeating?</q>
+<q>Feeling bad about yourself - or that you are a failure or have let yourself or your family down?</q>
+<q>Trouble concentrating on things, such as reading the newspaper or watching television?</q>
+<q>Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?</q>
+<q>Thoughts that you would be better off dead, or of hurting yourself in some way?</q> 
+<q>Feeling nervous, anxious or on edge?</q>
+<q>Not being able to stop or control worrying?</q>
+<q>Worrying too much about different things?</q>
+<q>Trouble relaxing?</q>
+<q>Being so restless that it is hard to sit still?</q>
+<q>Becoming easily annoyed or irritable?</q>
+<q>Feeling afraid as if something awful might happen?</q>
+<q>Repeated, disturbing, and unwanted memories of the stressful experience?</q>
+<q>Repeated, disturbing dreams of the stressful experience?</q>
+<q>Suddenly feeling or acting as if the stressful experience were actually happening again (as if you were actually back there reliving it)?</q>
+<q>Feeling very upset when something reminded you of the stressful experience?</q>
+<q>Having strong physical reactions when something reminded you of the stressful experience (for example, heart pounding, trouble breathing, sweating)?</q>
+<q>Avoiding memories, thoughts, or feelings related to the stressful experience?</q>
+<q>Avoiding external reminders of the stressful experience (for example, people, places, conversations, activities, objects, or situations)?</q>
+<q>Trouble remembering important parts of the stressful experience?</q>
+<q>Having strong negative beliefs about yourself, other people, or the world (for example, having thoughts such as:I am bad, there is something seriously wrong with me, no one can be trusted, the world is completely dangerous)?</q>
+<q>Blaming yourself or someone else for the stressful experience or what happened after it?</q>
+<q>Having strong negative feelings such as fear, horror, anger, guilt, or shame?</q>
+<q>Loss of interest in activities that you used to enjoy?</q>
+<q>Feeling distant or cut off from other people?</q>
+<q>Trouble experiencing positive feelings (for example, being unable to feel happiness or have loving feelings for people close to you)?</q>
+<q>Irritable behavior, angry outbursts, or acting aggressively?</q>
+<q>Taking too many risks or doing things that could cause you harm?</q>
+<q>Being “superalert” or watchful or on guard?</q>
+<q>Feeling jumpy or easily startled?</q>
+<q>Having difficulty concentrating?</q>
+<q>Trouble falling or staying asleep?</q>
+<q>Do you sometimes feel that people are talking about you?</q>
+<q>Do you sometimes feel that other people are watching you?</q>
+<q>When shopping, do you get the feeling that other people are taking notice of you?</q>
+<q>I often feel that others have it in for me.</q>
+<q>Do you sometimes get concerned that friends or co-workers are not really loyal or trustworthy?</q>
+<q>Do you often have to keep an eye out to stop people from taking advantage of you?</q>
+<q>Do you feel that you cannot get “close” to people?</q>
+<q>I find it hard to be emotionally close to other people.</q>
+<q>Do you feel that there is no one you are really close to outside of your immediate family, or people you can confide in or talk to about personal problems?</q>
+<q>I tend to keep my feelings to myself.</q>
+<q>I rarely laugh and smile.</q>
+<q>I am not good at expressing my true feelings by the way I talk and look.</q>
+<q>Other people see me as slightly eccentric (odd).</q>
+<q>I am an odd, unusual person.</q>
+<q>I have some eccentric (odd) habits.</q>
+<q>People sometimes comment on my unusual mannerisms and habits.</q>
+<q>Do you often feel nervous when you are in a group of unfamiliar people?</q>
+<q>I get anxious when meeting people for the first time.</q>
+<q>I feel very uncomfortable in social situations involving unfamiliar people.</q>
+<q>I sometimes avoid going to places where there will be many people because I will get anxious.</q>
+<q>Do you believe in telepathy (mind-reading)?</q>
+<q>Do you believe in clairvoyance (psychic forces, fortune telling)?</q>
+<q>Have you had experiences with astrology, seeing the future, UFO’s, ESP, or a sixth sense?</q>
+<q>Have you ever felt that you are communicating with another person telepathically (by mind-reading)?</q>
+<q>I sometimes jump quickly from one topic to another when speaking.</q>
+<q>Do you tend to wander off the topic when having a conversation?</q>
+<q>I often ramble on too much when speaking.</q>
+<q>I sometimes forget what I am trying to say.</q>
+<q>I often hear a voice speaking my thoughts aloud.</q>
+<q>When you look at a person or yourself in a mirror, have you ever seen the face change right before your eyes?</q>
+<q>Are your thoughts sometimes so strong that you can almost hear them?</q>
+<q>Do everyday things seem unusually large or small?</q>

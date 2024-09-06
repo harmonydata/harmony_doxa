@@ -1,0 +1,61 @@
+
+Arizona Sexual Experience Scale (ASEX) 
+Ref: McGahuey et al. (2000) J Sex Marital Ther 26:25-40 
+
+ 
+A user-friendly 5-item rating scale that quantifies sex drive, arousal, vaginal lubrication/penile 
+erection, ability to reach orgasm, and satisfaction from orgasm. Possible total scores range from 
+5 to 30, with the higher scores indicating more sexual dysfunction 
+ 
+1.  <q>How strong is your sex drive?</q> 
+ 1.  <o>Extremely strong</o> 
+ 2.  <o>Very strong</o> 
+ 3.  <o>Somewhat strong</o> 
+ 4.  <o>Somewhat weak</o> 
+ 5.  <o>Very weak</o> 
+ 6.  <o>Absent</o> 
+ 
+2.  <q>How easily are you sexually aroused?</q> 
+ 1.  <o>Extremely easily</o> 
+ 2.  <o>Very easily</o>  
+ 3.  <o>Somewhat easily</o> 
+ 4.  <o>Somewhat difficult</o>
+ 5.  <o>Very difficult</o> 
+ 6.  <o>Never</o> 
+ 
+3a <q>(for men) Can you easily get and keep an erection?</q> 
+
+1.  <o>Extremely easily</o> 
+ 2.  <o>Very easily</o>  
+ 3.  <o>Somewhat easily</o> 
+ 4.  <o>Somewhat difficult</o> 
+ 5.  <o>Very difficult</o> 
+ 6.  <o>Never</o> 
+ 
+3b <q>(for women)  How easily does your vagina become moist?</q> 
+
+1.  <o>Extremely easily</o> 
+ 2.  <o>Very easily</o>  
+ 3.  <o>Somewhat easily</o> 
+ 4.  <o>Somewhat difficult</o> 
+ 5.  <o>Very difficult</o> 
+ 6.  <o>Never</o> 
+ 
+4. <q>How easily can your reach orgasm</q> 
+
+1.  <o>Extremely easily</o> 
+ 2.  <o>Very easily</o>  
+ 3.  <o>Somewhat easily</o> 
+ 4.  <o>Somewhat difficult</o> 
+ 5.  <o>Very difficult</o> 
+ 6.  <o>Never</o> 
+ 
+5.  <q>Are your orgasms satisfying</q> 
+ 1.  <o>Extremely satisfying</o>                TOTAL SCORE _______ 
+ 2.  <o>Very satisfying</o> 
+ 3.  <o>Somewhat satisfying</o> 
+ 4.  <o>Somewhat unsatisfying</o> 
+ 5.  <o>Extremely unsatisfying</o> 
+ 6.  <o>Never achieve orgasm</o> 
+
+

@@ -1,0 +1,2890 @@
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Variables In dataset: bcs70pc_0to11mths.sav 
+      
+
+   
+
+1970 British Cohort Study (BCS70)  
+  2004 Survey 
+
+ 
+Questionnaire about children aged 0 – 11 months 
+
+Pink Questionnaire 
+Confidential 
+
+ 
+    We would like you to answer a few questions about ___________________’s development and behaviour. 
+ 
+
+ 
+  HOW TO FILL IN THIS QUESTIONNAIRE 
+
+    
+
+     
+
+  Please answer the questions by:     
+     
+
+    
+
+ 
+
+    Ticking a box - like this 
+    
+
+      
+
+     
+    
+
+ 
+
+3     Or writing a number in a box - like this 
+    
+
+     
+
+     
+      
+
+  
+
+ 
+   Sometimes you will find an instruction telling 
+
+  you which question to answer next - like this Yes
+      
+
+         
+
+     
+      
+
+ 
+
+  Go to question 99  No
+      
+
+         
+
+   
+ 
+ 
+    If your child is … 
+
+  2029   
+    
+
+ 
+Start with question 1 … 0 - 3 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 3 … 4 - 6 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 4 … 7 - 9  months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 5 … 10 - 11 months old, tick this box 
+
+    
+     
+
+ 
+ 
+Serial number  +    check letter Cohort member’s first name   Child No.            Child’s age (months) 
+ 
+ 
+2001 - 007 2008  2009 - 010 2022 – 023 
+
+Interviewer number   
+ 
+ 
+
+Barcode label Card 2011 – 012                                Batch 2013 – 017 
+
+P2321 
+
+ 
+
+         
+
+      
+
+2018 – 021 Spare 2024 - 028
+
+
+
+Page 2 
+
+   
+
+ 
+
+
+
+Page 3 
+
+Page 3
+
+
+
+
+Page 4 
+
+ 
+
+   Please answer the following questions about your 0 – 3 month old child. 
+   
+  Tick one box on each line 
+        
+  Yes No 
+   2030     
+
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1a <q>When lying on his or her stomach, has your child ever turned his or her 
+
+head from side to side?</q> 
+      
+
+        
+
+   2031     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1b <q>Have your child’s eyes ever followed a moving object?</q> 
+
+      
+        
+
+   2032     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1c 
+
+<q>When lying on his or her stomach on a flat surface, has your child ever 
+lifted his or her head off the surface for a moment?</q> 
+ 
+
+      
+
+        
+
+   2033     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1d 
+
+<q>Have your child’s eyes ever followed a moving object all the way from 
+one side to the other?</q> 
+ 
+
+      
+
+        
+
+   2034     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1e 
+
+<q>Has your child ever smiled at someone when that person talked or smiled 
+at (but did not touch) him or her?</q> 
+ 
+
+      
+
+        
+
+   2035     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ 
+
+Q1f 
+
+<q>When lying on his or her stomach, has your child ever raised his or her 
+head and chest from the surface while resting his or her weight on his or 
+her lower arms or hands?</q> 
+ 
+
+      
+
+        
+
+   2036     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1g 
+
+<q>Has your child ever turned his or her head around to look at something?</q> 
+
+      
+        
+
+   2037     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ 
+
+Q1h 
+
+<q>While lying on his or her back and being pulled up to a sitting position, 
+has your child ever held his or her head stiffly so that it did not hang 
+back as he or she was pulled up?</q> 
+ 
+
+      
+
+        
+
+   2038     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1i <q>Has your child ever laughed out loud without being tickled or touched?</q> 
+
+      
+        
+
+   2039     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1j <q>Has your child ever held in one hand a moderate sized object, such as a 
+
+block or rattle?</q> 
+      
+
+        
+
+   2040     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1k <q>Has your child ever rolled over on his or her own on purpose?</q> 
+
+      
+        
+
+   2041     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1l 
+
+<q>Has your child ever seemed to enjoy looking in the mirror at him or 
+herself?</q> 
+ 
+
+      
+
+        
+
+   2042     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1m 
+
+<q>Has your child ever been pulled from a sitting to a standing position and 
+supported his or her own weight with legs stretched out?</q> 
+ 
+
+      
+
+        
+
+   2043     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1n <q>Has your child ever turned his or her head around to look at something?</q> 
+
+      
+        
+
+   2044     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q1o <q>Has your child ever sat alone with no help except for leaning forward on 
+
+his or her hands or with just a little help from someone else?</q> 
+      
+
+        
+
+Spare 2045 - 049
+
+1 
+
+
+
+Page 5 
+
+ 
+
+   Can you say whether the following apply to your child? 
+
+  Tick one box on each line 
+                 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   2050              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2a <q>Your child smiles or coos during nail cutting</q> 
+
+               
+                 
+
+   2051              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2b <q>Your child is pleasant, lies quietly, making 
+
+happy noises upon waking up</q> 
+               
+
+                 
+
+   2052              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2c <q>Your child is pleasant (coos, smiles) during 
+
+face washing</q> 
+               
+
+                 
+
+   2053              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2d <q>Your child is fussy when burped (cries, 
+
+fusses) during feeding</q> 
+               
+
+                 
+
+   2054              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2e <q>Your child is fussy when put down for sleep 
+
+(cries or frets)</q> 
+               
+
+                 
+
+   2055              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2f <q>Your child accepts his or her bath any time of 
+
+day without resisting</q> 
+               
+
+                 
+
+   2056              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2g 
+
+<q>Your child objects (fusses, squirms) to being 
+bathed by a different person even after 2 or 
+3 tries</q> 
+
+               
+
+                 
+
+   2057              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2h <q>Your child adjusts to change in place of 
+
+sleeping within 2 or 3 days</q> 
+               
+
+                 
+
+   2058              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2i <q>Your child resists changes in feeding 
+
+schedule (1 hour or more) even after 2 tries</q> 
+               
+
+                 
+
+   2059              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2j <q>Your child resists (squirms or fusses) during 
+
+routine dressing or undressing</q> 
+               
+
+                 
+
+   2060              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2k 
+
+<q>Your child turns the head away and looks for 
+the mother or main care giver when held by 
+a new person</q> 
+
+               
+
+                 
+
+   2061              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2l 
+
+<q>For the first few minutes in a new place or 
+situation (new shop or home) your child is 
+fretful</q> 
+
+               
+
+                 
+
+   2062              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2m 
+
+<q>Your child appears bothered (cries, squirms) 
+when first put down to sleep in a different 
+place than usual</q> 
+
+               
+
+                 
+
+   2063              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2n <q>Your child accepts right away a change in 
+
+feeding time</q> 
+               
+
+                 
+
+   2064              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2o 
+
+<q>Your child objects (cries, frets) if someone 
+other than the mother or main care giver 
+gives care</q> 
+
+               
+
+                 
+
+Spare 2065 - 069
+
+2 
+
+
+
+Page 6 
+
+ 
+
+   Continued… 
+
+  Tick one box on each line 
+                 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   2070              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2p 
+
+<q>Your child wants and takes milk feedings at 
+about the same times (within 1 hour) from 
+day to day</q> 
+
+               
+
+                 
+
+   2071              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2q <q>Your child gets sleepy about the same time 
+
+each evening (within ½ hour)</q> 
+               
+
+                 
+
+   2072              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2r 
+
+<q>Your child’s day time naps are varied in length 
+from day to day (more than 1 hour in 
+difference)</q> 
+
+               
+
+                 
+
+   2073              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2s 
+
+<q>Your child wants an extra feeding at a 
+different time each day (over 1 hour in 
+difference)</q> 
+
+               
+
+                 
+
+   2074              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q2t 
+
+<q>Your child’s fussy period occurs at or about 
+the same time of day (morning, afternoon, 
+night)</q> 
+
+               
+
+                 
+                 
+                 
+
+Spare 2080 -089 
+
+Now go to question 7 on page 11 
+
+2 
+
+
+
+Page 7 
+
+ 
+
+   Please answer the following questions about your 4 – 6 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   2090     
+
+      
+
+ 
+
+1 2
+ 
+
+Q3a 
+
+<q>While lying on his or her back and being pulled up to a sitting position, has 
+your child ever held his or her head stiffly so that it did not hang back as 
+he or she was pulled up?</q> 
+ 
+
+      
+
+        
+
+   2091     
+      
+
+ 
+
+1 2
+ Q3b 
+
+<q>Has your child ever laughed out loud without being tickled or touched?</q> 
+
+      
+        
+
+   2092     
+      
+
+ 
+
+1 2
+ Q3c 
+
+<q>Has your child ever held in one hand a moderate sized object, such as a 
+block or rattle?</q> 
+
+      
+        
+
+   2093     
+      
+
+ 
+
+1 2
+ Q3d 
+
+<q>Has your child ever rolled over on his or her own on purpose?</q> 
+
+      
+        
+
+   2094     
+      
+
+ 
+
+1 2
+ Q3e 
+
+<q>Has your child ever seemed to enjoy looking in the mirror at him or 
+herself?</q> 
+
+      
+        
+
+   2095     
+      
+
+ 
+
+1 2
+ Q3f <q>Has your child ever been pulled from a sitting to a standing position and 
+
+supported his or her own weight with legs stretched out?</q> 
+      
+
+        
+
+   2096     
+      
+
+ 
+
+1 2
+ Q3g <q>Has your child ever looked around for a toy which was lost or not nearby?</q> 
+
+      
+        
+
+   2097     
+      
+
+ 
+
+1 2
+ Q3h <q>Has your child ever sat alone with no help except for leaning forward on 
+
+his or her hands or with just a little help from someone else?</q> 
+      
+
+        
+
+   2098     
+      
+
+ 
+
+1 2
+ Q3i <q>Has your child ever sat for 10 minutes or more with no support at all?</q> 
+
+      
+        
+
+   2099     
+      
+
+ 
+
+1 2
+ Q3j <q>Has your child ever pulled him or herself to a standing position without 
+
+help from another person?</q> 
+      
+
+        
+
+   2100     
+      
+
+ 
+
+1 2
+ Q3k 
+
+<q>Has your child ever crawled when left lying on his or her stomach?</q> 
+
+      
+        
+
+   2101     
+      
+
+ 
+
+1 2
+ Q3l <q>Has your child ever said any recognisable words such as ‘mama’ or ‘dada’?</q> 
+
+      
+        
+
+   2102     
+      
+
+ 
+
+1 2
+ Q3m 
+
+<q>Has your child ever picked up any small objects, such as raisins or biscuit 
+crumbs, using only his or her thumb and first finger?</q> 
+ 
+
+      
+
+        
+
+   2103     
+      
+
+ 
+
+1 2
+ Q3n 
+
+<q>Has your child ever walked at least two steps with one hand held or 
+holding on to something?</q> 
+ 
+
+      
+
+        
+
+   2104     
+      
+
+ 
+
+1 2
+ Q3o 
+
+<q>Has your child ever waved goodbye without help from another person?</q> 
+
+      
+
+Spare 2105 -109 
+
+Now go to question 6 on page 9 
+
+3 
+
+
+
+Page 8 
+
+ 
+
+   Please answer the following questions about your 7 – 9 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   2110     
+
+      
+
+ 
+
+1 2
+ Q4a <q>Has your child ever seemed to enjoy looking in the mirror at him or herself?</q> 
+
+      
+        
+
+   2111     
+      
+
+ 
+
+1 2
+ Q4b 
+
+<q>Has your child ever been pulled from a sitting to a standing position and 
+supported his or her own weight with legs stretched out?</q> 
+
+      
+        
+
+   2112     
+      
+
+ 
+
+1 2
+ Q4c <q>Has your child ever looked around for a toy which was lost or not nearby?</q> 
+
+      
+        
+
+   2113     
+      
+
+ 
+
+1 2
+ Q4d <q>Has your child ever sat alone with no help except for leaning forward on his 
+
+or her hands or with just a little help from someone else?</q> 
+      
+
+        
+
+   2114     
+      
+
+ 
+
+1 2
+ Q4e <q>Has your child ever sat for 10 minutes or more with no support at all?</q> 
+
+      
+        
+
+   2115     
+      
+
+ 
+
+1 2
+ Q4f <q>Has your child ever pulled him or herself to a standing position without help 
+
+from another person?</q> 
+      
+
+        
+
+   2116     
+      
+
+ 
+
+1 2
+ Q4g <q>Has your child ever crawled when left lying on his or her stomach?</q> 
+
+      
+        
+
+   2117     
+      
+
+ 
+
+1 2
+ Q4h <q>Has your child ever said any recognisable words such as ‘mama’ or ‘dada’?</q> 
+
+      
+        
+
+   2118     
+      
+
+ 
+
+1 2
+ Q4i 
+
+<q>Has your child ever picked up any small objects, such as raisins or biscuit 
+crumbs, using only his or her thumb and first finger?</q> 
+ 
+
+      
+
+        
+
+   2119     
+      
+
+ 
+
+1 2
+ Q4j 
+
+<q>Has your child ever walked at least two steps with one hand held or holding 
+on to something?</q> 
+ 
+
+      
+
+        
+
+   2120     
+      
+
+ 
+
+1 2
+ Q4k <q>Has your child ever waved goodbye without help from another person?</q> 
+
+      
+        
+
+   2121     
+      
+
+ 
+
+1 2
+ Q4l 
+
+<q>Has your child ever shown by his or her behaviour that he or she knows the 
+name of common objects when somebody else names them out loud?</q> 
+ 
+
+      
+
+        
+
+   2122     
+      
+
+ 
+
+1 2
+ Q4m 
+
+<q>Has your child ever shown that he or she wanted something by pointing, 
+pulling, or making pleasant sounds, rather than by crying or whining?</q> 
+ 
+
+      
+
+        
+
+   2123     
+      
+
+ 
+
+1 2
+ Q4n 
+
+<q>Has your child ever stood alone on his or her feet for 10 seconds or more 
+without holding on to anything or another person?</q> 
+ 
+
+      
+
+        
+
+   2124     
+      
+
+ 
+
+1 2
+ Q4o <q>Has your child ever walked at least two steps without holding on to 
+
+anything or another person?</q> 
+      
+
+Spare 2125 - 129 
+
+ 
+
+Now go to question 6 on page 9 
+
+4 
+
+
+
+Page 9 
+
+ 
+
+   Please answer the following questions about your 10 – 11 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   2130     
+
+      
+
+ 
+
+1 2
+ Q5a <q>Has your child ever crawled when left lying on his or her stomach?</q> 
+
+      
+        
+
+   2131     
+      
+
+ 
+
+1 2
+ Q5b 
+
+<q>Has your child ever said any recognisable words such as ‘mama’ or ‘dada’?</q> 
+
+      
+        
+
+   2132     
+      
+
+ 
+
+1 2
+ Q5c 
+
+<q>Has your child ever picked up any small objects, such as raisins or biscuit 
+crumbs, using only his or her thumb and first finger?</q> 
+
+      
+        
+
+   2133     
+      
+
+ 
+
+1 2
+ Q5d <q>Has your child ever walked at least two steps with one hand held or holding 
+
+on to something?</q> 
+      
+
+        
+
+   2134     
+      
+
+ 
+
+1 2
+ Q5e <q>Has your child ever waved goodbye without help from another person?</q> 
+
+      
+        
+
+   2135     
+      
+
+ 
+
+1 2
+ Q5f 
+
+<q>Has your child ever shown by his or her behaviour that he or she knows the 
+name of common objects when somebody else names them out loud?</q> 
+ 
+
+      
+
+        
+
+   2136     
+      
+
+ 
+
+1 2
+ Q5g 
+
+<q>Has your child ever shown that he or she wanted something by pointing, 
+pulling, or making pleasant sounds, rather than by crying or whining?</q> 
+ 
+
+      
+
+        
+
+   2137     
+      
+
+ 
+
+1 2
+ Q5h 
+
+<q>Has your child ever stood alone on his or her feet for 10 seconds or more 
+without holding on to anything or another person?</q> 
+ 
+
+      
+
+        
+
+   2138     
+      
+
+ 
+
+1 2
+ Q5i 
+
+<q>Has your child ever walked at least two steps without holding on to 
+anything or another person?</q> 
+ 
+
+      
+
+        
+
+   2139     
+      
+
+ 
+
+1 2
+ Q5j <q>Has your child ever crawled up at least two stairs or steps?</q> 
+
+      
+        
+
+   2140     
+      
+
+ 
+
+1 2
+ Q5k <q>Has your child ever said two recognisable words besides ‘mama’ or ‘dada’?</q> 
+
+      
+        
+
+   2141     
+      
+
+ 
+
+1 2
+ Q5l <q>Has your child ever run?</q> 
+
+      
+        
+
+   2142     
+      
+
+ 
+
+1 2
+ Q5m <q>Has your child ever said the names of a familiar object, such as a ball?</q> 
+
+      
+        
+
+   2143     
+      
+
+ 
+
+1 2
+ Q5n <q>Has your child ever made a line with a crayon or pencil?</q> 
+
+      
+        
+
+   2144     
+      
+
+ 
+
+1 2
+ Q5o <q>Has your child ever walked up at least two stairs with one hand held or 
+
+holding the railing?</q> 
+      
+
+Spare 2145 - 149 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Now go to question 6
+
+5 
+
+
+
+Page 10 
+
+ 
+
+ 
+ 
+
+  These questions are about children aged 4 – 11 months. 
+ 
+  Can you say whether the following apply to your child? 
+
+   
+Tick one box on each line 
+
+ 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   2150              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6a 
+
+<q>Your child makes happy sounds (coos, 
+laughs) when having his or her nappy 
+changed, or being dressed</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2151              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6b 
+
+<q>Your child is pleasant (smiles, laughs) when 
+first arriving in unfamiliar places (friend’s 
+house, shop)</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2152              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6c 
+
+<q>Your child is pleasant (coos, smiles) during 
+face washing</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2153              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6d 
+
+<q>Your child is content (smiles, coos) during 
+interruptions of milk or solid feeding</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2154              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6e 
+
+<q>Your child cries remains pleasant or calm 
+with minor injuries (bumps, pinches)</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2155              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6f 
+
+<q>Your child objects to being bathed in a 
+different place or by a different person after 
+2 or 3 tries</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2156              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6g <q>Your child is still wary or frightened of 
+
+strangers after 15 minutes</q> 
+               
+
+                 
+
+   2157              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6h 
+
+<q>Your child adjusts within 10 minutes to new 
+surroundings (home, shop, play area, etc.)</q> 
+ 
+
+               
+
+                 
+
+   2158              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6i 
+<q>Your child adjusts easily and sleeps well 
+within 1 or 2 days with changes of time or 
+place</q> 
+ 
+
+               
+
+                 
+
+   2159              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6j 
+
+<q>Your child accepts his or her bath any time of 
+the day without resisting it</q> 
+ 
+
+               
+
+                 
+
+Spare 2160 - 169
+
+6 
+
+
+
+Page 11 
+
+ 
+
+   Continued… 
+
+  Tick one box on each line 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   2170              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6k 
+
+<q>Your child is shy (turns away or clings to 
+you) on meeting another child for the first 
+time</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2171              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6l 
+<q>For the first few minutes in a new place or 
+situation (new shop or home) your child is 
+fretful</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2172              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6m 
+
+<q>Your child appears bothered (cries or 
+squirms) when first put down in a different 
+sleeping place</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2173              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6n 
+
+<q>Your child’s initial reaction to a new 
+babysitter is rejection (crying, clinging to 
+mother or main carer)</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2174              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6o 
+
+<q>Your child’s initial reaction at home to 
+approach by strangers is acceptance</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2175              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6p 
+
+<q>Your child wants and takes milk feeds at 
+about the same time (within one hour) from 
+day to day</q> 
+  
+
+    
+
+ 
+
+          
+
+                 
+
+   2176              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6q 
+
+<q>Your child gets sleepy at about the same 
+time each evening (within half an hour)</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2177              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6r 
+
+<q>Your child’s daytime naps are about the same 
+length from day to day</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2178              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ 
+
+Q6s 
+
+<q>Your child wants and takes solid food at 
+about the same time (within 1 hour) from 
+day to day</q> 
+ 
+
+    
+
+ 
+
+          
+
+                 
+
+   2179              
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q6t <q>How often does your child make a fuss or cry 
+
+before going to sleep?</q> 
+               
+
+                 
+
+Spare 2180 - 189 
+
+ 
+ 
+
+ 
+ 
+ 
+
+6 
+
+
+
+Page 12 
+
+ 
+ 
+
+ 
+  These questions are about your relationship with your child. Please think about how far    
+  each of the statements currently applies to your relationship with your child. 
+ 
+
+  Tick one box on each line 
+ 
+
+                 
+
+  
+ 
+
+<o>Definitely 
+does not 
+
+apply</o> <o>Not really</o>
+<o>Neutral, 
+not sure</o> 
+
+<o>Applies 
+sometimes</o>
+
+<o>Definitely 
+applies</o> 
+
+   
+2190 
+
+             
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7a <q>I share an affectionate, warm relationship 
+
+with my child</q> 
+               
+
+   
+2191 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7b <q>My child will seek comfort from me</q> 
+
+               
+
+   
+2192 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7c <q>My child is uncomfortable with physical 
+
+affection or touch from me</q> 
+               
+
+   
+2193 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7d <q>When I praise my child, he or she beams 
+
+with pride</q> 
+ 
+
+    
+
+ 
+
+          
+
+   
+2194 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7e <q>My child easily becomes angry at me</q> 
+
+ 
+               
+
+   
+2195 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7f <q>It is easy to be in tune with what my child is 
+
+feeling</q> 
+ 
+
+    
+
+ 
+
+          
+
+   
+2196 
+
+             
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7g <q>My child remains angry or is resistant after 
+
+being disciplined</q> 
+               
+
+   
+2197 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7h <q>Dealing with my child drains my energy</q> 
+
+               
+
+   
+2198 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7i <q>When my child wakes in a bad mood, I know 
+
+we’re in for a long and difficult day</q> 
+               
+
+   
+2199 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q7j <q>My child’s feelings towards me can be 
+
+unpredictable or can change suddenly</q> 
+               
+
+Spare 2200 - 209 
+
+ 
+ 
+ 
+ 
+ 
+
+7 
+
+
+
+Page 13 
+
+ 
+ 
+
+ 
+  Sometimes children are pretty well behaved and other times they are not.  We are   
+  interested in what parents do when their children misbehave. Please think about    
+  how your child has been in the last three months. 
+
+   
+  Tick one box on each line 
+   
+  
+
+<o>Never</o> <o>Rarely</o> 
+
+<o>Sometimes 
+(about once 
+
+a month)</o> 
+
+<o>Often 
+(about 
+once a 
+week)</o> <o>Daily</o> 
+
+   
+2210 
+
+             
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q8a <q>How often have you ignored your child?</q> 
+
+ 
+               
+
+   
+2211 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q8b <q>How often have you shouted at your child?</q>  
+
+ 
+               
+
+   
+2212 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q8c <q>How often have you told your child off?</q> 
+
+ 
+               
+
+   2213   
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q8d <q>How often have you had to bribe your child 
+
+(e.g. with sweets, or a treat)?</q> 
+ 
+
+    
+
+ 
+
+          
+
+   
+2214 
+
+  
+ 
+
+          
+               
+
+ 
+
+1 2
+
+ 
+
+3 
+
+  
+
+4 5
+ Q8e <q>How often have you had to smack your child?</q>
+
+               
+
+ 
+ 
+ 
+
+   <q>Approximately how often do you get the chance to read    
+  stories with or to your child?</q>  
+
+  Tick one box 
+   2215   
+
+    
+
+ 
+
+1
+  Q9 <o>Every day</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Several times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Several times a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Several times a year</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+ 
+
+8 
+
+9 
+
+
+
+Page 14 
+
+ 
+
+    <q>Approximately how many books does your child have     
+   (including books shared with brothers and sisters)?</q>  
+
+  Tick one box 
+   2216   
+
+    
+
+ 
+
+1
+  Q10 <o>No books</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>1 – 2 books</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>3 – 9 books</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>10 – 19 books</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>20 – 49 books</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>50 plus</o>
+
+    
+      
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+   <q>Have you or your child’s other parent ever helped your child 
+   to learn any of the following…</q> 
+  
+
+  Tick all that apply 
+   2217 - 2220  
+
+    
+
+ 
+
+1
+  Q11a <o>…numbers?</o>
+
+    
+      
+
+    
+
+ 
+
+2
+  Q11b <o>…the alphabet?</o>
+
+    
+      
+
+    
+
+ 
+
+3
+  Q11c <o>…colours?</o>
+
+    
+      
+
+    
+
+ 
+
+4
+  Q11d <o>…shapes and sizes?</o>
+
+    
+      
+
+    
+
+ 
+
+5
+  Q11e <o>…none of the above</o>
+
+    
+      
+
+Spare 2221 -  230 
+ 
+ 
+
+Thank you very much for taking the time to answer our questions.  Please give the 
+questionnaire to the interviewer or post it back in the envelope provided. All your 
+answers will remain confidential. Please call Freephone 0500 600 616 if you have 
+
+any queries. 
+ 
+
+10 
+
+11 
+
+

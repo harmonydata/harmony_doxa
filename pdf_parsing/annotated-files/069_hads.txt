@@ -1,0 +1,118 @@
+
+Hospital Anxiety and Depression Scale (HADS) 
+
+ 
+Tick the box beside the reply that is closest to how you have been feeling in the past week. 
+
+Don’t take too long over you replies: your immediate is best. 
+
+D A  D A  
+
+  <q>I feel tense or 'wound up':</q>   <q>I feel as if I am slowed down:</q> 
+
+ 3 <o>Most of the time</o> 3  <o>Nearly all the time</o> 
+
+ 2 <o>A lot of the time</o> 2  <o>Very often</o> 
+
+ 1 <o>From time to time, occasionally</o> 1  <o>Sometimes</o> 
+
+ 0 <o>Not at all</o> 0  <o>Not at all</o> 
+
+      
+
+  <q>I still enjoy the things I used to 
+enjoy:</q> 
+
+  <q>I get a sort of frightened feeling like 
+'butterflies' in the stomach:</q> 
+
+0  <o>Definitely as much</o>  0 <o>Not at all</o> 
+
+1  <o>Not quite so much</o>  1 <o>Occasionally</o> 
+
+2  <o>Only a little</o>  2 <o>Quite Often</o> 
+
+3  <o>Hardly at all</o>  3 <o>Very Often</o> 
+
+      
+
+  <q>I get a sort of frightened feeling as if 
+something awful is about to 
+happen:</q> 
+
+  
+<q>I have lost interest in my appearance:</q> 
+
+ 3 <o>Very definitely and quite badly</o> 3  <o>Definitely</o> 
+
+ 2 <o>Yes, but not too badly</o> 2  <o>I don't take as much care as I should</o> 
+
+ 1 <o>A little, but it doesn't worry me</o> 1  <o>I may not take quite as much care</o> 
+
+ 0 <o>Not at all</o> 0  <o>I take just as much care as ever</o> 
+
+      
+
+  <q>I can laugh and see the funny side 
+of things:</q> 
+
+  <q>I feel restless as I have to be on the 
+move:</q> 
+
+0  <o>As much as I always could</o>  3 <o>Very much indeed</o> 
+
+1  <o>Not quite so much now</o>  2 <o>Quite a lot</o> 
+
+2  <o>Definitely not so much now</o>  1 <o>Not very much</o> 
+
+3  <o>Not at all</o>  0 <o>Not at all</o> 
+
+  <q>Worrying thoughts go through my 
+mind:</q> 
+
+  <q>I look forward with enjoyment to 
+things:</q> 
+
+ 3 <o>A great deal of the time</o> 0  <o>As much as I ever did</o> 
+
+ 2 <o>A lot of the time</o> 1  <o>Rather less than I used to</o> 
+
+ 1 <o>From time to time, but not too often</o> 2  <o>Definitely less than I used to</o> 
+
+ 0 <o>Only occasionally</o> 3  <o>Hardly at all</o> 
+
+      
+
+  <q>I feel cheerful:</q>   <q>I get sudden feelings of panic:</q> 
+
+3  <o>Not at all</o>  3 <o>Very often indeed</o> 
+
+2  <o>Not often</o>  2 <o>Quite often</o> 
+
+1  <o>Sometimes</o>  1 <o>Not very often</o> 
+
+0  <o>Most of the time</o>  0 <o>Not at all</o> 
+
+      
+
+  <q>I can sit at ease and feel relaxed:</q>   <q>I can enjoy a good book or radio or TV 
+program:</q> 
+
+ 0 <o>Definitely</o> 0  <o>Often</o> 
+
+ 1 <o>Usually</o> 1  <o>Sometimes</o> 
+
+ 2 <o>Not Often</o> 2  <o>Not often</o> 
+
+ 3 <o>Not at all</o> 3  <o>Very seldom</o> 
+
+Please check you have answered all the questions 
+ 
+Scoring:  
+Total score: Depression (D) ___________ Anxiety (A) ______________ 
+0-7  = Normal 
+8-10  = Borderline abnormal (borderline case) 
+11-21  = Abnormal (case) 
+ 
+
+

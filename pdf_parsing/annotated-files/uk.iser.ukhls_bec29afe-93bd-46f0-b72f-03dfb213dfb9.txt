@@ -1,0 +1,1736 @@
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+YOUR QUESTIONNAIRE
+
+INTERVIEWER: WRITE IN FROM CAPI SCREEN
+
+Self-completion questionnaire (10-15 yrs)
+
+First name Int No F/Area
+
+Your  
+questionnaire
+
+Serial Address HH.No P.NoChkL
+
+F/Month
+
+P3022 W3/ESW v1 
+ 10-15s
+
+W3_Youth_W3-ESW_GB_v02.indd   2-3 29/10/10   21:22:06
+
+
+
+COMPLETING THE QUESTIONNAIRE
+
+The questions inside cover a wide range of subjects, but each one can  
+be answered simply by ticking the box next to the answer, as in the example  
+below. Next to some of the boxes are arrows and instructions. They show  
+or tell you which question to answer next. If there are no special instructions,  
+just answer the next question.
+
+Example question
+
+Q16 Did you have breakfast today? 
+
+Yes
+
+No
+
+When you have finished answering the questionnaire, please seal it in the  
+envelope and hand it back to the interviewer. If you have any questions  
+or need help, please ask the interviewer. Thank you again for your help.
+
+18
+
+W3_Youth_W3-ESW_GB_v02.indd   4-5 29/10/10   21:22:06
+
+
+
+3 <q>Do you ever use a computer at home? This includes computers for 
+playing games but not games consoles.</q>
+
+<o>Yes</o>             4
+
+<o>No</o>             7
+
+<o>Don’t have a computer at home</o>             7
+
+4 <q>How often do you use a computer at home for doing schoolwork  
+or course work?</q>
+
+<o>Every day</o>  
+
+<o>At least once a week</o>  
+
+<o>At least once a month</o>  
+
+<o>Less often than once a month</o>  
+
+<o>Never</o>  
+
+2 <q>Please tick whether you are male or female.</q>
+
+<o>Male</o>      <o>Female</o>  
+
+1 <q>Please write in your date of birth.</q>
+
+Day Month Year
+
+6 <q>How often do you use the computer at home for connecting to the 
+Internet, including for playing games?</q>
+
+<o>Every day</o>  
+
+<o>At least once a week</o>  
+
+<o>At least once a month</o>  
+
+<o>Less often than once a month</o>  
+
+<o>Never</o>  
+
+5 <q>How many hours do you spend using the computer at home for playing 
+games on a normal school day?</q>
+
+<o>None</o>  
+
+<o>Less than an hour</o>  
+
+<o>1–3 hours</o>  
+
+<o>4–6 hours</o>  
+
+<o>7 or more hours</o>  
+
+7 <q>Do you belong to a social web-site such as Bebo, Facebook  
+or MySpace?</q>
+
+Yes             8     
+
+No             9
+
+W3_Youth_W3-ESW_GB_v02.indd   6-7 29/10/10   21:22:06
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPCOMP
+
+jhemker
+Typewritten Text
+YPPCHW
+
+jhemker
+Typewritten Text
+YPSEX
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPCPGS
+
+jhemker
+Typewritten Text
+YPCINTNT
+
+jhemker
+Typewritten Text
+YPSOCWEB
+
+
+
+8 <q>How many hours do you spend chatting or interacting with friends 
+through a social web-site like that on a normal school day?</q>
+
+<o>None</o>  
+
+<o>Less than an hour</o>  
+
+<o>1–3 hours</o>  
+
+<o>4–6 hours</o>  
+
+<o>7 or more hours</o>  
+
+10 <q>How many hours do you spend playing games on a games console on  
+a normal school day?</q>
+
+<o>None</o>  
+
+<o>Less than an hour</o>  
+
+<o>1–3 hours</o>  
+
+<o>4–6 hours</o>  
+
+<o>7 or more hours</o>  
+
+9 <q>Do you or anyone else in your house have a games console such as 
+Playstation, X-Box, Wii or something like that?</q>
+
+Yes             10     
+
+No             11
+
+11 <q>How many hours do you spend watching TV, including video  
+and DVDs, on a normal school day?</q>
+
+<o>None</o>  
+
+<o>Less than an hour</o>  
+
+<o>1–3 hours</o>  
+
+<o>4–6 hours</o>  
+
+<o>7 or more hours</o>  
+
+12 <q>Do you have your own personal mobile phone?</q>
+
+Yes    
+
+No  
+
+13 <q>How many close friends do you have – friends you could talk to if you 
+were in some kind of trouble?</q>
+
+Write in number  
+
+W3_Youth_W3-ESW_GB_v02.indd   8-9 29/10/10   21:22:06
+
+jhemker
+Typewritten Text
+YPNETCHT
+
+jhemker
+Typewritten Text
+YPCONSOL
+
+jhemker
+Typewritten Text
+YPCONSTM
+
+jhemker
+Typewritten Text
+YPTVVIDHRS
+
+jhemker
+Typewritten Text
+YPMOBU
+
+jhemker
+Typewritten Text
+YPNPAL
+
+
+
+14 <q>In the past 7 days how many times have you eaten an evening meal 
+together with the rest of your family who live with you?</q>
+
+<o>None</o>  
+
+<o>1–2 times</o>  
+
+<o>3–5 times</o>  
+
+<o>6–7 times</o>  
+
+The next few questions are about you and your family.
+
+15 <q>Do you feel supported by your family, that is the people  
+who live with you?</q>
+
+<o>I feel supported by my family  
+in most or all of the things I do</o>
+
+<o>I feel supported by my family  
+in some of the things I do</o> 
+
+<o>I do not feel supported by  
+my family in the things I do</o>
+
+17 <q>In the past month, how many times have you stayed out after 9.00pm 
+at night without your parents knowing where you were?</q>
+
+<o>Never</o>  
+
+<o>1–2 times</o>  
+
+<o>3–9 times</o>  
+
+<o>10 or more times</o>  
+
+16 <q>Suppose you felt upset or worried about something and you wanted  
+to talk about it. Who would you turn to first within your family?</q>  
+Please tick one box only.
+
+<o>Mum or stepmum</o>  
+
+<o>Dad or stepdad</o>  
+
+<o>A brother or sister (or step-brother/sister)</o>  
+
+<o>Another relative living with you</o>  
+
+<o>Another relative not living with you</o>  
+
+<o>No-one within my family</o>  
+
+18 <q>Do you have any brothers or sisters living with you at home?</q> 
+
+Yes             19
+
+No             21
+
+W3_Youth_W3-ESW_GB_v02.indd   10-11 29/10/10   21:22:07
+
+jhemker
+Typewritten Text
+YPEATLIVU
+
+jhemker
+Typewritten Text
+YPFAMSUP
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPUPSET
+
+jhemker
+Typewritten Text
+YPLATE
+
+jhemker
+Typewritten Text
+YPSIBLING
+
+
+
+The next few questions are about your relationship with your 
+parents even if either of them live in a different household to you.
+
+20 How often do you do any of the following to your brothers or  
+sisters at home?
+
+<q>Hit, kick, or push them</q>
+
+<q>Take their belongings</q>
+
+<q>Call them nasty names</q>
+
+<q>Make fun of them</q>
+
+<o>Never</o>
+
+<o>Not much
+(1–3 times in 
+
+last 6 months)</o>
+
+<o>Quite a lot
+(more than 4 
+times in the 
+
+last 6 months)</o>
+
+<o>A lot
+(a few times 
+every week)</o>
+
+    
+
+    
+
+    
+
+    
+
+19 How often do any of your brothers or sisters do any  
+of the following to you at home?
+
+<o>Never</o>
+
+<o>Not much
+(1–3 times in 
+
+last 6 months)</o>
+
+<o>Quite a lot
+(more than 4 
+times in the 
+
+last 6 months)</o>
+
+<o>A lot
+(a few times 
+every week)</o>
+
+<q>Hit, kick, or push you</q>
+
+<q>Take your belongings</q>
+
+<q>Call you nasty names</q>
+
+<q>Make fun of you</q>
+
+    
+
+    
+
+    
+
+    
+
+22 <q>How often do you quarrel with your father?</q>
+
+<o>Most days</o>  
+
+<o>More than once a week</o>  
+
+<o>Less than once a week</o>  
+
+<o>Hardly ever</o>  
+
+<o>Don’t have a father</o>  
+
+21 <q>Most children have occasional quarrels with their parents.  
+How often do you quarrel with your mother?</q> 
+
+<o>Most days</o>  
+
+<o>More than once a week</o>  
+
+<o>Less than once a week</o>  
+
+<o>Hardly ever</o>  
+
+<o>Don’t have a mother</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   12-13 29/10/10   21:22:07
+
+jhemker
+Typewritten Text
+YPSIBHIT
+
+jhemker
+Typewritten Text
+YPSIBSTEAL
+
+jhemker
+Typewritten Text
+YPSIBVERAB
+
+jhemker
+Typewritten Text
+YPSIBTEASE
+
+jhemker
+Typewritten Text
+YPHITSIB
+
+jhemker
+Typewritten Text
+YPSTEALSIB
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPVERABSIB
+
+jhemker
+Typewritten Text
+YPTEASESIB
+
+jhemker
+Typewritten Text
+YPARGM
+
+jhemker
+Typewritten Text
+YPARGF
+
+
+
+23 <q>How often do you talk to your mother, about things that  
+matter to you?</q>
+
+<o>Most days</o>  
+
+<o>More than once a week</o>  
+
+<o>Less than once a week</o>  
+
+<o>Hardly ever</o>  
+
+<o>Don’t have a mother</o>  
+
+24 <q>How often do you talk to your father, about things that  
+matter to you?</q>
+
+<o>Most days</o>  
+
+<o>More than once a week</o>  
+
+<o>Less than once a week</o>  
+
+<o>Hardly ever</o>  
+
+<o>Don’t have a father</o>  
+
+25 <q>Do you have a step-mother or father, or someone like this, living  
+at home with you?</q>
+
+Yes             26     
+
+No             27
+
+26 <q>How would you rate your relationship with your step-mother or father, 
+or other person like this?</q>
+
+<o>Very good</o>  
+
+<o>Good</o>  
+
+<o>Fair</o>  
+
+<o>Poor</o>  
+
+<o>Very poor</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   14-15 29/10/10   21:22:07
+
+jhemker
+Typewritten Text
+YPTLKM
+
+jhemker
+Typewritten Text
+YPTLKF
+
+jhemker
+Typewritten Text
+YPSTEPHAS
+
+jhemker
+Typewritten Text
+YPSTEPREL
+
+
+
+27
+ 
+Now for some questions about how you see yourself as a person.  
+For each item, please tick the box for Not True, Somewhat True or 
+Certainly True. It would help us if you answered all items as best you 
+can even if you aren’t absolutely certain. Please give your answers on 
+the basis of how things have been for you over the last six months.
+
+<q>I try to be nice to other people. 
+I care about their feelings</q>
+
+<q>I am restless, I cannot  
+stay still for long</q>
+
+<q>I get a lot of headaches,  
+stomach-aches or sickness</q>
+
+<q>I usually share with others  
+(food, games, pens, etc.)</q>
+
+<q>I get very angry and often  
+lose my temper</q>
+
+<q>I am usually on my own. I generally 
+play alone or keep to myself</q>
+
+<q>I usually do as I am told</q> 
+
+<q>I worry a lot</q> 
+
+<q>I am helpful if someone is hurt, 
+upset or feeling ill</q>
+
+<q>I am constantly fidgeting  
+or squirming</q>
+
+<q>I have one good friend  
+or more</q>
+
+<o>Not 
+true</o>
+
+<o>Somewhat 
+true</o>
+
+<o>Certainly 
+true</o>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+<q>I fight a lot. I can make other people 
+do what I want</q>
+
+<q>I am often unhappy,  
+down-hearted or tearful</q>
+
+<q>Other people my age  
+generally like me</q>
+
+<q>I am easily distracted, I find it difficult 
+to concentrate</q>
+
+<q>I am nervous in new situations. 
+I easily lose confidence</q>
+
+<q>I am kind to young children</q> 
+
+<q>I am often accused of lying  
+or cheating</q>
+
+<q>Other children or young people  
+pick on me or bully me</q>
+
+<q>I often volunteer to help others 
+(parents, teachers, children)</q>
+
+<q>I think before I do things</q> 
+
+<q>I take things that are not mine from 
+home, school or elsewhere</q>
+
+<q>I get on better with adults than with 
+people my own age</q>
+
+<q>I have many fears, I am easily scared</q> 
+
+<q>I finish the work I’m doing</q> 
+
+ 
+ 
+
+<o>Not 
+true</o>
+
+<o>Somewhat 
+true</o>
+
+<o>Certainly 
+true</o>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+W3_Youth_W3-ESW_GB_v02.indd   16-17 29/10/10   21:22:07
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPSDQA
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPSDQB
+
+jhemker
+Typewritten Text
+YPSDQC
+
+jhemker
+Typewritten Text
+YPSDQD
+
+jhemker
+Typewritten Text
+YPSDQE
+
+jhemker
+Typewritten Text
+YPSDQF
+
+jhemker
+Typewritten Text
+YPSDQG
+
+jhemker
+Typewritten Text
+YPSDQH
+
+jhemker
+Typewritten Text
+YPSDQI
+
+jhemker
+Typewritten Text
+YPSDQJ
+
+jhemker
+Typewritten Text
+YPSDQK
+
+jhemker
+Typewritten Text
+YPSDQL
+
+jhemker
+Typewritten Text
+YPSDQM
+
+jhemker
+Typewritten Text
+YPSDQN
+
+jhemker
+Typewritten Text
+YPSDQO
+
+jhemker
+Typewritten Text
+YPSDQP
+
+jhemker
+Typewritten Text
+YPSDQQ
+
+jhemker
+Typewritten Text
+YPSDQR
+
+jhemker
+Typewritten Text
+YPSDQS
+
+jhemker
+Typewritten Text
+YPSDQT
+
+jhemker
+Typewritten Text
+YPSDQU
+
+jhemker
+Typewritten Text
+YPSDQV
+
+jhemker
+Typewritten Text
+YPSDQW
+
+jhemker
+Typewritten Text
+YPSDQX
+
+jhemker
+Typewritten Text
+YPSDQY
+
+jhemker
+Typewritten Text
+
+
+
+28 The next few questions are about how you feel about different aspects  
+of your life. The faces express various types of feelings. Below each face  
+ is a number where ‘1’ is completely happy and ‘7’ is not at all happy. 
+Please tick the box which comes closest to expressing how you feel  
+about each of the following things...
+
+A <o>Your school work?</o>
+
+B <o>Your appearance?</o>
+
+6 72 3 541
+
+6 72 3 541
+
+6 72 3 541
+
+C <o>Your family?</o> F <q>Which best describes how you feel about your life as a whole?</q>
+
+D <o>Your friends?</o>
+
+E <o>The school you go to?</o>
+
+6 72 3 541
+
+6 72 3 541
+
+6 72 3 541
+
+W3_Youth_W3-ESW_GB_v02.indd   18-19 29/10/10   21:22:08
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPHSW
+
+jhemker
+Typewritten Text
+YPHAP
+
+jhemker
+Typewritten Text
+YPHFM
+
+jhemker
+Typewritten Text
+YPHFR
+
+jhemker
+Typewritten Text
+YPHSC
+
+jhemker
+Typewritten Text
+YPHLF
+
+
+
+30 <q>How much do you worry that you might be a victim of a crime?</q>
+
+<o>A big worry</o>  
+
+<o>A bit of a worry</o>  
+
+<o>An occasional doubt</o>  
+
+<o>Not a worry at all</o>  
+
+31 <q>How safe would you feel walking alone in this area after dark?</q> 
+
+<o>Very safe</o>  
+
+<o>Fairly safe</o>  
+
+<o>A bit unsafe</o>  
+
+<o>Very unsafe</o>  
+
+29 <q>Overall, do you like living in this neighbourhood?</q> 
+
+Yes  
+
+No  
+
+The next questions are about school and what you want to 
+happen in the future.
+
+32 <q>How important do you think it is for you to do well in your  
+GCSE exams or Standard Grades (if you live in Scotland)?</q>
+
+<o>Very important</o>  
+
+<o>Important</o>  
+
+<o>Not very important</o>  
+
+<o>Not at all important</o>  
+
+33
+ 
+<q>In the future, young people may have to stay in education or training 
+until they are aged 18. What would you most like to do when you have 
+completed your final GCSE / Standard Grade year at around age 16?</q>
+
+<o>Get a full-time job</o>             35   
+
+<o>Stay at school or college to do 
+A levels/Highers</o>             34   
+
+<o>Get an apprenticeship</o>             34   
+
+<o>Do some other form of training</o>             34   
+
+<o>Do something else</o>             34   
+
+<o>Don’t know</o>             34   
+
+W3_Youth_W3-ESW_GB_v02.indd   20-21 29/10/10   21:22:08
+
+jhemker
+Typewritten Text
+YPLLKNBRD
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPCRWRA
+
+jhemker
+Typewritten Text
+YPCRWORB
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPACVWELL
+
+jhemker
+Typewritten Text
+YPLVSC2DO
+
+jhemker
+Typewritten Text
+
+
+
+36 <q>My parents are interested in how I do at school.</q>
+
+<o>Always or nearly always</o>  
+
+<o>Sometimes</o>  
+
+<o>Hardly ever</o>  
+
+<o>Never</o>  
+
+<o>Not sure</o>  
+
+35 <q>In the last 12 months, have you ever played truant, that is  
+missed school without permission, even if it was only for a half day  
+or single lesson?</q>
+
+Yes  
+
+No  
+
+34 <q>Would you like to go on to do further full-time education  
+at a college or University after you finish school?</q>
+
+<o>Yes</o>  
+
+<o>No</o>  
+
+<o>Don’t know</o>  
+
+37 <q>My parents come to school parents evenings.</q>
+
+<o>Always or nearly always</o>  
+
+<o>Sometimes</o>  
+
+<o>Hardly ever</o>  
+
+<o>Never</o>  
+
+<o>Not sure</o>  
+
+38 <q>How often do other pupils at your school misbehave or cause  
+trouble in your classes?</q>
+
+<o>In most or all of your classes</o>  
+
+<o>Less often but in more than 
+half of your classes</o>  
+
+<o>In about half your classes</o>  
+
+<o>Now and then</o>  
+
+<o>This is not a problem at all</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   22-23 29/10/10   21:22:08
+
+jhemker
+Typewritten Text
+YP2UNI
+
+jhemker
+Typewritten Text
+YPTRUANT
+
+jhemker
+Typewritten Text
+YPPARSCH
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPPAREVE
+
+jhemker
+Typewritten Text
+YPOTRMISB
+
+jhemker
+Typewritten Text
+
+
+
+Now some questions about bullying at school.
+
+40 <q>How often do you get physically bullied at school, for example getting 
+hit, pushed around or threatened, or having belongings stolen?</q>
+
+<o>Never</o>  
+
+<o>Not much (1–3 times in the last 6 months)</o>  
+
+<o>Quite a lot (more than 4 times
+in the last 6 months)</o>  
+
+<o>A lot (a few times every week)</o>  
+
+39 <q>And how often would you say you yourself misbehave or cause  
+trouble in your classes?</q>
+
+<o>In most or all of your classes</o>  
+
+<o>Less often but in more than
+half of your classes</o>  
+
+<o>In about half your classes</o>  
+
+<o>Now and then</o>  
+
+<o>This is not a problem at all</o>  
+
+41 <q>How often do you get bullied in other ways at school such as getting 
+called names, getting left out of games, or having nasty stories spread 
+about you on purpose?</q>
+
+<o>Never</o>  
+
+<o>Not much (1–3 times in the last 6 months)</o>  
+
+<o>Quite a lot (more than 4 times
+in the last 6 months)</o>  
+
+<o>A lot (a few times every week)</o>  
+
+42 <q>Do you physically bully other children at school by hitting or pushing 
+them around, threatening them or stealing their things?</q>
+
+<o>Never</o>  
+
+<o>Not much (1–3 times in the last 6 months)</o>  
+
+<o>Quite a lot (more than 4 times
+in the last 6 months)</o>  
+
+<o>A lot (a few times every week)</o>  
+
+43 <q>How often do you bully children in other ways at school such as calling 
+them names, leaving them out of games or spreading nasty stories 
+about them on purpose?</q>
+
+<o>Never</o>  
+
+<o>Not much (1–3 times in the last 6 months)</o>  
+
+<o>Quite a lot (more than 4 times
+in the last 6 months)</o>  
+
+<o>A lot (a few times every week)</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   24-25 29/10/10   21:22:09
+
+jhemker
+Typewritten Text
+YPMISBSCH
+
+jhemker
+Typewritten Text
+YPFRPBULLI
+
+jhemker
+Typewritten Text
+YPFROBULLI
+
+jhemker
+Typewritten Text
+YPFRPBULLY
+
+jhemker
+Typewritten Text
+YPFROBULLY
+
+
+
+47 <q>How many hours paid work did you do last week? If you have more 
+than one job please write in the total hours worked at all of them.</q>
+
+Write in hours  
+
+48 <q>What was your total pay last week?  If you earned money from more 
+than one job, please write in the total you earned from all of them.</q>
+
+Write in number of £  
+   
+
+and pence  
+
+45 <q>How much money did you receive last week to spend on yourself? 
+Please include pocket money and any allowance you get. But if you 
+have a job, do not include money you earned.</q>
+
+Write in number of £  
+   
+
+and pence  
+
+44 <q>Which of the following describes what you usually do with your money?</q>
+
+<o>I save up to buy things I want</o>  
+
+<o>I save money and try not to spend it</o>  
+
+<o>I spend money as soon as I get it</o>  
+
+46 <q>Did you do any paid work last week?</q>
+
+Yes             47     
+
+No             49
+
+Here are some questions about money and any work you may do.
+
+49
+ 
+<q>Some people your age may have to look after other people.  
+This could be a brother or sister, a relative or someone else who is 
+disabled or sick. Is there anyone like this who lives here with you that 
+you have to look after on a regular basis?</q>
+
+Yes – in this household             50     
+
+No             53
+
+The next questions are about taking care of others
+
+50 <q>Who do you look after?</q> Tick all that apply.
+
+<o>Mother/Father</o>  
+
+<o>Grandfather/Grandmother</o>  
+
+<o>Brother/Sister</o>  
+
+<o>Another adult relative</o>  
+
+<o>Another adult who is not a relative</o>  
+
+<o>Another child relative</o>  
+
+<o>Another child who is not a relative</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   26-27 29/10/10   21:22:09
+
+jhemker
+Typewritten Text
+YPSAVE
+
+jhemker
+Typewritten Text
+YPPKMP
+
+jhemker
+Typewritten Text
+YPWKLW
+
+jhemker
+Typewritten Text
+YPWHRS
+
+jhemker
+Typewritten Text
+YPPAY
+
+jhemker
+Typewritten Text
+YPCARE
+
+jhemker
+Typewritten Text
+YPCAWHO1
+
+jhemker
+Typewritten Text
+YPCAWHO2
+
+jhemker
+Typewritten Text
+YPCAWHO3
+
+jhemker
+Typewritten Text
+YPCAWHO4
+
+jhemker
+Typewritten Text
+YPCAWHO5
+
+jhemker
+Typewritten Text
+YPCAWHO6
+
+jhemker
+Typewritten Text
+YPCAWHO7
+
+jhemker
+Typewritten Text
+
+
+
+Here are a few questions about health and nutrition.
+
+53 <q>How many days in a usual week do you eat fast food such as 
+McDonalds, Burger King, KFC or other take-aways like that?</q>
+
+<o>Every day, or nearly every day</o>  
+
+<o>About once a week</o>  
+
+<o>Every now and then</o>  
+
+<o>Never or hardly ever</o>  
+
+51 <q>About how many hours a week would you say that you usually  
+spend looking after or doing things for them?</q>
+
+Write in hours  
+
+52 <q>How often do you have to miss school to do this?</q>
+
+<o>Never</o>  
+
+<o>Once a week or more often</o>  
+
+<o>Once or twice a month</o>  
+
+56 <q>Please read the statements below and tick the box beside the 
+statement that describes you best.</q>
+
+<o>I have smoked only once or twice</o>  
+
+<o>I used to smoke but I don’t now</o>  
+
+<o>I sometimes smoke, but not
+ every week</o> 
+
+<o>I usually smoke between one and
+ six cigarettes a week</o>
+
+<o>I usually smoke more than six
+ cigarettes a week</o>
+
+54 <q>How many days in a usual week do you eat crisps or sweets or have 
+fizzy drinks such as Coke or lemonade?</q>    
+
+<o>Every day, or nearly every day</o>  
+
+<o>About once a week</o>  
+
+<o>Every now and then</o>  
+
+<o>Never or hardly ever</o>  
+
+55 <q>Do you ever smoke cigarettes at all?</q>
+
+Yes             56     
+
+No             57
+
+W3_Youth_W3-ESW_GB_v02.indd   28-29 29/10/10   21:22:09
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+YPCAHRS
+
+jhemker
+Typewritten Text
+YPCASCH
+
+jhemker
+Typewritten Text
+YPFFDWK
+
+jhemker
+Typewritten Text
+YPJFD
+
+jhemker
+Typewritten Text
+YPEVRSMO
+
+jhemker
+Typewritten Text
+YPSMOFRQ
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+jhemker
+Typewritten Text
+
+
+
+63 <q>In the past year, have you taken something from a shop, supermarket, 
+or department store without paying?</q>
+
+<o>Never</o>  
+
+<o>Once or twice</o>  
+
+<o>Several times</o>  
+
+<o>Often</o>  
+
+59 <q>And would you say that you drink regularly, that is at least once  
+a week?</q> 
+
+Yes  
+
+No  
+
+60 <q>How many times in the last four weeks have you had  
+an alcoholic drink?</q>
+
+<o>Most days</o>  
+
+<o>Once or twice a week</o>  
+
+<o>2 or 3 times</o>  
+
+<o>Once only</o>  
+
+<o>Never</o>  
+
+58 <q>Have you ever had an alcoholic drink? That is a whole drink,  
+not just a sip.</q> 
+
+Yes             59     
+
+No             61
+
+Just to remind you, all your answers are confidential and will not 
+be seen by anyone in your household.
+
+57 <q>Do you have any friends who drink alcohol regularly, that is at least 
+once a week?</q>
+
+Yes  
+
+No  
+
+61 <q>How often in the past month have you had a fight with  
+someone that involved physical violence, such as hitting,  
+punching, or kicking?</q>
+
+<o>None</o>  
+
+<o>Once</o>  
+
+<o>2–5 times</o>  
+
+<o>6–9 times</o>  
+
+<o>10 or more times</o>  
+
+62 <q>In the past year, have you deliberately broken or damaged property 
+that didn’t belong to you?</q>
+
+<o>Never</o>  
+
+<o>Once or twice</o>  
+
+<o>Several times</o>  
+
+<o>Often</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   30-31 29/10/10   21:22:09
+
+jhemker
+Typewritten Text
+YPFRALCO
+
+jhemker
+Typewritten Text
+YPEVRALC
+
+jhemker
+Typewritten Text
+YPREGALCO
+
+jhemker
+Typewritten Text
+YPDKLM
+
+jhemker
+Typewritten Text
+YPFGHT
+
+jhemker
+Typewritten Text
+YPVAND
+
+jhemker
+Typewritten Text
+YPSHOP
+
+
+
+64 <q>Which of the following groups do you think you belong to?</q>
+
+White
+
+<o>British</o>   
+
+<o>English</o>  
+
+<o>Scottish</o>  
+
+<o>Welsh</o>   
+
+<o>Northern Irish</o>  
+
+<o>Irish</o>  
+
+<o>Gypsy or Irish Traveller</o>  
+
+<o>Any other White Background</o>   
+
+Mixed 
+
+<o>White and Black Caribbean</o>  
+
+<o>White and Black African</o>  
+
+<o>White and Asian</o>  
+
+<o>Any other mixed background</o>   
+
+Please tick one answer on the list for each of the  
+following questions.
+
+Asian or Asian British
+
+<o>Indian</o>  
+
+<o>Pakistani</o>  
+
+<o>Bangladeshi</o>  
+
+<o>Chinese</o>  
+
+<o>Any other Asian background</o>    
+
+Black / African / Caribbean / Black British
+
+<o>Caribbean</o>  
+
+<o>African</o>  
+
+<o>Any other Black background</o>   
+
+Other
+
+<o>Arab</o>  
+
+<o>Any other ethnic group</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   32-33 29/10/10   21:22:10
+
+jhemker
+Typewritten Text
+YPRACE
+
+
+
+65 <q>And what is your religion? If you have no religion tick “No religion”.</q>
+
+<o>No religion</o>  
+
+<o>Church of England/Anglican</o>  
+
+<o>Roman Catholic</o>  
+
+<o>Church of Scotland</o>  
+
+<o>Free Church or Free Presbyterian
+ Church of Scotland</o> 
+
+<o>Episcopalian</o>  
+
+<o>Methodist</o>  
+
+<o>Baptist</o>  
+
+<o>Congregational/United Reform/URC</o>  
+
+<o>Other Christian</o>  
+
+<o>Christian (no denomination specified)</o>  
+
+<o>Muslim/Islam</o>  
+
+<o>Hindu</o>  
+
+<o>Jewish</o>  
+
+<o>Sikh</o>  
+
+<o>Buddhist</o>  
+
+<o>Other</o>  
+
+<o>I don’t know</o>  
+
+66 <q>If you could vote for a political party, which one would you vote for?</q>
+
+<o>Conservatives</o>  
+
+<o>Labour</o>  
+
+<o>Liberal Democrat</o>  
+
+<o>Scottish National Party</o>  
+
+<o>Plaid Cymru</o>  
+
+<o>Green Party</o>  
+
+<o>Other party</o>   
+
+<o>None</o>  
+
+67 <q>How interested are you in politics?</q>
+
+<o>Very interested</o>  
+
+<o>Fairly interested</o>  
+
+<o>Not interested</o>  
+
+W3_Youth_W3-ESW_GB_v02.indd   34-35 29/10/10   21:22:10
+
+jhemker
+Typewritten Text
+YPRELIGGB
+
+jhemker
+Typewritten Text
+YPVTE3GB
+
+jhemker
+Typewritten Text
+YPVTE6
+
+
+
+The final two questions are about what you want 
+to do in the future.
+
+Thank you
+for your help
+
+Please place the questionnaire in the envelope  
+and hand it back to your interviewer.
+ 
+Or please return to the address below: 
+
+National Centre for Social Research
+Unit B2, Admiralty Park, Station Road, Holton Heath,
+Poole, BH16 6HX
+
+68 <q>At what age would you like to leave home?</q>
+
+Write in age  
+
+69 <q>Finally, what job would you like to do once you leave school  
+or finish your full-time education?</q>
+
+W3_Youth_W3-ESW_GB_v02.indd   36-37 29/10/10   21:22:10
+
+jhemker
+Typewritten Text
+YPLVHM
+
+
+
+

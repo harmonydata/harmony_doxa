@@ -1,0 +1,68 @@
+
+Youth Strengths Inventory 
+
+N1 As descrições a seguir servem para ele(a)? <o>Não</o> <o>Um 
+pouco</o> <o>Muito</o> 
+
+a) <q>Generoso(a)</q> 0 1 2 
+
+b) <q>Animado(a)</q> 0 1 2 
+
+c) <q>Tem vontade de aprender</q> 0 1 2 
+
+d) <q>Afetuoso(a)</q> 0 1 2 
+
+e) <q>Confiável e responsável</q> 0 1 2 
+
+f) <q>Fácil de lidar</q> 0 1 2 
+
+g) <q>Divertido(a), com senso de humor</q> 0 1 2 
+
+h) <q>Interessado em muitas coisas</q> 0 1 2 
+
+i) <q>Carinhoso(a), bom-coração</q> 0 1 2 
+
+j) <q>Se algo dá errado, levanta a cabeça e segue em 
+frente</q> 0 1 2 
+
+k) <q>Agradecido(a), dá valor ao que recebe</q> 0 1 2 
+
+l) <q>Independente</q> 0 1 2 
+ 
+
+N2 Quais são as coisas que ele/a faz que realmente 
+lhe agradam? <o>Não</o> <o>Um 
+
+pouco</o> <o>Muito</o> 
+
+a) <q>Ajuda em casa</q> 0 1 2 
+
+b) <q>Se dá bem com o resto da família</q> 0 1 2 
+
+c) <q>Faz a lição de casa sem precisar ser lembrado(a)</q> 0 1 2 
+
+d) <q>Atividades criativas: artes, interpretação, 
+música, trabalhos manuais</q> 0 1 2 
+
+e) <q>Gosta de estar envolvido(a) em atividades 
+familiares</q> 0 1 2 
+
+f) <q>Cuida da aparência</q> 0 1 2 
+
+g) <q>Bom/Boa em trabalhos escolares</q> 0 1 2 
+
+h) <q>Educado(a)</q> 0 1 2 
+
+i) <q>Bom/boa em esportes</q> 0 1 2 
+
+j) <q>Mantém o quarto arrumado</q> 0 1 2 
+
+k) <q>Bom/boa com amigos</q> 0 1 2 
+
+l) <q>Bem comportado(a)</q> 0 1 2 
+ 
+ 
+
+ 
+
+

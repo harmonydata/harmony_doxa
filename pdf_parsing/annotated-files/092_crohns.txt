@@ -1,0 +1,51 @@
+
+Crohn's Disease Activity Index (CDAI) 
+Determines the current severity of Crohn’s disease. 
+INSTRUCTIONS: Fill out form/circle best answer. Signs, symptoms, and history should be based on the 
+past 7 days. 
+ 
+<q>Weight:</q>  __________ lbs    <q>Ideal body weight:</q> ____________ lbs 
+ 
+<q>Sex:</q>   Male     Female   (circle one) 
+ 
+ 
+<q>Abdominal Pain (as of today):</q>  
+ <o>None</o> = 0 
+ <o>Mild</o> = 1 
+ <o>Moderate</o> = 2 
+ <o>Severe</o> = 3 
+ 
+<q>Overall abdominal pain:</q> 
+ <o>None</o> = 0 
+ <o>Mild: Does not interfer with activities:</o> = 5 
+ <o>Moderate/Severe: Daily, longer lasting, affects activities, noctural</o> = 10 
+ 
+<q>General well-being:</q> 
+ <o>Generally well</o> = 0 
+ <o>Slightly under par</o> = 1 
+ <o>Poor</o> = 2 
+ <o>Very poor</o> = 3 
+ <o>Terrible</o> = 4 
+ 
+<q>Anti-diarrhea drug use:</q> 
+ No = 0 
+ Yes = 1 
+ 
+<q>Abdominal mass:</q> 
+ <o>No</o> = 0 
+ <o>Questionable</o> = 2 
+ <o>Definite</o> = 5 
+ 
+<q>Number of soft/liquid stools in the last 7 days:</q>  ___________ stools 
+(Norm: 0.5-2) 
+ 
+<q>Stools per day</q> 
+ <o>0–1 liquid stools, no blood</o> = 0 
+ <o>2-5 liquid or ≤2 semi-formed with small blood</o> = 5 
+ <o>≥6 liquid, gross blood, or nocturnal diarrhea</o> = 10 
+
+ 
+<q>Hematocrit:</q> __________ % (If unknown, leave blank.) 
+(Norm: 36-51,  Normal average:     For Male = 47     For Female = 42) 
+
+

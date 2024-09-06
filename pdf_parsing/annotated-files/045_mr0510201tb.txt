@@ -1,0 +1,90 @@
+
+Using a scale from 1 to 10, where 1 means 
+“Strongly Disagree” and 10 means “Strongly 
+
+Agree”, please indicate how much you agree or 
+disagree with the following statements 
+
+(Mean scores on a 1-10 
+scale) 
+
+(Mean scores on a 1-10 
+scale) 
+
+ <o>Women</o> <o>Men</o> 
+ 1019 962 
+   
+
+<q>I don’t like to get overly involved in money matters</q>  4.8 4.2 
+
+<q>I enjoy taking care of my financial affairs</q>   7.0 7.8 
+
+<q>I don’t consider myself to be money savvy</q>  5.0 4.5 
+
+<q>I know a lot about financial products and services 
+offered by financial institutions</q>  5.1 5.9 
+
+<q>I know how to take advantage of all the different 
+things you can do with your money</q>  5.2 6.0 
+<q>It is important for me to keep well informed about 
+financial issues</q>  6.3 7.1 
+
+<q>I always try to pay using cash or debit card</q>  7.3 6.4 
+<q>I’m comfortable borrowing against the equity in my 
+home</q>  3.7 4.5 
+<q>I have difficulty paying off my debt</q>  3.4 2.9 
+
+<q>I am more of a ‘spender’ than a ‘saver’</q>  4.2 3.8 
+
+<q>I can get what I want from many financial institutions</q>  6.2 6.5 
+<q>I would find it easy to change from one financial 
+institution to another</q>  5.0 5.6 
+
+<q>I always actively look for new offers and check that I 
+am getting the best deal from my financial institution</q>   4.7 5.3 
+
+<q>I go to the financial institution holding my product(s) 
+first for a quote before switching</q>  6.1 6.8 
+
+<q>Any time there’s a single company as the only 
+supplier of a product or service, it’s bad for the 
+customer</q>  6.4 7.2 
+<q>I prefer to have my business with one financial 
+institution if possible</q>   7.4 6.7 
+
+<q>I find banking and personal finance interesting and 
+know quite a lot about it</q>  5.5 6.3 
+<q>Tend to stick to the FI you know</q> 8.7 8.0 
+<q>I feel confident that I will have enough money to retire 
+comfortably</q>  6.1 6.8 
+
+
+
+Using a scale from 1 to 10, where 1 means 
+“Strongly Disagree” and 10 means “Strongly 
+
+Agree”, please indicate how much you agree or 
+disagree with the following statements 
+
+(Mean scores on a 1-10 
+scale) 
+
+(Mean scores on a 1-10 
+scale) 
+
+ <o>Women</o> <o>Men</o> 
+ 1019 962 
+
+<q>I am satisfied with my household’s current financial 
+situation</q>  6.0 6.6 
+<q>I am comfortable when I have to negotiate</q>  5.4 6.1 
+<q>I believe in paying more to get better quality</q>  5.2 5.5 
+<q>I’ll go to whatever financial institution gives me the 
+best deal</q>  6.3 6.7 
+<q>I like to do things on the spur of the moment</q>  5.1 4.5 
+<q>I don’t like to invest in the stock market because it is 
+too risky</q>  6.3 5.5 
+
+ 
+
+

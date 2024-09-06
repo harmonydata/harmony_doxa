@@ -1,0 +1,965 @@
+
+NEIGHBOURHOOD ASSESSMENT 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ VISIT 1 2 3 4 5 6 
+ Day of Week (<o>Monday = 1</o>, <o>Tues = 2</o>, <o>Weds=3</o>, <o>Thurs-4</o>. 
+
+<o>Fri=5</o>, <o>Sat=6</o>, <o>Sun=7</o>
+      
+
+ Time of Day <o>Morning = 1</o>, <o>Afternoon = 2</o>, <o>Evening =3</o>       
+1. <q>How would you rate the general condition of 
+
+most of the residences or other buildings in 
+the street?</q> 
+
+<o>Well kept, good repair & exterior surfaces</o>
+<o>Fair condition</o>
+
+<o>Poor condition, peeling paint, broken 
+windows</o>
+
+<o>Badly deteriorated</o>
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+4 
+
+2. <q>Do any of the fronts of residential or 
+commercial units have metal security blinds, 
+
+gates, or iron bars & grilles?</q> 
+
+<o>None</o>
+<o>Some</o>
+<o>Most</o>
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+3. <q>Are there any traffic calming measures in 
+place on the street?</q> 
+
+Yes
+No
+
+1 
+2 
+
+     
+
+4. <q>How would you rate the volume of traffic on 
+the street?</q> 
+
+<o>No traffic permitted</o>
+<o>Light</o>
+
+<o>Moderate</o>
+
+<o>Heavy</o>
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+5. <q>Are there any abandoned or burnt-out cars 
+
+on the street?</q> 
+Yes
+
+No
+
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+6. <q>Is there any of the following: rubbish, litter, 
+
+broken glass, drug related items, beer cans 
+etc, cigarette ends or discarded packs - in the 
+street or on the pavement?</q> 
+
+<o>None or almost none</o>
+<o>Yes, some</o>
+
+         <o>Yes, just about everywhere you look</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+7. <q>Is there dog mess on the pavement?</q> <o>None</o>
+<o>Some</o>
+
+<o>A lot</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+8. <q>Is there any graffiti on walls or on public 
+
+spaces like bus shelters, telephone boxes or 
+notice boards?</q> 
+
+<o>No</o>
+<o>A little</o>
+
+<o>A lot</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+9. <q>Is there any evidence of vandalism such as 
+
+broken glass from car windows, bus shelters, 
+telephone boxes?</q> 
+
+No
+
+Yes
+
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+
+10. <q>Are there any adults or teenagers in the 
+street or on the pavements arguing, fighting, 
+drinking, or behaving in any kind of hostile or 
+threatening way?</q> 
+
+<o>No–one seen in the street or pavement</o>
+<o>None observed behaving in hostile ways</o>
+
+<o>Yes, one or two arguing etc.</o>
+
+   <o>Yes, at least one group of three or more</o>
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+11 <q>How did you feel parking, walking, waiting at 
+
+the door in the street?</q> 
+<o>Very comfortable, can imagine living/ 
+
+shopping here</o>
+<o>Comfortable - a safe and friendly place</o>
+
+<o>Fairly safe and comfortable</o>
+<o>I would be uncomfortable living/ 
+
+working/shopping here</o>
+<o>I felt like an outsider, looked on 
+
+suspiciously</o>
+
+            <o>I felt afraid for my personal safety</o> 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+4 
+ 
+5 
+
+6 
+12. <q>Did you notice anything else - positive or 
+
+negative - about the street?</q>  WRITE IN 
+ 
+
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+
+ 
+
+INTERVIEWER: stick barcode label here.  
+If you have no more barcode labels please write in the 
+
+household serial number 
+
+
+
+The assessments on this page must be for the same household as the 
+previous page 
+
+ 
+NEIGHBOURHOOD ASSESSMENT 
+
+ 
+ VISIT 1 2 3 4 5 6 
+ Day of Week (<o>Monday = 1</o>, <o>Tues = 2</o>, <o>Weds=3</o>, <o>Thurs-4</o>. 
+
+<o>Fri=5</o>, <o>Sat=6</o>, <o>Sun=7</o>
+      
+
+ Time of Day <o>Morning = 1</o>, <o>Afternoon = 2</o>, <o>Evening =3</o>       
+1. <q>How would you rate the general condition of 
+
+most of the residences or other buildings in 
+the street?</q> 
+
+<o>Well kept, good repair & exterior surfaces</o>
+<o>Fair condition</o>
+
+<o>Poor condition, peeling paint, broken 
+windows</o>
+
+<o>Badly deteriorated</o>
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+
+4 
+
+1 
+2 
+3 
+ 
+4 
+
+2. <q>Do any of the fronts of residential or 
+commercial units have metal security blinds, 
+
+gates, or iron bars & grilles?</q> 
+
+<o>None</o>
+<o>Some</o>
+<o>Most</o>
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+1 
+2 
+3 
+
+3. <q>Are there any traffic calming measures in 
+place on the street?</q> 
+
+Yes
+No
+
+1 
+2 
+
+     
+
+4. <q>How would you rate the volume of traffic on 
+the street?</q> 
+
+<o>No traffic permitted</o>
+<o>Light</o>
+
+<o>Moderate</o>
+
+<o>Heavy</o>
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+5. <q>Are there any abandoned or burnt-out cars 
+
+on the street?</q> 
+Yes
+
+No
+
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+6. <q>Is there any of the following: rubbish, litter, 
+
+broken glass, drug related items, beer cans 
+etc, cigarette ends or discarded packs - in the 
+street or on the pavement?</q> 
+
+<o>None or almost none</o>
+<o>Yes, some</o>
+
+         <o>Yes, just about everywhere you look</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+7. <q>Is there dog mess on the pavement?</q> <o>None</o>
+<o>Some</o>
+
+<o>A lot</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+8. <q>Is there any graffiti on walls or on public 
+
+spaces like bus shelters, telephone boxes or 
+notice boards?</q> 
+
+<o>No</o>
+<o>A little</o>
+
+<o>A lot</o>
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+
+1 
+2 
+
+3 
+9. <q>Is there any evidence of vandalism such as 
+
+broken glass from car windows, bus shelters, 
+telephone boxes?</q> 
+
+No
+
+Yes
+
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+1 
+
+2 
+
+10. <q>Are there any adults or teenagers in the 
+street or on the pavements arguing, fighting, 
+drinking, or behaving in any kind of hostile or 
+threatening way?</q> 
+
+<o>No–one seen in the street or pavement</o>
+<o>None observed behaving in hostile ways</o>
+
+<o>Yes, one or two arguing etc.</o>
+
+   <o>Yes, at least one group of three or more</o>
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+
+1 
+2 
+3 
+
+4 
+11 <q>How did you feel parking, walking, waiting at 
+
+the door in the street?</q> 
+<o>Very comfortable, can imagine living/ 
+
+shopping here</o>
+<o>Comfortable - a safe and friendly place</o>
+
+<o>Fairly safe and comfortable</o>
+<o>I would be uncomfortable living/ 
+
+working/shopping here</o>
+<o>I felt like an outsider, looked on 
+
+suspiciously</o>
+
+            <o>I felt afraid for my personal safety</o> 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+
+4 
+ 
+
+5 
+
+6 
+
+ 
+1 
+2 
+3 
+ 
+4 
+ 
+5 
+
+6 
+12. <q>Did you notice anything else - positive or 
+
+negative - about the street?</q>  WRITE IN 
+ 
+
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------
+
+ 
+ 
+
+

@@ -1,0 +1,96 @@
+
+Pensando nos últimos seis meses, você: 
+
+ <o>Nunca</o> <o>Uma 
+vez</o> 
+
+<o>Duas 
+vezes</o> 
+
+<o>Três 
+vezes</o> 
+
+<o>Quatro 
+vezes</o> 
+
+<o>Cinco 
+vezes</o> 
+
+<o>Mais 
+de 
+
+cinco 
+vezes</o> 
+
+<o>NÃO SABE</o> 
+
+DSHI1. <q>Cortou os pulsos, braços ou 
+outras partes do corpo</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI2. <q>Queimou-se com cigarros, 
+isqueiros ou fósforos</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI3. <q>Fez palavras, ou desenhos na 
+pele através de cortes</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI4. <q>Arranhou-se gravemente a 
+ponto de sangrar</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI5. <q>Mordeu-se a ponto de abrir a 
+pele</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI6. <q>Cravou objetos pontudos na 
+pele</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI7. <q>Bateu a cabeça a ponto de 
+provocar um machucado</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI8. <q>Se deu socos a ponto de 
+provocar um machucado</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI9. <q>Não deixou feridas cicatrizarem</q> 0 1 2 3 4 5 6 99 
+
+DSHI10a. <q>Outro comportamento auto 
+lesivo:</q> 
+
+0 
+àDSHI11 
+
+<q>Descreva:</q> 
+↓ DSHI10b 
+
+99 
+àDSHI11 
+
+DSHI10b. <q>Quantas vezes realizou o 
+comportamento mencionado 
+anteriormente:</q> 
+
+0 1 2 3 4 5 6 99 
+
+DSHI11. <q>Qualquer comportamento auto 
+lesivo suficientemente grave para 
+precisar de hospitalização ou de 
+tratamento médico</q> 
+
+0 1 2 3 4 5 6 99 
+
+ 
+
+

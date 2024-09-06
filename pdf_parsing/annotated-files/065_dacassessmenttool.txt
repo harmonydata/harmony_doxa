@@ -1,0 +1,513 @@
+
+   
+ 
+
+   
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+DAC Assessment Tool 
+Design, Analyze, Communicate (DAC)  
+
+A questionnaire to support the scientific design review of clinical trial study synopses 
+and protocols to enhance the probability of an informative outcome 
+
+ 
+
+Version 2023 
+
+ 
+
+  
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+2  
+
+Introduction 
+Clinical studies are significant investments. They are a major source of information for 
+go/no-go decisions, regulatory approval, health economics and outcomes research, 
+policy determinations, and ultimately patient access and public health benefits. 
+Unfortunately, too few clinical studies provide meaningfully robust answers to the 
+questions being addressed1. Inadequate planning of trial design, analysis and 
+communication can lead to erroneous or meaningless results – deemed “uninformative” 
+by some. “Uninformativeness” is detrimental to the research field because it wastes 
+scarce resources, risks rejecting medicines or strategies that could have impact, and 
+can erode trust between investigators and participants2. 
+
+In contrast, “informativeness is a characterization of a clinical trial that indicates the 
+study will achieve its recruitment, statistical power, and other design goals, resulting in 
+credibly answering its research questions”3. 
+
+Designing and implementing informative clinical studies requires a team of qualified 
+specialists. Frequently this includes, but is not limited to, principal investigators, experts 
+in the given disease, clinicians, biostatisticians, pharmacologists, pharmacometricians 
+(where the intervention is a drug or requires a dose and regimen selection), and locally 
+based operational experts. 
+
+The mission of the Bill & Melinda Gates Foundation’s (BMGF’s) Design, Analyze, 
+Communicate (DAC) Program is to improve the informativeness of BMGF-funded global 
+health clinical studies by performing scientific design reviews, also called “DAC 
+Reviews.”  DAC Reviews are conducted by teams of BMGF-funded clinical trial experts 
+in the areas listed above.  The review approach prioritizes an overall assessment of trial 
+informativeness, as defined by 16 validated research methods for informative clinical 
+trial planning, or “best practices” (see Table 1 below).  In addition, the review approach  
+evaluates studies for other key critical factors.  BMGF grantees that go through a DAC 
+Review receive written feedback about their study planning that they can use to help 
+finalize their trial protocol and other key study documents.  
+
+About this document 
+The DAC Assessment Tool (DAT) document is a questionnaire developed by the BMGF 
+DAC team and filled out by grantees that go through the DAC review process.  Besides 
+serving as a key document for DAC reviews, the DAT questionnaire can also be used 
+more broadly by Principal Investigators and their teams as a guide for informative 
+clinical study planning. 
+
+ 
+
+1 Hutchinson et al., “The proportion of randomized controlled trials that inform clinical practice” 
+
+(2022)  https://doi.org/10.7554/eLife.79491 
+2 Zarin et al., “Harms From Uninformative Clinical Trials” (2019) doi:10.1001/jama.2019.9892 
+3 Dolley et al., “A Maturity Model for the Scientific Review of Clinical Trial Designs and Their Informativeness” Preprints 2023, 
+
+2023040147. https://doi.org/10.20944/preprints202304.0147.v1 
+
+https://doi.org/10.7554/eLife.79491
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+3  
+
+The DAT is divided into three sections of clinical study planning topics: general, design, 
+analyze, and communicate. The DAT questions that focus on study planning details 
+related to one or more of the 16 best practices for study informativeness are noted with 
+a number in brackets that corresponds to the specific best practice(s) as listed in Table 
+1 (please note, there are DAT questions below that cite no, one or multiple best 
+practices). 
+
+  
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+4  
+
+Table 1. Best practice research methods for informative clinical trial planning 
+
+DAC Best Practices (BP) Definitions 
+
+1. Prioritize disease burden and 
+epidemiology as criteria for study site 
+selection 
+
+9. Design interim analyses with decision rules for 
+stopping for success or futility early enough to reduce 
+the number of participants subjected to ineffective 
+interventions 
+
+2. Use accepted and validated endpoints 
+whenever possible 
+
+10. When appropriate, use model-informed drug 
+development, such as PK/PD modeling 
+
+3. Proactively map study outcome to 
+immediate or ultimate policy impact 
+
+11. Adhere to appropriate standards of randomization, 
+blinding, allocation concealment, and reducing bias 
+
+4. Rigorously justify effect estimates and 
+prevalence assumptions 
+
+12. Use staff with experience in the therapeutic area 
+being studied 
+
+5. Simulate trial to ensure right sample 
+size and optimal design 
+
+13. Implement a real-time data analysis capability, 
+toward improved monitoring of recruitment targets, 
+data quality, and other metrics 
+
+6. When feasible and relevant, apply 
+adaptive, pragmatic, platform, or other 
+innovative clinical trial designs 
+
+14. Engage local regulators, ethics committees and 
+policymakers before, during, and after the study, for 
+input on design, obtaining relevant approvals, and 
+action at study's end 
+
+7. Analyze real world evidence to optimize 
+study investments, objectives, and 
+feasibility 
+
+15. Implement a communication plan and informed 
+consent that involves participants, families, 
+communities, and health systems 
+
+8. Prior to study initiation, complete a 
+prospective, fixed statistical analysis plan 
+
+16. Publish protocol, analysis plan, and study results, 
+including raw study data and code, in an open access 
+resource, regardless of study outcome 
+
+  
+
+  
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+5  
+
+GENERAL ASPECTS 
+
+ G1 <q>What is the category of the study? [Select from: Regulated medicine 
+(drugs and vaccines), Non-regulated interventions (foods, implementation 
+research), Vector control, Other – please specify]</q> 
+
+G2 <q>What is the stage of the study? [Select from: Phase I, Phase II, Phase III, 
+Phase IV, Observational, Device or Behavioral Intervention, Other – 
+please specify]</q> 
+
+G3 <q>What is the purpose of the study? [Check all that apply: drug discovery, 
+regulatory pathway/approval, new application or extension of existing 
+license, non-regulatory product intervention, health technology 
+assessment, policy change, health system strengthening, Other – please 
+specify]</q> [BP 3] 
+
+G4 <q>What is the general goal of the study and the specific scientific 
+question(s) to be answered? Explain why the intervention was chosen 
+and how the study will clearly answer or better inform the scientific 
+question(s).</q> [BP 3] 
+
+G5 <q>Outline how the proposed study fits into the overall development or life 
+cycle strategy for the intervention. How will this study build on the 
+existing knowledge base, what new information will it provide, and by 
+when is this information required for most impactful informativeness?</q> [BP 
+3] 
+
+G6 <q>What decision, clinical program advancement, policy or policy 
+change, would a positive outcome in your study help to support? How will 
+the results be generalizable to multiple countries or regions?</q> [BP 3] 
+
+G7 <q>Describe how you have considered the designs and outcomes of 
+previous studies and/or real world evidence in the design of this study 
+(please include references). If any of these studies were of poor design or 
+had other weaknesses, explain how you plan to address these aspects in 
+your design.</q> [BP 7] 
+
+G8 <q>Please detail the external (to your organization) advice you have 
+received or plan to seek in the design of this study, including regulatory, 
+scientific, ethical, and implementation aspects. If the study is aimed 
+towards a change in health policy, have you engaged with policy makers 
+to factor their requirements or concerns into the design of this study? 
+Have you solicited or received advice from local experts regarding 
+epidemiology, existing interventions, relevant standards of care, and 
+conduct of studies in the setting you propose? If so, please describe.</q> [BPs 
+1, 3, 14] 
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+6  
+
+G9 <q>Describe your plans for study monitoring, ensuring data integrity and 
+quality management.</q> [BP 13] 
+
+G10 <q>Describe what you or others see as the limitations, challenges, and 
+risks of this proposed study.  Please summarize your mitigation plans for 
+each.</q> 
+
+ 
+
+DESIGN ASPECTS 
+
+D1 <q>Describe your rationale for the proposed study location(s) including disease 
+burden, availability of disease-specific trained staff and facilities, and 
+assumptions used for expected site recruitment rates. How recent and localized 
+are your prevalence estimates?</q> [BPs 1, 4, 12] 
+
+D2 <q>Describe how the duration of the study is adequate to answer the scientific 
+question(s), considering the anticipated clinical efficacy effect, as well as 
+expected duration of effect and risk of treatment failure or relapse.</q> [BP 4] 
+
+D3 <q>Detail the main potential sources of bias during the study and how these will be 
+minimized.</q> [BP 11] 
+
+D4 <q>Describe the randomization method, including type of randomization, 
+stratification factors and other features of the randomization scheme and any 
+restrictions and methods used to implement.</q> [BP 11] 
+
+D5 <q>Please describe your plans for blinding the study. Please describe who will and 
+will not be blinded to study treatment (e.g., data monitoring committee, steering 
+committee), and plans for blinding/unblinding study data during the analysis 
+phase of the study.</q> [BP 11] 
+
+D6 <q>Describe your safety monitoring plan including any safety aspects that require 
+specific monitoring and/or mitigation action. How will safety alerts be handled?</q> 
+[BP 13] 
+
+D7 <q>Describe how the proposed eligibility criteria relate to the population suffering 
+from, or at risk of, the disease or condition. If this is a cluster randomized trial, 
+what eligibility criteria will apply to clusters?</q> [BP 1]  
+
+D8 <q>What steps will you take to ensure a population as diverse and representative 
+as possible and appropriate will be included in this study?</q> 
+
+D9 <q>Will any restrictions in eligibility affect generalizability? Conversely, are you 
+planning on restricting eligibility and enriching the population to maximize the 
+chance of demonstrating efficacy? If so, please expand on the reasons.</q> [BP 3]  
+
+D10 <q>Will the effects of biological sex on pharmacokinetic/pharmacodynamic 
+(PK/PD), efficacy, and/or safety be investigated in the study? If so, how, and if</q> 
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+7  
+
+<q>not, why not? If both biological sexes are eligible for enrollment, are measures 
+needed to ensure both have equal opportunity to enroll?</q> 
+
+D11 <q>Will this study enroll special populations (e.g., elderly, children, pregnant 
+women, nursing mothers, HIV-positive individuals)? Describe any special safety 
+considerations needed to enroll these populations. Is the target population for 
+clinical use likely to include these groups? If these special populations are 
+excluded from the study, yet experience the disease, discuss how this gap will be 
+addressed, and how this will affect the product label or policy considerations on 
+the use of the intervention in this population.</q> [BPs 3, 13] 
+
+References: https://database.ich.org/sites/default/files/E7_Guideline.pdf  
+
+https://database.ich.org/sites/default/files/E11_R1_Addendum.pdf 
+
+D12 <q>How do the primary and secondary endpoints address the scientific 
+question(s) and purpose(s) of the trial? Please describe or reference the general 
+acceptability of your selected primary and secondary endpoint methodologies. If 
+no validated or accepted endpoints exist, please detail the input and alignment 
+on your endpoints that you have received from key disease area stakeholders 
+(e.g., disease area researchers, policy makers) and any limitations this poses to 
+the potential informativeness of this study.</q> [BPs 2, 14] 
+
+D13 <q>Please describe the rationale for the selection of the time period for measuring 
+the endpoints. Also describe what is known about the variability of your selected 
+primary and secondary endpoints. For example, consider diurnal variability, 
+seasonal and geographic variability, measurement variability, intra-person 
+variability and spatial variability (if cluster-randomized).</q> [BP 2] 
+
+D14 <q>What are the strengths and limitations of these endpoints regarding the 
+consistency with which they may be ascertained in study subjects?</q> [BP 2] 
+
+D15 <q>For endpoints that are based on lab data that are non-routine (e.g., antibody 
+titers and other biologic assays), and collected at multiple lab locations, please 
+describe how the endpoint assays are validated across the different labs.</q> [BP 2] 
+
+D16 <q>What is the basis for the effect size estimate used to power your study? Is the 
+study powered to detect the minimally clinically relevant effect size? Describe the 
+current data or assumptions that justify the response rates and explain if and how 
+it varies depending on the severity of the disease.</q> [BP 4] 
+
+D17 <q>What is the basis for the sample size calculation? Did you use simulation to 
+perform your sample size calculation, and if not, would you be willing to?</q> [BP 5] 
+
+D18 <q>Does the protocol allow for adjustment of sample size based on review of event 
+rates at baseline, during a run-in period, or during the study? If you are not 
+presently committed to one, please comment on how a pilot or run-in period 
+might be a beneficial addition to correct for or improve inputs on actual site-</q>
+
+https://database.ich.org/sites/default/files/E7_Guideline.pdf
+https://database.ich.org/sites/default/files/E11_R1_Addendum.pdf
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+8  
+
+<q>specific burden of disease, recruitment rates, and other potential inputs.</q> [BPs 4, 
+13] 
+
+D19 <q>Provide a detailed description of the simulations that were conducted as a part 
+of developing your proposed study design and sample size, and include the 
+associated code if applicable. Explain how the simulations support your design 
+as the best one to implement (e.g., adaptive and/or factorial allows testing of 
+multiple doses/interventions). Have simulations been run on the likely response 
+rates, disease prevalence, incidence, likely variability of the data, ability to follow 
+up patients etc.? If simulations were not run, please explain the rationale why 
+not.</q> [BP 5] 
+
+For regulated medicines only: 
+
+D20 <q>Describe the dose selection criteria. Please provide background documentation 
+related to model-informed drug development considerations including PK/PD 
+assessments, exposure-response modeling, dose ranging studies, or 
+regimen/dosing frequency studies that support the dose and regimen selection. 
+Are there any demographic factors (age, sex, body weight, race) that may 
+influence exposure to the intervention? Have you performed or will you perform 
+modeling considered model-informed drug development for this trial?</q> [BP 10] 
+
+D21 <q>Is the drug or vaccine or product under test currently licensed and being used in 
+accordance with the license and/or standard of care? If not, do you anticipate 
+any changes before further studies?</q> 
+
+D22 <q>Describe your plans for PK (and, if applicable, PD/biomarker) sampling during 
+this study. How will results be compared to what is already known about the 
+disposition of the test medicinal product? How will PK data and parameters be 
+linked with PD effect, efficacy measures, and/or adverse events?</q> [BP 10] 
+
+For regulated medicines or non-regulated interventions only: 
+
+D23 <q>Explain how the potential for PK or PD interactions (e.g., drug-drug or between 
+agents in the study/or food effects or other substances recipients may receive) 
+have been considered and addressed in your design and inclusion/exclusion 
+criteria.</q> [BP 10] 
+
+For vector control studies only: 
+
+D24 <q>Are there plans to monitor environmental impact and minimize any impact? 
+How will interventions be disposed of at the end of the study?</q> 
+
+D25 <q>Are there plans to monitor durability and efficacy over the life of the product? 
+Please explain the rationale to monitor or not.</q> 
+
+  
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+9  
+
+ANALYZE ASPECTS 
+
+A1 <q>Describe your statistical analysis plan, including method for subject allocation, 
+measurement methods of response variables, hypothesis to be tested, analytical 
+approach to common problems including early study withdrawal and protocol 
+violations. Please also describe your plans to analyze and report disaggregated 
+data by biological sex, including data for withdrawals or dropouts.</q> [BP 8] 
+
+Reference: Stevens G, Dolley S, Mogg R, Connor JT. A template for the 
+authoring of statistical analysis plans. Contemp Clin Trials Commun. 2023 Jun 
+9;34:101100. doi: 10.1016/j.conctc.2023.101100 
+
+A2 <q>Describe your interim analysis plans inclusive of decision rules/stopping rules, 
+possible outcomes and statistical adjustment considerations. Please describe 
+any pre-planned adjustments to the study design (e.g., adaptive designs) and 
+operating characteristics of the decision rules related to the adaptive elements of 
+the design.</q> [BPs 6, 9] 
+
+A3 <q>Describe how adherence with treatment is being measured and analyzed. What 
+is known about adherence with the intervention in this patient population? Are 
+there sex considerations in adherence?</q>  
+
+A4 <q>Describe your data collection and management plan. Are you planning to 
+include real-time data collection and analysis tools? If so, provide details. Are you 
+planning to use digital data collection tools? If so, have they been appropriately 
+validated and certified?</q> [BP 13] 
+
+ 
+
+COMMUNICATE ASPECTS 
+
+C1 <q>Describe your community engagement strategy and communication plan, 
+including timing. Do you have a communication plan for how you will promote 
+and communicate the trial toward optimizing recruitment? How could you do 
+more?</q> [BP 15] 
+
+Reference: Shelly, C.E., Logan, C., Skorochod, B. et al. Creating a best practice 
+template for participant communication plans in global health clinical 
+studies. Trials 24, 158 (2023). https://doi.org/10.1186/s13063-023-07185-4 
+
+C2 <q>Describe your plans for study consent (or alternatively community assent), 
+including allowing data reuse and biological sampling.</q> [BP 15] 
+
+C3 <q>If a multi-site study, please describe your cross-site communication and 
+collaboration plan that ensures alignment of study site protocols, clinic 
+operations training, data collection, data standardization, and cross-site data 
+sharing.</q> [BP 15] 
+
+
+
+DAT Version 2023 
+ 
+
+  
+
+ 
+10  
+
+C4 <q>On which publicly accessible database will your study be registered? [Select all 
+that apply: ISRCTN, clinicaltrials.gov, Pan-African Clinical Trials Registry, Other 
+please specify)</q> [BP 16] 
+
+Note: It would be expected that registration would be on one of the WHO 
+compliant registries or clinicaltrials.gov 
+
+C5 <q>Describe your commitment and plans to publish study results in an open access 
+journal as soon as is practical, regardless of outcome, as well as your forecast of 
+when the publication will be submitted following database lock.</q> [BP 16] 
+
+C6 <q>How will you disseminate research findings to relevant parties, including policy 
+makers?</q> [BP 14] 
+
+C7 <q>Describe how you will facilitate data sharing of your study results including your 
+plan to publish your raw, most granular study data and associated analysis 
+code, such that, when the code is run by a third party on the data package 
+provided, the third party will be able to reproduce your test statistic values.</q> [BP 
+16] 
+
+

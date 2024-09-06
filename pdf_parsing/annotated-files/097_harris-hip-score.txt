@@ -1,0 +1,187 @@
+
+Harris Hip Score 
+ 
+ 
+Clinician’s Name: ____________________________     Patient’s Name: ___________________________ 
+ 
+Please answer the following questions.    
+
+Section 1  
+<q>Pain</q>   <q>Support</q>  
+
+ 
+<o>None, or ignores it</o>   <o>None</o>  
+
+ 
+<o>Slight, occasional, no compromise in activity</o>   <o>Cane/Walking stick for long walks</o>  
+
+ 
+<o>Mild pain, no effect on average activities, rarely moderate pain with 
+unusual activity, may take aspirin</o>   <o>Cane/Walking stick most of the time</o>  
+
+ 
+
+<o>Moderate pain, tolerable but makes concessions to pain. Some 
+limitations of ordinary activity or work. May require occasional pain 
+medication stronger than aspirin</o>  
+
+ <o>One crutch</o>  
+
+ 
+<o>Marked pain, serious limitation of activities</o>   <o>Two Canes/Walking sticks</o>  
+
+ 
+<o>Totally disabled, crippled, pain in bed, bedridden</o>   <o>Two crutches or not able to walk</o>  
+
+       
+<q>Distance walked</q>   <q>Limp</q>  
+
+ 
+<o>Unlimited</o>   <o>None</o>  
+
+ 
+<o>Six blocks (30 minutes)</o>   <o>Slight</o>  
+
+ 
+<o>Two or three blocks (10 - 15 minutes)</o>   <o>Moderate</o>  
+
+ 
+<o>Indoors only</o>   <o>Severe or unable to walk</o>  
+
+ 
+<o>Bed and chair only</o>       
+
+       
+<q>Activities - shoes, socks</q>   <q>Stairs</q>  
+
+ 
+<o>With ease</o>   <o>Normally without using a railing</o>  
+
+ 
+<o>With difficulty</o>   <o>Normally using a railing</o>  
+
+ 
+<o>Unable to fit or tie</o>   <o>In any manner</o>  
+
+     <o>Unable to do stairs</o>  
+
+       
+<q>Public transportation</q>   <q>Sitting</q>  
+
+ 
+<o>Able to use transportation (bus)</o>   <o>Comfortably, ordinary chair for one hour</o>  
+
+ 
+<o>Unable to use public transportation (bus)</o>   <o>On a high chair for 30 minutes</o>  
+
+     <o>Unable to sit comfortably on any chair</o>  
+
+To score this section all four must be 'yes', then get 4 points. Nb. Not 1 point for each four or nothing.      
+Section 2 - Answer ALL 4 yes/no questions  
+Does your patient have: -  
+
+ 
+yes 
+
+ 
+no 
+
+ 
+
+<q>Less than 30degrees of fixed flexion</q>   
+yes
+
+no
+<q>Less than 10 degrees of fixed int rotation in extension</q>  
+
+ 
+yes 
+
+ 
+no 
+
+ 
+
+<q>Less than 10 degrees of fixed adduction</q>   
+yes
+
+no
+<q>Limb length discrepancy less than 3.2 cm (1.5 inches)</q>  
+
+ 
+The answer to all four questions is yes (click only if true)  
+
+
+
+       
+Section 3 - Motion  
+<q>Total degrees of Flexion</q>   <q>Total degrees of Abduction</q>  
+
+ 
+<o>None</o>  <o>None</o> 
+
+ 
+<o>0 >8</o>  <o>0 > 5</o> 
+
+ 
+<o>8 > 16</o>  <o>5 > 10</o> 
+
+ 
+<o>16 > 24</o>  <o>10 > 15</o> 
+
+ 
+<o>24 > 32</o>  <o>15 > 20</o> 
+
+ 
+<o>32 > 40</o>  <q>Total degrees of Ext Rotation</q>  
+
+ 
+<o>40 > 45</o>  <o>None</o> 
+
+ 
+<o>45 > 55</o>  <o>0 > 5</o>  
+
+ 
+<o>55 > 65</o>  <o>5 > 10</o> 
+
+ 
+<o>65 > 70</o>  <o>10 > 15</o> 
+
+ 
+<o>70 > 75</o>  <q>Total degrees of Adduction</q>  
+
+ 
+<o>75 > 80</o>  <o>None</o> 
+
+ 
+<o>80 > 90</o>  <o>0 > 5</o> 
+
+ 
+<o>90 > 100</o>  <o>5 > 10</o> 
+
+ 
+<o>100 > 110</o>  <o>10 > 15</o> 
+
+ 
+
+<q>The Harris Hip Score is:</q> _______________________ 
+
+Grading for the Harris Hip Score 
+
+Successful result 
+
+=post operative increase in Harris Hip Score of > 20 points + radiographically stable implant + no additional femoral reconstruction 
+
+Or 
+<70 Poor   70 - 79 Fair  80-89 Good  90 -100 Excellent 
+
+bgospavic
+
+
+
+	f4: 
+	f10: 
+	harrishipscore: 0
+	Text1: This form presents outcome measures and any accompanying information as an educational service to our customers. While the information is about musculo-skeletal symptoms and disability and their impact on individuals, it is not medical advice.Although Stryker believes this information to be accurate and timely, because of the rapid advances in medical research we make no warranty or guarantee concerning the accuracy or reliability of the content at this site or other sites to which we link.
+
+

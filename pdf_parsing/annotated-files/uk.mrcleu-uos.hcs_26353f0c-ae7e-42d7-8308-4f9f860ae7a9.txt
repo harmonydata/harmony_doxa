@@ -1,0 +1,77 @@
+
+ 
+
+HERTFORDSHIRE 31-39 
+SPIROMETRY 
+
+ 
+Name Serial Number    /     
+
+ 
+ 
+ 
+<q>Time of day</q>    
+
+ 
+<q>Room temperature</q> 
+
+ 
+
+ 
+<q>Observer</q> 
+
+ 
+
+ 
+ 
+First reading 
+ 
+
+<q>FEV 1</q>       
+
+      
+
+<q>FVC</q>       
+
+ 
+ 
+Second reading 
+ 
+
+<q>FEV 1</q>       
+
+      
+
+<q>FVC</q>       
+
+ 
+ 
+Third reading 
+ 
+
+<q>FEV 1</q>       
+
+      
+
+<q>FVC</q>       
+
+ 
+ 
+<q>Technique</q>  good/poor 
+ 
+<q>Other comments</q> 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+

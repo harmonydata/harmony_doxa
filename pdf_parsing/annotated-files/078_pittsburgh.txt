@@ -1,0 +1,356 @@
+
+   
+
+Pittsburgh Sleep Quality Index (PSQI) 
+
+ 
+ 
+
+      Instructions: The following questions relate to your usual sleep habits during the past month only. Your answers  
+
+      should indicate the most accurate reply for the majority of days and nights in the past month. Please answer          
+
+      all questions.   
+ 
+
+      1. <q>During the past month, what time have you usually gone to bed at night?</q> ___________________  
+
+2. <q>During the past month, how long (in minutes) has it usually taken you to fall asleep each night?</q> __________ 
+
+3. <q>During the past month, what time have you usually gotten up in the morning?</q>  ___________________  
+
+4. <q>During the past month, how many hours of actual sleep did you get at night? (This may be different than the 
+
+number of hours you spent in bed.)</q> ___________________  
+
+ 
+
+5. During the past month, how often have you had  <o>Not during</o>  <o>Less than</o>  <o>Once or</o>  <o>Three or more</o> 
+trouble sleeping because you…  <o>the past</o>  <o>once a</o>  <o>twice a</o>   <o>times a week</o> 
+ <o>month</o>  <o>week</o> <o>week</o>   
+
+a.  <q>Cannot get to sleep within 30 minutes</q>      
+
+b.  <q>Wake up in the middle of the night or early 
+     morning</q>    
+
+    
+
+c.  <q>Have to get up to use the bathroom</q>      
+
+d.  <q>Cannot breathe comfortably</q>      
+
+e.  <q>Cough or snore loudly</q>      
+
+f.   <q>Feel too cold</q>      
+
+g.  <q>Feel too hot</q>      
+
+h.  <q>Have bad dreams</q>      
+
+i.   <q>Have pain</q>      
+
+j.   <q>Other reason(s), please describe:</q>     
+
+     
+
+     
+
+6. <q>During the past month, how often have you 
+taken medicine to help you sleep (prescribed or 
+“over the counter”)?</q>   
+
+    
+
+7. <q>During the past month, how often have you had      
+
+trouble staying awake while driving, eating meals, 
+or engaging in social activity?</q> 
+
+    
+
+ <o>No</o> <o>Only a</o> <o>Somewhat</o> <o>A very big</o> 
+ <o>problem</o> <o>very slight</o> <o>of a</o> <o>problem</o> 
+ <o>at all</o> <o>problem</o> <o>problem</o>  
+
+8. <q>During the past month, how much of a problem 
+has it been for you to keep up enough enthusiasm 
+to get things done?</q>                 
+
+    
+
+ <o>Very</o>  <o>Fairly</o>  <o>Fairly</o>  <o>Very</o> 
+ <o>good</o> <o>good</o> <o>bad</o> <o>bad</o> 
+
+9.  <q>During the past month, how would you rate 
+your sleep quality overall?</q> 
+
+    
+
+     
+
+ 
+
+ 
+
+Name:__________________________________________                         Date: ________________ 
+
+
+
+   
+
+ <o>No bed 
+partner or 
+room mate</o> 
+
+<o>Partner/room 
+mate in 
+
+other room</o> 
+
+<o>Partner in 
+same room but 
+not same bed</o> 
+
+<o>Partner in 
+same bed</o> 
+
+10.  <q>Do you have a bed partner or room   
+mate?</q> 
+
+    
+
+ <o>Not during 
+the past 
+month</o> 
+
+<o>Less than 
+once a week</o> 
+
+<o>Once or twice 
+a week</o> 
+
+<o>Three or 
+more times 
+
+a week</o> 
+If you have a room mate or bed partner, ask 
+him/her how often in the past month you have 
+had: 
+
+    
+
+a.  <q>Loud snoring</q>     
+
+b.  <q>Long pauses between breaths while asleep</q>     
+c.  <q>Legs twitching or jerking while you sleep</q>       
+d.  <q>Episodes of disorientation or confusion  
+     during sleep</q> 
+
+    
+
+e.  <q>Other restlessness while you sleep, please 
+     describe:</q> 
+ 
+ 
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+   
+
+Scoring the PSQI 
+ 
+
+The order of the PSQI items has been modified from the original order in order to 
+fit the first 9 items (which are the only items that contribute to the total score) on a single 
+page. Item 10, which is the second page of the scale, does not contribute to the PSQI 
+score.  
+ 
+ In scoring the PSQI, seven component scores are derived, each scored 0 (no 
+difficulty) to 3 (severe difficulty). The component scores are summed to produce a global 
+score (range 0 to 21). Higher scores indicate worse sleep quality. 
+ 
+Component 1: Subjective sleep quality—question 9 
+
+Response to Q9  Component 1 score 
+Very good    0 
+Fairly good   1 
+Fairly bad    2 
+Very bad    3 
+
+        Component 1 score:_____ 
+Component 2: Sleep latency—questions 2 and 5a 
+
+Response to Q2  Component 2/Q2 subscore 
+< 15 minutes   0 
+16-30 minutes   1 
+31-60 minutes   2 
+> 60 minutes   3 
+ 
+Response to Q5a  Component 2/Q5a subscore 
+Not during past month  0 
+Less than once a week  1 
+Once or twice a week  2 
+Three or more times a week 3 
+ 
+Sum of Q2 and Q5a subscores Component 2 score  
+0     0 
+1-2     1 
+3-4     2 
+5-6     3 
+
+        Component 2 score:_____ 
+Component 3: Sleep duration—question 4 
+
+Response to Q4  Component 3 score 
+> 7 hours    0 
+6-7 hours    1 
+5-6 hours    2 
+< 5 hours    3 
+
+        Component 3 score:_____ 
+Component 4: Sleep efficiency—questions 1, 3, and 4 
+
+ Sleep efficiency = (# hours slept/# hours in bed) X 100% 
+   # hours slept—question 4 
+   # hours in bed—calculated from responses to questions 1 and 3 
+
+Sleep efficiency  Component 4 score 
+> 85%    0 
+75-84%    1 
+65-74%    2 
+< 65%    3 
+
+        Component 4 score:_____ 
+ 
+
+
+
+   
+
+Component 5: Sleep disturbance—questions 5b-5j 
+Questions 5b to 5j should be scored as follows: 
+Not during past month  0 
+Less than once a week  1 
+Once or twice a week  2 
+Three or more times a week 3 
+ 
+Sum of 5b to 5j scores  Component 5 score 
+0 0 
+1-9 1 
+10-18    2 
+19-27    3 
+
+        Component 5 score:_____ 
+Component 6: Use of sleep medication—question 6 
+
+Response to Q6   Component 6 score 
+Not during past month  0 
+Less than once a week  1 
+Once or twice a week  2 
+Three or more times a week 3 
+
+        Component 6 score:_____ 
+Component 7: Daytime dysfunction—questions 7 and 8 
+
+Response to Q7  Component 7/Q7 subscore 
+Not during past month  0 
+Less than once a week  1 
+Once or twice a week  2 
+Three or more times a week 3 
+ 
+Response to Q8  Component 7/Q8 subscore 
+No problem at all   0 
+Only a very slight problem 1 
+Somewhat of a problem   2 
+A very big problem  3 
+ 
+Sum of Q7 and Q8 subscores Component 7 score  
+0     0 
+1-2     1 
+3-4     2 
+5-6     3 
+
+        Component 7 score:_____ 
+ 
+Global PSQI Score: Sum of seven component scores:___________ 
+ 
+ 
+Copyright notice:  The Pittsburgh Sleep Quality Index (PSQI) is copyrighted by Daniel J. 
+             Buysse, M.D.  Permission has been granted to reproduce the scale on this 
+     website for clinicians to use in their practice and for researchers to use in non- 
+      industry studies.  For other uses of the scale, the owner of the copyright should  
+       be contacted.   
+ 
+ 
+Citation: Buysse, DJ, Reynolds CF, Monk TH, Berman SR, Kupfer DJ: The Pittsburgh 
+
+Sleep Quality Index (PSQI): A new instrument for psychiatric research and 
+practice. Psychiatry Research 28:193-213, 1989 
+
+ 
+
+

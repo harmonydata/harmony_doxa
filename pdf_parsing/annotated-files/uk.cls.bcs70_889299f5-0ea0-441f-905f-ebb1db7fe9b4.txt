@@ -1,0 +1,2516 @@
+
+Page 1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Variables In dataset: bcs70pc_1to2yr11mths.sav 
+ 
+
+1970 British Cohort Study (BCS70)  
+2004 Survey 
+
+ 
+Questionnaire about children aged 1 – 2 years and 11 months
+
+Blue Questionnaire 
+Confidential 
+
+ 
+ 
+    We would like you to answer a few questions about ___________________’s development and behaviour. 
+ 
+
+ 
+  HOW TO FILL IN THIS QUESTIONNAIRE 
+
+    
+
+     
+
+  Please answer the questions by:     
+    
+
+ 
+
+    Ticking a box - like this 
+    
+
+      
+    
+
+ 
+
+3     Or writing a number in a box - like this 
+    
+
+     
+      
+
+  
+
+ 
+   Sometimes you will find an instruction telling 
+
+  you which question to answer next - like this Yes
+      
+
+         
+      
+
+ 
+
+  Go to question 99  No
+      
+
+         
+
+   
+ 
+ 
+    If your child is … 
+
+  3029   
+    
+
+ 
+Start with question 1 … 12 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 2 … 13 - 15 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 3 … 16 - 18 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 4 … 19 - 21 months old, tick this box 
+
+    
+     
+
+    
+
+ 
+Start with question 5 … 22 months or older, tick this box 
+
+    
+     
+
+ 
+ 
+Serial number  +    check letter Cohort member’s first name   Child No.           Child’s age (months) 
+ 
+ 
+3001 - 007 3008    3009 - 010 3022 - 023 
+
+Interviewer number   
+ 
+ 
+
+Barcode label Card 3011 - 012 
+Batch  3013 - 017 
+
+ 
+
+P232
+
+ 
+
+         
+
+3018 - 021 Spare 3024 - 028
+
+      
+
+
+
+Page 2 
+
+ 
+
+  
+
+Page 2
+
+
+
+
+Page 3 
+
+ 
+
+  Please answer the following questions about your 12 month old child. 
+   
+  Tick one box on each line 
+        
+  Yes No 
+   3030     
+
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1a <q>Has your child ever crawled when left lying on his or her stomach?</q> 
+
+  
+      
+
+        
+
+   3031     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1b <q>Has your child ever said any recognisable words such as ‘mama’ or 
+
+‘dada’?</q> 
+      
+
+        
+
+   3032     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1c <q>Has your child ever picked up any small objects, such as raisins or biscuit 
+
+crumbs, using only his or her thumb and first finger?</q> 
+      
+
+        
+
+   3033     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1d <q>Has your child ever walked at least two steps with one hand held or 
+
+holding on to something?</q> 
+      
+
+        
+
+   3034     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1e <q>Has your child ever waved goodbye without help from another person?</q> 
+
+      
+        
+
+   3035     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1f 
+
+<q>Has your child ever shown by his or her behaviour that he or she knows 
+the name of common objects when somebody else names them out 
+loud?</q> 
+
+      
+
+        
+
+   3036     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1g 
+
+<q>Has your child ever shown that he or she wanted something by pointing, 
+pulling, or making pleasant sounds, rather than by crying or whining?</q> 
+
+      
+        
+
+   3037     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1h <q>Has your child ever stood alone on his or her feet for 10 seconds or more 
+
+without holding on to anything or another person?</q> 
+      
+
+        
+
+   3038     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1i <q>Has your child ever walked at least two steps without holding on to 
+
+anything or another person?</q> 
+      
+
+        
+
+   3039     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1j <q>Has your child ever crawled up at least two stairs or steps?</q> 
+
+      
+        
+
+   3040     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1k <q>Has your child ever said two recognisable words besides ‘mama’ or 
+
+‘dada’?</q> 
+      
+
+        
+
+   3041     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1l <q>Has your child ever run?</q> 
+
+      
+        
+
+   3042     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1m <q>Has your child ever said the name of a familiar object, such as a ball?</q> 
+
+      
+        
+
+   3043     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1n <q>Has your child ever made a line with a crayon or pencil?</q> 
+
+      
+        
+
+   3044     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q1o <q>Has your child ever walked up at least two stairs with one hand held or 
+
+holding the railing?</q> 
+      
+
+        
+
+Spare  3045 - 049 
+
+Now go to question 6 on page 8
+
+1 
+
+
+
+Page 4 
+
+ 
+
+    Please answer the following questions about your 13 – 15 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   3050     
+
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2a <q>Has your child ever waved goodbye without help from another person?</q> 
+
+      
+        
+
+   3051     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2b 
+
+<q>Has your child ever shown by his or her behaviour that he or she knows 
+the name of common objects when somebody else names them out 
+loud?</q> 
+
+      
+
+        
+
+   3052     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2c 
+
+<q>Has your child ever shown that he or she wanted something by pointing, 
+pulling, or making pleasant sounds, rather than by crying or whining?</q> 
+
+      
+        
+
+   3053     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2d 
+
+<q>Has your child ever stood alone on his or her feet for 10 seconds or more 
+without holding on to anything or another person?</q> 
+
+      
+        
+
+   3054     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2e 
+
+<q>Has your child ever walked at least two steps without holding on to 
+anything or another person?</q> 
+
+      
+        
+
+   3055     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2f <q>Has your child ever crawled up at least two stairs or steps?</q> 
+
+      
+        
+
+   3056     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2g <q>Has your child ever said two recognisable words besides ‘mama’ or 
+
+‘dada’?</q> 
+      
+
+        
+
+   3057     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2h <q>Has your child ever run?</q> 
+
+      
+        
+
+   3058     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2i <q>Has your child ever said the name of a familiar object, such as a ball?</q> 
+
+      
+        
+
+   3059     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2j <q>Has your child ever made a line with a crayon or pencil?</q> 
+
+      
+        
+
+   3060     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2k 
+
+<q>Has your child ever walked up at least two stairs with one hand held or 
+holding the railing?</q> 
+
+      
+        
+
+   3061     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2l <q>Has your child ever fed himself or herself with a spoon or fork without 
+
+spilling much?</q> 
+      
+
+        
+
+   3062     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2m <q>Has your child ever let someone know, without crying, that wearing wet 
+
+(soiled) underclothing or nappies bothers him or her?</q> 
+      
+
+        
+
+   3063     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2n <q>Has your child ever spoken a partial sentence of three words or more?</q> 
+
+      
+        
+
+   3064     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q2o 
+
+<q>Has your child ever walked up stairs by himself or herself without holding 
+on to a rail?</q> 
+
+      
+
+Spare  3065 - 069 
+
+ 
+Now go to question 6 on page 8
+
+2 
+
+
+
+Page 5 
+
+ 
+
+   Please answer the following questions about your 16 – 18 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   3070     
+
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3a <q>Has your child ever walked at least two steps without holding on to 
+
+anything or another person?</q> 
+      
+
+        
+
+   3071     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3b 
+
+<q>Has your child ever crawled up at least two stairs or steps?</q> 
+
+      
+        
+
+   3072     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3c <q>Has your child ever said two recognisable words besides ‘mama’ or ‘dada’?</q>
+
+      
+        
+
+   3073     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3d <q>Has your child ever run?</q> 
+
+      
+        
+
+   3074     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3e <q>Has your child ever said the name of a familiar object, such as a ball?</q> 
+
+      
+        
+
+   3075     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3f <q>Has your child ever made a line with a crayon or pencil?</q> 
+
+      
+        
+
+   3076     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3g <q>Has your child ever walked up at least two stairs with one hand held or 
+
+holding the railing?</q> 
+      
+
+        
+
+   3077     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3h <q>Has your child ever fed himself or herself with a spoon or fork without 
+
+spilling much?</q> 
+      
+
+        
+
+   3078     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3i <q>Has your child ever let someone know, without crying, that wearing wet 
+
+(soiled) underclothing or nappies bothers him or her?</q> 
+      
+
+        
+
+   3079     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3j <q>Has your child ever spoken a partial sentence of three words or more?</q> 
+
+      
+        
+
+   3080     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3k <q>Has your child ever walked up stairs by himself or herself without holding 
+
+on to a rail?</q> 
+      
+
+        
+
+   3081     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3l <q>Has your child ever washed and dried his or her hands without any help 
+
+except for turning the water on and off?</q> 
+      
+
+        
+
+   3082     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3m <q>Has your child ever counted three objects correctly?</q> 
+
+      
+        
+
+   3083     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3n <q>Has your child ever gone to the toilet or used a potty alone?</q> 
+
+      
+        
+
+   3084     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q3o <q>Has your child ever walked up stairs by himself or herself with no help, 
+
+stepping on each step with only one foot?</q> 
+      
+
+Spare 3085 - 089 
+
+ Now go to question 6 on page 8
+
+3 
+
+
+
+Page 6 
+
+ 
+
+   Please answer the following questions about your 19 – 21 month old child. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   3090     
+
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4a <q>Has your child ever run?</q> 
+
+      
+        
+
+   3091     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4b 
+
+<q>Has your child ever said the name of a familiar object, such as a ball?</q> 
+
+      
+        
+
+   3092     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4c 
+
+<q>Has your child ever made a line with a crayon or pencil?</q> 
+
+      
+        
+
+   3093     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4d <q>Has your child ever walked up at least two stairs with one hand held or 
+
+holding the railing?</q> 
+      
+
+        
+
+   3094     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4e <q>Has your child ever fed himself or herself with a spoon or fork without 
+
+spilling much?</q> 
+      
+
+        
+
+   3095     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4f <q>Has your child ever let someone know, without crying, that wearing wet 
+
+(soiled) underclothing or nappies bothers him or her?</q>  
+      
+
+        
+
+   3096     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4g <q>Has your child ever spoken a partial sentence of three words or more?</q> 
+
+      
+        
+
+   3097     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4h <q>Has your child ever walked up stairs by himself or herself without holding 
+
+on to a rail?</q> 
+      
+
+        
+
+   3098     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4i <q>Has your child ever washed and dried his or her hands without any help 
+
+except for turning the water on and off?</q> 
+      
+
+        
+
+   3099     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4j <q>Has your child ever counted three objects correctly?</q> 
+
+      
+        
+
+   3100     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4k <q>Has your child ever gone to the toilet or used a potty alone?</q> 
+
+      
+        
+
+   3101     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4l <q>Has your child ever walked up stairs by him or herself with no help, 
+
+stepping on each step with only one foot?</q> 
+      
+
+        
+
+   3102     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4m <q>Does your child know his or her own age and sex?</q> 
+
+      
+        
+
+   3103     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4n <q>Has your child ever said the names of at least four colours?</q> 
+
+      
+        
+
+   3104     
+      
+
+ 
+
+1 
+
+  
+
+2
+ Q4o <q>Has your child ever pedalled a tricycle at least 10 feet?</q> 
+
+      
+
+Spare 3105 - 3109 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Now go to question 6 on page 8
+
+4 
+
+
+
+Page 7 
+
+ 
+
+   Please answer the following questions about your child aged 22 months or older. 
+  Tick one box on each line
+
+ 
+  Yes No 
+   3110     
+
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5a <q>Has your child ever let someone know, without crying, that wearing wet 
+
+(soiled) underclothing or nappies bothers him or her?</q> 
+      
+
+        
+
+   3111     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5b 
+
+<q>Has your child ever spoken a partial sentence of three words or more?</q> 
+
+      
+        
+
+   3112     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5c 
+
+<q>Has your child ever walked up stairs by himself or herself without holding 
+on to a rail?</q> 
+
+      
+        
+
+   3113     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5d <q>Has your child ever washed and dried his or her hands without any help 
+
+except for turning the water on and off?</q> 
+      
+
+        
+
+   3114     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5e <q>Has your child ever counted three objects correctly?</q> 
+
+      
+        
+
+   3115     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5f <q>Has your child ever gone to the toilet or used a potty alone?</q> 
+
+      
+        
+
+   3116     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5g <q>Has your child ever walked up stairs by him or herself with no help, 
+
+stepping on each step with only one foot?</q> 
+      
+
+        
+
+   3117     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5h <q>Does your child know his or her own age and sex?</q> 
+
+      
+        
+
+   3118     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5i <q>Has your child ever said the names of at least four colours?</q> 
+
+      
+        
+
+   3119     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5j <q>Has your child ever pedalled a tricycle at least 10 feet?</q> 
+
+      
+        
+
+   3120     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5k <q>Has your child ever done a head over heels without help from anybody?</q> 
+
+      
+        
+
+   3121     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5l <q>Has your child ever dressed him or herself without any help except for tying 
+
+of shoes (and buttoning the backs of dresses)?</q> 
+      
+
+        
+
+   3122     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5m <q>Has your child ever said his or her first and last name together without 
+
+someone’s help? (Nicknames may be used for first name).</q> 
+      
+
+        
+
+   3123     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5n <q>Has your child ever counted out loud up to 10?</q> 
+
+      
+        
+
+   3124     
+      
+
+ 
+
+1 
+
+ 
+
+2
+ Q5o <q>Has your child ever drawn a picture of a man or woman with at least two 
+
+parts of the body besides a head?</q> 
+      
+
+Spare 3125 - 129
+
+Now go to question 6 on page 8 
+
+5 
+
+
+
+Page 8 
+
+ 
+
+ 
+ 
+
+  These questions are for everyone to answer. 
+ 
+  Can you say whether the following apply to your child? 
+
+   
+Tick one box on each line 
+
+ 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   3130              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6a <q>Your child laughs or smiles when meeting 
+
+other children</q> 
+               
+
+                 
+
+   3131              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6b <q>Your child is pleasant (smiles, laughs) when 
+
+first arriving in unfamiliar places</q> 
+               
+
+                 
+
+   3132              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6c <q>Your child is pleasant (smiles, laughs) during 
+
+face washing</q> 
+               
+
+                 
+
+   3133              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6d <q>Your child remains pleasant when hungry 
+
+and waiting for food to be prepared</q> 
+               
+
+                 
+
+   3134              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6e <q>Your child cries after a fall or bump</q> 
+
+               
+                 
+
+   3135              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ 
+
+Q6f 
+
+<q>Your child takes several days to get used to 
+(show usual behaviour in) new situations 
+away from parent (play group, nursery, 
+babysitter)</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3136              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6g 
+
+<q>Your child continues to get into forbidden 
+areas or objects in spite of parents’ repeated 
+warnings</q> 
+
+               
+
+                 
+
+   3137              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6h <q>Your child is still wary of strangers after 15 
+
+minutes</q> 
+               
+
+                 
+
+   3138              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6i <q>Your child sleeps poorly (restless, wakeful) in 
+
+new places for two or three times</q> 
+               
+
+                 
+
+   3139              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6j <q>Your child allows face washing without 
+
+protest (squirming, turning away)</q> 
+               
+
+                 
+
+Spare 3140 - 149 
+
+ 
+ 
+
+6 
+
+
+
+Page 9 
+
+ 
+
+   Continued… 
+ 
+
+  Tick one box on each line 
+  <o>Almost 
+
+never</o> <o>Rarely</o> 
+<o>Usually 
+
+does not</o> <o>Often</o> 
+<o>Almost 
+always</o> 
+
+   3150              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6k 
+
+<q>Your child is shy (turns away or clings to 
+mother) on meeting another child for the 
+first time</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3151              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6l 
+
+<q>For the first few minutes in a new place 
+(shop, new home, stranger’s house) your 
+child is wary (clings to mother, holds back)</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3152              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ 
+
+Q6m 
+
+<q>Your child is fearful of being put down in an 
+unfamiliar place (supermarket trolley, new 
+pushchair, play area) when a parent is 
+present</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3153              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6n 
+
+<q>Your child’s initial reaction to a new 
+babysitter is rejection (crying, clinging to 
+mother, etc.)</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3154              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6o 
+
+<q>Your child’s initial reaction at home to 
+approach by strangers is acceptance (looks 
+at, reaches out)</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3155              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6p 
+
+<q>Your child gets sleepy at about the same 
+time each evening (within ½ hour)</q> 
+
+               
+                 
+
+   3156              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6q 
+
+<q>The amount of milk or juice your child takes 
+at mealtime is unpredictable from meal to 
+meal (over 2 fl oz. or 50 ml. difference)</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3157              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6r 
+
+<q>Your child takes daytime naps at differing 
+times (over ½ hour difference) from day to 
+day</q> 
+
+    
+
+ 
+
+          
+
+                 
+
+   3158              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6s <q>Your child eats about the same amount of 
+
+food at meals from day to day</q> 
+               
+
+                 
+
+   3159              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q6t <q>Your child’s period of greatest physical 
+
+activity comes at the same time of day</q> 
+               
+
+                 
+
+Spare 3160 - 169 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+6 
+
+
+
+Page 10 
+
+ 
+ 
+
+ 
+  These questions are about your relationship with your child. Please think about how far  
+  each of the statements currently applies to your relationship with your child. 
+ 
+
+  Tick one box on each line 
+                 
+
+  
+ 
+
+<o>Definitely 
+does not 
+
+apply</o> <o>Not really</o>
+<o>Neutral, 
+not sure</o> 
+
+<o>Applies 
+sometimes</o>
+
+<o>Definitely 
+applies</o> 
+
+   3170              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7a <q>I share an affectionate, warm relationship 
+
+with my child</q> 
+               
+
+   3171              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7b <q>My child and I always seem to be struggling 
+
+with each other</q> 
+               
+
+   3172              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7c <q>My child will seek comfort from me</q> 
+
+               
+
+   3173              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7d <q>My child is uncomfortable with physical 
+
+affection or touch from me</q> 
+               
+
+   3174              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7e <q>When I praise my child, he or she beams 
+
+with pride</q> 
+ 
+
+    
+
+ 
+
+          
+
+   3175              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7f <q>My child easily becomes angry at me</q> 
+
+ 
+               
+
+   3176              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7g <q>It is easy to be in tune with what my child is 
+
+feeling</q> 
+ 
+
+    
+
+ 
+
+          
+
+   3177              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7h <q>My child remains angry or is resistant after 
+
+being disciplined</q> 
+               
+
+   3178              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7i <q>Dealing with my child drains my energy</q> 
+
+               
+
+   3179              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7j <q>When my child wakes in a bad mood, I know 
+
+we’re in for a long and difficult day</q> 
+               
+
+   3180              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q7k <q>My child’s feelings towards me can be 
+
+unpredictable or can change suddenly</q> 
+               
+
+Spare 3181 - 189 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 
+
+
+
+Page 11 
+
+ 
+ 
+
+ 
+  Sometimes children are pretty well behaved and other times they are not.  We are  
+  interested in what parents do when their children misbehave. Please think about  
+  how your child has been in the last three months. 
+
+   
+  Tick one box on each line 
+                 
+
+  
+
+<o>Never</o> <o>Rarely</o> 
+
+<o>Sometimes 
+(about once 
+
+a month)</o> 
+
+<o>Often 
+(about 
+once a 
+week)</o> <o>Daily</o> 
+
+   3190              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8a <q>How often have you ignored your child?</q> 
+
+ 
+               
+
+   3191              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8b <q>How often have you shouted at your child?</q>  
+
+ 
+               
+
+   3192              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8c <q>How often have you sent your child to his or 
+
+her bedroom or naughty chair, etc.?</q> 
+ 
+
+    
+
+ 
+
+          
+
+   3193              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8d <q>How often have you told your child off?</q> 
+
+ 
+               
+
+   3194              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8e <q>How often have you had to bribe your child 
+
+(e.g. with sweets, or a treat)?</q> 
+ 
+
+    
+
+ 
+
+          
+
+   3195              
+               
+
+ 
+
+1 2 3 
+
+  
+
+4 5
+ Q8f <q>How often have you had to smack your child?</q>
+
+ 
+               
+
+ 
+ 
+ 
+ 
+
+   <q>Approximately how often do you get the chance to read    
+  stories with or to your child?</q>  
+
+  Tick one box 
+   3196   
+
+    
+
+ 
+
+1
+  Q9 <o>Every day</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>Several times a week</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>Several times a month</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>Several times a year</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>Never</o>
+
+    
+      
+
+ 
+
+8 
+
+9 
+
+
+
+Page 12 
+
+ 
+
+    <q>Approximately how many books does your child have  
+   (including books shared with brothers and sisters)?</q>  
+
+  Tick one box 
+   3197   
+
+    
+
+ 
+
+1
+  Q10 <o>No books</o>
+
+    
+      
+
+    
+
+ 
+
+2
+   <o>1 – 2 books</o>
+
+    
+      
+
+    
+
+ 
+
+3
+   <o>3 – 9 books</o>
+
+    
+      
+
+    
+
+ 
+
+4
+   <o>10 – 19 books</o>
+
+    
+      
+
+    
+
+ 
+
+5
+   <o>20 – 49 books</o>
+
+    
+      
+
+    
+
+ 
+
+6
+   <o>50 plus</o>
+
+    
+      
+
+ 
+ 
+ 
+
+ 
+ 
+
+  <q>Have you or your child’s other parent ever helped your child  
+  to learn any of the following…</q> 
+  
+
+  Tick all that apply 
+   3198   
+
+    
+
+ 
+
+1
+  Q11a <o>… numbers?</o>
+
+    
+      
+
+    
+
+ 
+
+2
+  Q11b <o>…the alphabet?</o>
+
+    
+      
+
+    
+
+ 
+
+3
+  Q11c <o>… colours?</o>
+
+    
+      
+
+    
+
+ 
+
+4
+  Q11d <o>… shapes and sizes?</o>
+
+    
+      
+
+    
+
+ 
+
+5
+  Q11e <o>… none of the above</o>
+
+    
+      
+
+Spare 3199 - 3220 
+
+ 
+ 
+
+Thank you very much for taking the time to answer our questions.  Please give the 
+questionnaire to the interviewer or post it back in the envelope provided. All your 
+
+answers will remain confidential. Please call Freephone 0500 600 616 if you have any 
+queries. 
+
+ 
+
+10 
+
+11 
+
+

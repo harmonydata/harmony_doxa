@@ -1,0 +1,959 @@
+
+POSITIVE AND NEGATIVE SYNDROME SCALE (PANSS) RATING CRITERIA 
+
+GENERAL RATING INSTRUCTIONS 
+Data gathered from this assessment procedure are appl ied to the PANSS 
+ratings. Each of the 30 i tems is accompanied by a specif ic defini t ion as wel l  
+as detai led anchoring cri ter ia for al l  seven rat ing points. These seven points 
+represent increasing levels of psychopathology, as fol lows: 
+
+1- absent 
+
+2- minimal 
+
+3- mild 
+
+4- moderate 
+
+5- moderate severe 
+
+6- severe 
+
+7- extreme 
+
+ 
+
+In assigning rat ings, one f i rst considers whether an i tem is at al l  present,  as 
+judging by i ts defini t ion. I f  the i tem is absent,  i t  is scored 1, whereas i f  i t  is 
+present one must determine i ts severi ty by reference to the part icular cri ter ia 
+from the anchoring points. The highest appl icable rat ing point is always 
+assigned, even i f  the patient meets cri ter ia for lower points as wel l .  In 
+judging the level of severi ty,  the rater must ut i l ise a hol ist ic perspective in 
+deciding which anchoring point best characterises the pat ient’s functioning 
+and rate accordingly, whether or not al l  elements of the descript ion are 
+observed. 
+
+The rating points of 2 to 7 correspond to incremental levels of symptom 
+severi ty:  
+
+•  A rat ing of 2 (minimal) denotes questionable or subtle or suspected 
+pathology, or i t  also may al lude to the extreme end of the normal 
+range. 
+
+•  A rat ing of 3 (mild) is indicative of a symptom whose presence is 
+clearly establ ished but not pronounced and interferes l i t t le in day-to-
+day functioning. 
+
+•  A rat ing of 4 (moderate) characterises a symptom which, though 
+representing a serious problem, ei ther occurs only occasional ly or 
+intrudes on dai ly l i fe only to a moderate extent.  
+
+•  A rat ing of 5 (moderate severe) indicates marked manifestations that 
+dist inctly impact on one’s functioning but are not al l -consuming and 
+usual ly can be contained at wi l l .  
+
+•  A rat ing of 6 (severe) represents gross pathology that is present very 
+frequently, proves highly disruptive to one’s l i fe, and often cal ls for 
+direct supervision. 
+
+•  A rat ing of 7 (extreme) refers to the most serious level of 
+psychopathology, whereby the manifestations drastical ly interfere in  
+most or al l  major l i fe funct ions, typical ly necessitat ing close 
+supervision and assistance in many areas. 
+
+Each i tem is rated in consultat ion with the defini t ions and cr i teria provided in 
+this manual.  The rat ings are rendered on the PANSS rating form overleaf by 
+encircl ing the appropriate number fol lowing each dimension.  
+
+
+
+P A N S S  R A T I N G  F O R M  
+ 
+
+  <o>absent</o> <o>minimal</o> <o>mild</o> <o>moderate</o>
+<o>moderate 
+
+severe</o> 
+<o>severe</o> <o>extreme</o>
+
+         
+
+P1 <q>Delusions</q> 1 2 3 4 5 6 7 
+
+P2 <q>Conceptual disorganisation</q> 1 2 3 4 5 6 7 
+
+P3 <q>Hallucinatory behaviour</q> 1 2 3 4 5 6 7 
+
+P4 <q>Excitement</q> 1 2 3 4 5 6 7 
+
+P5 <q>Grandiosity</q> 1 2 3 4 5 6 7 
+
+P6 <q>Suspiciousness/persecution</q> 1 2 3 4 5 6 7 
+
+P7 <q>Hostility</q> 1 2 3 4 5 6 7 
+
+         
+
+N1 <q>Blunted affect</q> 1 2 3 4 5 6 7 
+
+N2 <q>Emotional withdrawal</q> 1 2 3 4 5 6 7 
+
+N3 <q>Poor rapport</q> 1 2 3 4 5 6 7 
+
+N4 <q>Passive/apathetic social 
+withdrawal</q> 
+
+1 2 3 4 5 6 7 
+
+N5 <q>Difficulty in abstract thinking</q> 1 2 3 4 5 6 7 
+
+N6 <q>Lack of spontaneity & 
+flow of conversation</q> 
+
+1 2 3 4 5 6 7 
+
+N7 <q>Stereotyped thinking</q> 1 2 3 4 5 6 7 
+
+         
+
+G1 <q>Somatic concern</q> 1 2 3 4 5 6 7 
+
+G2 <q>Anxiety</q> 1 2 3 4 5 6 7 
+
+G3 <q>Guilt feelings</q> 1 2 3 4 5 6 7 
+
+G4 <q>Tension</q> 1 2 3 4 5 6 7 
+
+G5 <q>Mannerisms & posturing</q> 1 2 3 4 5 6 7 
+
+G6 <q>Depression</q> 1 2 3 4 5 6 7 
+
+G7 <q>Motor retardation</q> 1 2 3 4 5 6 7 
+
+G8 <q>Uncooperativeness</q> 1 2 3 4 5 6 7 
+
+G9 <q>Unusual thought content</q> 1 2 3 4 5 6 7 
+
+G10 <q>Disorientation</q> 1 2 3 4 5 6 7 
+
+G11 <q>Poor attention</q> 1 2 3 4 5 6 7 
+
+G12 <q>Lack of judgement & insight</q> 1 2 3 4 5 6 7 
+
+G13 <q>Disturbance of volition</q> 1 2 3 4 5 6 7 
+
+G14 <q>Poor impulse control</q> 1 2 3 4 5 6 7 
+
+G15 <q>Preoccupation</q> 1 2 3 4 5 6 7 
+
+G16 <q>Active social avoidance</q> 1 2 3 4 5 6 7 
+
+ 
+
+
+
+SCORING INSTRUCTIONS  
+ 
+
+Of the 30 i tems included in the PANSS, 7 const i tute a Positive Scale ,  7 a 
+
+Negative Scale ,  and the remaining 16 a General Psychopathology Scale .  
+
+The scores for these scales are arr ived at by summation of rat ings across 
+
+component i tems. Therefore, the potential  ranges are 7 to 49 for the Posit ive 
+
+and Negative Scales, and 16 to 112 for the General Psychopathology Scale. 
+
+In addit ion to these measures, a Composite Scale is scored by subtract ing 
+
+the negative score from the posit ive score. This yields a bipolar index that 
+
+ranges from –42 to +42, which is essential ly a di f ference score reflecting the 
+
+degree of predominance of one syndrome in relat ion to the other. 
+
+ 
+
+ 
+
+ 
+
+
+
+POSITIVE SCALE (P) 
+P1. DELUSIONS - Beliefs which are unfounded, unrealistic and idiosyncratic. 
+ Basis for rating - Thought content expressed in the interview and its influence on 
+
+social relations and behaviour. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Presence of one or two delusions which are vague, uncrystallised and not 
+
+tenaciously held. Delusions do not interfere with thinking, social relations or behaviour. 
+ 4 Moderate - Presence of either a kaleidoscopic array of poorly formed, unstable delusions or a 
+
+few well-formed delusions that occasionally interfere with thinking, social relations or behaviour. 
+ 5 Moderate Severe - Presence of numerous well-formed delusions that are tenaciously held 
+
+and occasionally interfere with thinking, social relations and behaviour. 
+ 6 Severe - Presence of a stable set of delusions which are crystallised, possibly systematised, 
+
+tenaciously held and clearly interfere with thinking, social relations and behaviour. 
+ 7 Extreme - Presence of a stable set of delusions which are either highly systematised or very 
+
+numerous, and which dominate major facets of the patient’s life. This frequently results in 
+inappropriate and irresponsible action, which may even jeopardise the safety of the patient or others. 
+
+ 
+P2. CONCEPTUAL DISORGANISATION - Disorganised process of thinking characterised by 
+
+disruption of goal-directed sequencing, e.g. circumstantiality, loose associations, 
+tangentiality, gross illogicality or thought block. 
+
+ Basis for rating - Cognitive-verbal processes observed during the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Thinking is circumstantial, tangential or paralogical. There is some difficulty in directing 
+
+thoughts towards a goal, and some loosening of associations may be evidenced under pressure. 
+ 4 Moderate - Able to focus thoughts when communications are brief and structured, but becomes 
+
+loose or irrelevant when dealing with more complex communications or when under minimal pressure.
+ 5 Moderate Severe - Generally has difficulty in organising thoughts, as evidenced by frequent 
+
+irrelevancies, disconnectedness or loosening of associations even when not under pressure. 
+ 6 Severe - Thinking is seriously derailed and internally inconsistent, resulting in gross 
+
+irrelevancies and disruption of thought processes, which occur almost constantly. 
+ 7 Extreme - Thoughts are disrupted to the point where the patient is incoherent. There is marked 
+
+loosening of associations, which result in total failure of communication, e.g. “word salad” or mutism. 
+ 
+P3. HALLUCINATORY BEHAVIOUR - Verbal report or behaviour indicating perceptions which are 
+
+not generated by external stimuli. These may occur in the auditory, visual, olfactory or somatic realms. 
+ Basis for rating - Verbal report and physical manifestations during the course of 
+
+interview as well as reports of behaviour by primary care workers or family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - One or two clearly formed but infrequent hallucinations, or else a number of vague 
+
+abnormal perceptions which do not result in distortions of thinking or behaviour. 
+ 4 Moderate - Hallucinations occur frequently but not continuously, and the patient’s 
+
+thinking and behaviour are only affected to a minor extent. 
+ 5 Moderate Severe - Hallucinations occur frequently, may involve more than one sensory modality, 
+
+and tend to distort thinking and/or disrupt behaviour. Patient may have a delusional interpretation of 
+these experiences and respond to them emotionally and, on occasion, verbally as well. 
+
+ 6 Severe - Hallucinations are present almost continuously, causing major disruption of 
+thinking and behaviour. Patient treats these as real perceptions, and functioning is impeded 
+by frequent emotional and verbal responses to them. 
+
+ 7 Extreme - Patient is almost totally preoccupied with hallucinations, which virtually dominate 
+thinking and behaviour. Hallucinations are provided a rigid delusional interpretation and 
+provoke verbal and behavioural responses, including obedience to command hallucinations. 
+
+
+
+P4. EXCITEMENT - Hyperactivity as reflected in accelerated motor behaviour, heightened 
+responsivity to stimuli, hypervigilance or excessive mood lability. 
+
+ Basis for rating - Behavioural manifestations during the course of interview as well 
+as reports of behaviour by primary care workers or family. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Tends to be slightly agitated, hypervigilant or mildly overaroused throughout the interview, but 
+
+without distinct episodes of excitement or marked mood lability. Speech may be slightly pressured. 
+ 4 Moderate - Agitation or overarousal is clearly evident throughout the interview, affecting 
+
+speech and general mobility, or episodic outbursts occur sporadically. 
+ 5 Moderate Severe - Significant hyperactivity or frequent outbursts of motor activity are observed, 
+
+making it difficult for the patient to sit still for longer than several minutes at any given time. 
+ 6 Severe - Marked excitement dominates the interview, delimits attention, and to some 
+
+extent affects personal functions such as eating or sleeping. 
+ 7 Extreme - marked excitement seriously interferes in eating and sleeping and makes 
+
+interpersonal interactions virtually impossible. Acceleration of speech and motor activity 
+may result in incoherence and exhaustion. 
+
+ 
+P5. GRANDIOSITY - Exaggerated self-opinion and unrealistic convictions of superiority, including 
+
+delusions of extraordinary abilities, wealth, knowledge, fame, power and moral righteousness. 
+ Basis for rating - Thought content expressed in the interview and its influence on 
+
+behaviour. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Some expansiveness or boastfulness is evident, but without clear-cut grandiose 
+
+delusions. 
+ 4 Moderate - Feels distinctly and unrealistically superior to others. Some poorly formed 
+
+delusions about special status or abilities may be present but are not acted upon. 
+ 5 Moderate Severe - Clear-cut delusions concerning remarkable abilities, status or power are 
+
+expressed and influence attitude but not behaviour. 
+ 6 Severe - Clear-cut delusions of remarkable superiority involving more than one parameter (wealth, 
+
+knowledge, fame, etc) are expressed, notably influence interactions and may be acted upon. 
+ 7 Extreme - Thinking, interactions and behaviour are dominated by multiple delusions of amazing 
+
+ability, wealth, knowledge, fame, power and/or moral stature, which may take on a bizarre quality. 
+ 
+P6. SUSPICIOUSNESS/PERSECUTION - Unrealistic or exaggerated ideas of persecution, as 
+
+reflected in guardedness, ad distrustful attitude, suspicious hypervigilance or frank 
+delusions that others mean harm. 
+
+ Basis for rating – Thought content expressed in the interview and its influence on 
+behaviour. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Presents a guarded or even openly distrustful attitude, but thoughts, interactions and 
+
+behaviour are minimally affected. 
+ 4 Moderate - Distrustfulness is clearly evident and intrudes on the interview and/or behaviour, but 
+
+there is no evidence of persecutory delusions. Alternatively, there may be indication of loosely formed 
+persecutory delusions, but these do not seem to affect the patient’s attitude or interpersonal relations. 
+
+ 5 Moderate Severe - Patient shows marked distrustfulness, leading to major disruption of 
+interpersonal relations, or else there are clear-cut persecutory delusions that have limited 
+impact on interpersonal relations and behaviour. 
+
+ 6 Severe - Clear-cut pervasive delusions of persecution which may be systematised and 
+significantly interfere in interpersonal relations. 
+
+ 7 Extreme - A network of systematised persecutory delusions dominates the patient’s 
+thinking, social relations and behaviour. 
+
+
+
+ 
+P7. HOSTILITY - Verbal and nonverbal expressions of anger and resentment, including 
+
+sarcasm, passive-aggressive behaviour, verbal abuse and assualtiveness. 
+ Basis for rating – Interpersonal behaviour observed during the interview and reports 
+
+by primary care workers or family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Indirect or restrained communication of anger, such as sarcasm, disrespect, hostile 
+
+expressions and occasional irritability. 
+ 4 Moderate - Presents an overtly hostile attitude, showing frequent irritability and direct 
+
+expression of anger or resentment. 
+ 5 Moderate Severe - Patient is highly irritable and occasionally verbally abusive or threatening.
+ 6 Severe - Uncooperativeness and verbal abuse or threats notably influence the interview and 
+
+seriously impact upon social relations. Patient may be violent and destructive but is not 
+physically assualtive towards others. 
+
+ 7 Extreme - Marked anger results in extreme uncooperativeness, precluding other 
+interactions, or in episode(s) of physical assault towards others. 
+
+ 
+
+NEGATIVE SCALE (N) 
+N1. BLUNTED AFFECT - Diminished emotional responsiveness as characterised by a 
+
+reduction in facial expression, modulation of feelings and communicative gestures. 
+ Basis for rating - Observation of physical manifestations of affective tone and 
+
+emotional responsiveness during the course of the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Changes in facial expression and communicative gestures seem to be stilted, forced, 
+
+artificial or lacking in modulation. 
+ 4 Moderate - Reduced range of facial expression and few expressive gestures result in a dull 
+
+appearance 
+ 5 Moderate Severe - Affect is generally ‘flat’ with only occasional changes in facial 
+
+expression and a paucity of communicative gestures. 
+ 6 Severe - Marked flatness and deficiency of emotions exhibited most of the time. There may 
+
+be unmodulated extreme affective discharges, such as excitement, rage or inappropriate 
+uncontrolled laughter. 
+
+ 7 Extreme – Changes in facial expression and evidence of communicative gestures are 
+virtually absent. Patient seems constantly to show a barren or ‘wooden’ expression. 
+
+ 
+N2. EMOTIONAL WITHDRAWAL - Lack of interest in, involvement with, and affective 
+
+commitment to life’s events. 
+ Basis for rating - Reports of functioning from primary care workers or family and 
+
+observation of interpersonal behaviour during the course of the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Usually lack initiative and occasionally may show deficient interest in surrounding events. 
+ 4 Moderate - Patient is generally distanced emotionally from the milieu and its challenges 
+
+but, with encouragement, can be engaged. 
+ 5 Moderate Severe - Patient is clearly detached emotionally from persons and events in the milieu, 
+
+resisting all efforts at engagement. Patient appears distant, docile and purposeless but can be 
+involved in communication at least briefly and tends to personal needs, sometimes with assistance.
+
+ 6 Severe - Marked deficiency of interest and emotional commitment results in limited conversation 
+with others and frequent neglect of personal functions, for which the patient requires supervision. 
+
+ 7 Extreme – Patient is almost totally withdrawn, uncommunicative and neglectful of 
+personal needs as a result of profound lack of interest and emotional commitment. 
+
+
+
+ 
+N3. POOR RAPPORT - Lack of interpersonal empathy, openness in conversation and sense of 
+
+closeness, interest or involvement with the interviewer. This is evidenced by interpersonal 
+distancing and reduced verbal and nonverbal communication. 
+
+ Basis for rating - Interpersonal behaviour during the course of the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Conversation is characterised by a stilted, strained or artificial tone. It may lack 
+
+emotional depth or tend to remain on an impersonal, intellectual plane. 
+ 4 Moderate - Patient typically is aloof, with interpersonal distance quite evident. Patient may 
+
+answer questions mechanically, act bored, or express disinterest. 
+ 5 Moderate Severe - Disinvolvement is obvious and clearly impedes the productivity of the 
+
+interview. Patient may tend to avoid eye or face contact. 
+ 6 Severe - Patient is highly indifferent, with marked interpersonal distance. Answers are perfunctory, 
+
+and there is little nonverbal evidence of involvement. Eye and face contact are frequently avoided. 
+ 7 Extreme - Patient is totally uninvolved with the interviewer. Patient appears to be completely 
+
+indifferent and consistently avoids verbal and nonverbal interactions during the interview. 
+ 
+N4. PASSIVE/APATHETIC SOCIAL WITHDRAWAL - Diminished interest and initiative in 
+
+social interactions due to passivity, apathy, anergy or avolition. This leads to reduced 
+interpersonal involvements and neglect of activities of daily living. 
+
+ Basis for rating – Reports on social behaviour from primary care workers or family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Shows occasional interest in social activities but poor initiative. Usually engages with 
+
+others only when approached first by them. 
+ 4 Moderate – Passively goes along with most social activities but in a disinterested or 
+
+mechanical way. Tends to recede into the background. 
+ 5 Moderate Severe - Passively participates in only a minority of activities and shows virtually 
+
+no interest or initiative. Generally spends little time with others. 
+ 6 Severe - Tends to be apathetic and isolated, participating very rarely in social activities and 
+
+occasionally neglecting personal needs. Has very few spontaneous social contacts. 
+ 7 Extreme – Profoundly apathetic, socially isolated and personally neglectful. 
+ 
+N5. DIFFICULTY IN ABSTRACT THINKING - Impairment in the use of the abstract-symbolic 
+
+mode of thinking, as evidenced by difficulty in classification, forming generalisations and 
+proceeding beyond concrete or egocentric thinking in problem-solving tasks. 
+
+ Basis for rating - Responses to questions on similarities and proverb interpretation, 
+and use of concrete vs. abstract mode during the course of the interview. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Tends to give literal or personalised interpretations to the more difficult proverbs 
+
+and may have some problems with concepts that are fairly abstract or remotely related. 
+ 4 Moderate - Often utilises a concrete mode. Has difficulty with most proverbs and some 
+
+categories. Tends to be distracted by functional aspects and salient features. 
+ 5 Moderate Severe - Deals primarily in a concrete mode, exhibiting difficulty with most 
+
+proverbs and many categories. 
+ 6 Severe - Unable to grasp the abstract meaning of any proverbs or figurative expressions 
+
+and can formulate classifications for only the most simple of similarities. Thinking is either 
+vacuous or locked into functional aspects, salient features and idiosyncratic interpretations. 
+
+ 7 Extreme - Can use only concrete modes of thinking. Shows no comprehension of proverbs, 
+common metaphors or similes, and simple categories. Even salient and functional attributes 
+do not serve as a basis for classification. This rating may apply to those who cannot interact 
+even minimally with the examiner due to marked cognitive impairment. 
+
+
+
+N6. LACK OF SPONTANEITY AND FLOW OF CONVERSATION - Reduction in the normal flow 
+of communication associated with apathy, avolition, defensiveness or cognitive deficit. This 
+is manifested by diminished fluidity and productivity of the verbal interactional process.  
+
+ Basis for rating - Cognitive-verbal processes observed during the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild – Conversation shows little initiative. Patient’s answers tend to be brief and 
+
+unembellished, requiring direct and leading questions by the interviewer. 
+ 4 Moderate – Conversation lacks free flow and appears uneven or halting. Leading questions 
+
+are frequently needed to elicit adequate responses and proceed with conversation. 
+ 5 Moderate Severe - Patient shows a marked lack of spontaneity and openness, replying to 
+
+the interviewer’s questions with only one or two brief sentences. 
+ 6 Severe - Patient’s responses are limited mainly to a few words or short phrases intended to 
+
+avoid or curtail communication. (e.g. “I don’t know”, “I’m not at liberty to say”). 
+Conversation is seriously impaired as a result and the interview is highly unproductive. 
+
+ 7 Extreme - Verbal output is restricted to, at most, an occasional utterance, making 
+conversation not possible. 
+
+ 
+N7. STEREOTYPED THINKING - Decreased fluidity, spontaneity and flexibility of thinking, as 
+
+evidenced in rigid, repetitious or barren thought content. 
+ Basis for rating - Cognitive-verbal processes observed during the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Some rigidity shown in attitude or beliefs. Patient may refuse to consider alternative 
+
+positions or have difficulty in shifting from one idea to another. 
+ 4 Moderate - Conversation revolves around a recurrent theme, resulting in difficulty in 
+
+shifting to a new topic. 
+ 5 Moderate Severe - Thinking is rigid and repetitious to the point that, despite the 
+
+interviewer’s efforts, conversation is limited to only two or three dominating topics. 
+ 6 Severe – Uncontrolled repetition of demands, statements, ideas or questions which severely 
+
+impairs conversation. 
+ 7 Extreme - Thinking, behaviour and conversation are dominated by constant repetition of 
+
+fixed ideas or limited phrases, leading to gross rigidity, inappropriateness and restrictiveness 
+of patient’s communication. 
+
+ 
+
+GENERAL PSYCHOPATHOLOGY SCALE (G) 
+G1. SOMATIC CONCERN - Physical complaints or beliefs about bodily illness or malfunctions. This 
+
+may range from a vague sense of ill being to clear-cut delusions of catastrophic physical disease. 
+ Basis for rating - Thought content expressed in the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Distinctly concerned about health or bodily malfunction, but there is no delusional 
+
+conviction and overconcern can be allayed by reassurance. 
+ 4 Moderate - Complains about poor health or bodily malfunction, but there is no delusional 
+
+conviction, and overconcern can be allayed by reassurance. 
+ 5 Moderate Severe - Patient expresses numerous or frequent complaints about physical 
+
+illness or bodily malfunction, or else patient reveals one or two clear-cut delusions 
+involving these themes but is not preoccupied by them. 
+
+ 6 Severe - Patient is preoccupied by one or a few clear-cut delusions about physical disease 
+or organic malfunction, but affect is not fully immersed in these themes, and thoughts can 
+be diverted by the interviewer with some effort. 
+
+ 7 Extreme – Numerous and frequently reported somatic delusions, or only a few somatic 
+delusions of a catastrophic nature, which totally dominate the patient’s affect or thinking. 
+
+
+
+G2. ANXIETY - Subjective experience of nervousness, worry, apprehension or restlessness, 
+ranging from excessive concern about the present or future to feelings of panic. 
+
+ Basis for rating - Verbal report during the course of interview and corresponding 
+physical manifestations. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Expresses some worry, overconcern or subjective restlessness, but no somatic and 
+
+behavioural consequences are reported or evidenced. 
+ 4 Moderate - Patient reports distinct symptoms of nervousness, which are reflected in mild 
+
+physical manifestations such as fine hand tremor and excessive perspiration. 
+ 5 Moderate Severe - Patient reports serious problems of anxiety which have significant 
+
+physical and behavioural consequences, such as marked tension, poor concentration, 
+palpitations or impaired sleep. 
+
+ 6 Severe - Subjective state of almost constant fear associated with phobias, marked 
+restlessness or numerous somatic manifestations. 
+
+ 7 Extreme - Patient’s life is seriously disrupted by anxiety, which is present almost constantly 
+and at times reaches panic proportion or is manifested in actual panic attacks. 
+
+ 
+G3. GUILT FEELINGS - Sense of remorse or self-blame for real or imagined misdeeds in the past. 
+ Basis for rating - Verbal report of guilt feelings during the course of interview and the  
+
+influence on attitudes and thoughts. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild – Questioning elicits a vague sense of guilt or self-blame for a minor incident, but the 
+
+patient clearly is not overly concerned. 
+ 4 Moderate - Patient expresses distinct concern over his responsibility for a real incident in 
+
+his life but is not pre-occupied with it and attitude and behaviour are essentially unaffected. 
+ 5 Moderate Severe - Patient expresses a strong sense of guilt associated with self-
+
+deprecation or the belief that he deserves punishment. The guilt feelings may have a 
+delusional basis, may be volunteered spontaneously, may be a source of preoccupation 
+and/or depressed mood, and cannot be allayed readily by the interviewer.  
+
+ 6 Severe - Strong ideas of guilt take on a delusional quality and lead to an attitude of hopelessness 
+or worthlessness. The patient believes he should receive harsh sanctions as such punishment.  
+
+ 7 Extreme - Patient’s life is dominated by unshakable delusions of guilt, for which he feels 
+deserving of drastic punishment, such as life imprisonment, torture, or death. There may be 
+associated suicidal thoughts or attribution of others’ problems to one’s own past misdeeds. 
+
+ 
+G4. TENSION -Overt physical manifestations of fear, anxiety, and agitation, such as stiffness, 
+
+tremor, profuse sweating and restlessness. 
+ Basis for rating - Verbal report attesting to anxiety and thereupon the severity of 
+
+physical manifestations of tension observed during the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Posture and movements indicate slight apprehensiveness, such as minor rigidity, 
+
+occasional restlessness, shifting of position, or fine rapid hand tremor. 
+ 4 Moderate - A clearly nervous appearance emerges from various manifestations, such as 
+
+fidgety behaviour, obvious hand tremor, excessive perspiration, or nervous mannerisms.  
+ 5 Moderate Severe - Pronounced tension is evidenced by numerous manifestations, such as nervous 
+
+shaking, profuse sweating and restlessness, but can conduct in the interview is not significantly affected. 
+ 6 Severe - Pronounced tension to the point that interpersonal interactions are disrupted. The patient, 
+
+for example, may be constantly fidgeting, unable to sit still for long, or show hyperventilation.  
+ 7 Extreme - Marked tension is manifested by signs of panic or gross motor acceleration, 
+
+such as rapid restless pacing and inability to remain seated for longer than a minute, which 
+makes sustained conversation not possible.  
+
+
+
+ 
+G5. MANNERISMS AND POSTURING – Unnatural movements or posture as characterised be an 
+
+awkward, stilted, disorganised, or bizarre appearance.  
+ Basis for rating - Observation of physical manifestations during the course of 
+
+interview as well as reports from primary care workers or family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Slight awkwardness in movements or minor rigidity of posture  
+ 4 Moderate – Movements are notably awkward or disjointed, or an unnatural posture is 
+
+maintained for brief periods.  
+ 5 Moderate Severe - Occasional bizarre rituals or contorted posture are observed, or an 
+
+abnormal position is sustained for extended periods. 
+ 6 Severe - Frequent repetition of bizarre rituals, mannerisms or stereotyped movements, or a 
+
+contorted posture is sustained for extended periods. 
+ 7 Extreme - Functioning is seriously impaired by virtually constant involvement in ritualistic, manneristic, 
+
+or stereotyped movements or by an unnatural fixed posture which is sustained most of the time. 
+ 
+
+G6. DEPRESSION - Feelings of sadness, discouragement, helplessness and pessimism. 
+ Basis for rating - Verbal report of depressed mood during the course of interview and 
+
+its observed influence on attitude and behaviour. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Expresses some sadness of discouragement only on questioning, but there is no 
+
+evidence of depression in general attitude or demeanor. 
+ 4 Moderate - Distinct feelings of sadness or hopelessness, which may be spontaneously 
+
+divulged, but depressed mood has no major impact on behaviour or social functioning and 
+the patient usually can be cheered up.  
+
+ 5 Moderate Severe - Distinctly depressed mood is associated with obvious sadness, 
+pessimism, loss of social interest, psychomotor retardation and some interference in 
+appetite and sleep. The patient cannot be easily cheered up. 
+
+ 6 Severe - Markedly depressed mood is associated with sustained feelings of misery, occasional 
+crying, hopelessness and worthlessness. In addition, there is major interference in appetite and 
+or sleep as well as in normal motor and social functions, with possible signs of self-neglect. 
+
+ 7 Extreme - Depressive feelings seriously interfere in most major functions. The 
+manifestations include frequent crying, pronounced somatic symptoms, impaired 
+concentration, psychomotor retardation, social disinterest, self neglect, possible depressive 
+or nihilistic delusions and/or possible suicidal thoughts or action. 
+
+ 
+G7. MOTOR RETARDATION – Reduction in motor activity as reflected in slowing or lessening 
+
+or movements and speech, diminished responsiveness of stimuli, and reduced body tone. 
+ Basis for rating - Manifestations during the course of interview as well as reports by 
+
+primary care workers as well as family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Slight but noticeable diminution in rate of movements and speech. Patient may be 
+
+somewhat underproductive in conversation and gestures. 
+ 4 Moderate - Patient is clearly slow in movements, and speech may be characterised by poor 
+
+productivity including long response latency, extended pauses or slow pace. 
+ 5 Moderate Severe – A marked reduction in motor activity renders communication highly 
+
+unproductive or delimits functioning in social and occupational situations. Patient can 
+usually be found sitting or lying down. 
+
+ 6 Severe - Movements are extremely slow, resulting in a minimum of activity and  speech. 
+Essentially the day is spent sitting idly or lying down. 
+
+ 7 Extreme - Patient is almost completely immobile and virtually unresponsive to external stimuli.
+
+
+
+G8. UNCOOPERATIVENESS - Active refusal to comply with the will of significant others, 
+including the interviewer, hospital staff or family, which may be associated with distrust, 
+defensiveness, stubbornness, negativism, rejection of authority, hostility or belligerence. 
+
+ Basis for rating - Interpersonal behaviour observed during the course of the interview 
+as well as reports by primary care workers or family. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Complies with an attitude of resentment, impatience, or sarcasm. May inoffensively 
+
+object to sensitive probing during the interview. 
+ 4 Moderate - Occasional outright refusal to comply with normal social demands, such as making own bed, attending 
+
+scheduled programmes, etc. The patient may project a hostile, defensive or negative attitude but usually can be worked with. 
+ 5 Moderate Severe - Patient frequently is incompliant with the demands of his milieu and may be 
+
+characterised by other as an “outcast” or having “a serious attitude problem”. Uncooperativeness is reflected in 
+obvious defensiveness or irritability with the interviewer and possible unwillingness to address many questions. 
+
+ 6 Severe - Patient is highly uncooperative, negativistic and possibly also belligerent. Refuses to comply 
+with the most social demands and may be unwilling to initiate or conclude the full interview. 
+
+ 7 Extreme - Active resistance seriously impact on virtually all major areas of functioning. Patient may refuse to join in 
+any social activities, tend to personal hygiene, converse with family or staff and participate even briefly in an interview. 
+
+ 
+G9. UNUSUAL THOUGHT CONTENT - Thinking characterised by strange, fantastic or bizarre ideas, 
+
+ranging from those which are remote or atypical to those which are distorted, illogical and patently absurd. 
+ Basis for rating - Thought content expressed during the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Thought content is somewhat peculiar, or idiosyncratic, or familiar ideas are framed in an odd context.  
+ 4 Moderate - Ideas are frequently distorted and occasionally seem quite bizarre. 
+ 5 Moderate Severe - Patient expresses many strange and fantastic thoughts, (e.g. Being the 
+
+adopted son of a king, being an escapee from death row), or some which are patently  absurd (e.g. 
+Having hundreds of children, receiving radio messages from outer space from a tooth filling). 
+
+ 6 Severe - Patient expresses many illogical or absurd ideas or some which have a distinctly 
+bizarre quality (e.g. having three heads, being a visitor from another planet). 
+
+ 7 Extreme - Thinking is replete with absurd, bizarre and grotesque ideas. 
+ 
+G10. DISORIENTATION - Lack of awareness of one’s relationship to the milieu, including 
+
+persons, place and time, which may be due to confusion or withdrawal. 
+ Basis for rating - Responses to interview questions on orientation. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - General orientation is adequate but there is some difficulty with specifics. For example,  patient 
+
+knows his location but not the street address, knows hospital staff names but not their functions, knows 
+the month but confuses the day of the week with an adjacent day, or errs in the date by more than two 
+days. There may be narrowing of interest evidenced by familiarity with the immediate but not extended 
+milieu, such as ability to identify staff but not the mayor, governor, or president. 
+
+ 4 Moderate - Only partial success in recognising persons, places and time. For example, patient knows he is in a 
+hospital but not its name, knows the name of the city but not the borough or district, knows the name of his 
+primary therapist but not many other direct care workers, knows the year or season but not sure of the month. 
+
+ 5 Moderate Severe - Considerable failure in recognising persons, place and time. Patient has only a 
+vague notion of where he is and seems unfamiliar with most people in his milieu. He may identify 
+the year correctly or nearly but not know the current month, day of week or even the season. 
+
+ 6 Severe - Marked failure in recognising persons, place and time. For example, patient has no knowledge of his 
+whereabouts, confuses the date by more than one year, can name only one or two individuals in his current life. 
+
+ 7 Extreme - Patient appears completely disorientated with regard to persons, place and time. 
+There is gross confusion or total ignorance about one’s location, the current year and even 
+the most familiar people, such as parents, spouse, friends and primary therapist. 
+
+
+
+G11. POOR ATTENTION - Failure in focused alertness manifested by poor concentration, distractibility 
+from internal and external stimuli, and difficulty in harnessing, sustaining or shifting focus to new stimuli. 
+
+ Basis for rating – Manifestations during the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Limited concentration evidenced by occasional vulnerability to distraction and 
+
+faltering attention toward the end of the interview. 
+ 4 Moderate - Conversation is affected by the tendency to be easily distracted, difficulty in long 
+
+sustaining concentration on a given topic, or problems in shifting attention to new topics. 
+ 5 Moderate Severe - Conversation is seriously hampered by poor concentration, 
+
+distractibility, and difficulty in shifting focus appropriately.. 
+ 6 Severe - Patient’s attention can be harnessed for only brief moments or with great effort, 
+
+due to marked distraction by internal or external stimuli. 
+ 7 Extreme - Attention is so disrupted that even brief conversation is not possible. 
+ 
+G12. LACK OF JUDGEMENT AND INSIGHT - Impaired awareness or understanding of one’s own 
+
+psychiatric condition and life situation. This is evidenced by failure to recognise past or present 
+psychiatric illness or symptoms, denial of need for psychiatric hospitalisation or treatment, decisions 
+characterised by poor anticipation or consequences, and unrealistic short-term and long-range planning.
+
+ Basis for rating – Thought content expressed during the interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Recognises having a psychiatric disorder but clearly underestimates its seriousness, the implications for 
+
+treatment, or the importance of taking measures to avoid relapse. Future planning may be poorly conceived. 
+ 4 Moderate - Patient shows only a vague or shallow recognition of illness. There may be fluctuations in 
+
+acknowledgement of being ill or little awareness of major symptoms which are present, such as 
+delusions, disorganised thinking, suspiciousness and social withdrawal. The patient may rationalise the 
+need for treatment in terms of its relieving lesser symptoms, such as anxiety, tension and sleep difficulty.
+
+ 5 Moderate Severe - Acknowledges past but not present psychiatric disorder. If challenged, the patient 
+may concede the presence of some unrelated or insignificant symptoms, which tend to be explained away by 
+gross misinterpretation or delusional thinking. The need for psychiatric treatment similarly goes unrecognised.
+
+ 6 Severe - Patient denies ever having had a psychiatric disorder. He disavows the presence of any psychiatric 
+symptoms in the past or present and, though compliant, denies the need for treatment and hospitalisation. 
+
+ 7 Extreme - Emphatic denial of past and present psychiatric illness. Current hospitalisation and treatment 
+are given a delusional interpretation (e.g. as punishment fro misdeeds, as persecution by tormentors, etc), 
+and the patient thus refuse to cooperate with therapists, medication or other aspects of treatment. 
+
+ 
+G13. DISTURBANCE OF VOLITION – Disturbance in the wilful initiation, sustenance and 
+
+control of one’s thoughts, behaviour, movements and speech. 
+ Basis for rating - Thought content and behaviour manifested in the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - There is evidence of some indecisiveness in conversation and thinking, which may 
+
+impede verbal and cognitive processes to a minor extent. 
+ 4 Moderate - Patient is often ambivalent and shows clear difficulty in reaching decisions. 
+
+Conversation may be marred by alteration in thinking, and in consequence, verbal and 
+cognitive functioning are clearly impaired. 
+
+ 5 Moderate Severe - Disturbance of volition interferes in thinking as well as behaviour. 
+Patient shows pronounced indecision that impedes the initiation and continuation of social 
+and motor activities, and which also may be evidence in halting speech. 
+
+ 6 Severe - Disturbance of volition interferes in the execution of simple automatic motor 
+functions, such as dressing or grooming, and markedly affects speech. 
+
+ 7 Extreme – Almost complete failure of volition is manifested by gross inhibition of movement 
+and speech resulting in immobility and/or mutism. 
+
+
+
+G14. POOR IMPULSE CONTROL - Disordered regulation and control of action on inner urges, resulting in sudden, 
+unmodulated, arbitrary or misdirected discharge of tension and emotions without concern about consequences. 
+
+ Basis for rating – Behaviour during the course of interview and reported by primary 
+care workers or family. 
+
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Patient tends to be easily angered and frustrated when facing stress or denied 
+
+gratification but rarely acts on impulse. 
+ 4 Moderate - Patient gets angered and verbally abusive with minimal provocation. May be occasionally 
+
+threatening, destructive, or have one or two episodes involving physical confrontation or a minor brawl. 
+ 5 Moderate Severe - Patient exhibits repeated impulsive episodes involving verbal abuse, 
+
+destruction of property, or physical threats. There may be one or two episodes involving 
+serious assault, for which the patient requires isolation, physical restraint, or p.r.n. sedation. 
+
+ 6 Severe - Patient frequently is impulsive aggressive, threatening, demanding, and destructive, 
+without any apparent consideration of consequences. Shows assualtive behaviour and may 
+also be sexually offensive and possibly respond behaviourally to hallucinatory commands. 
+
+ 7 Extreme - Patient exhibits homicidal, sexual assaults, repeated brutality, or self-destructive behaviour. Requires 
+constant direct supervision or external constraints because of inability to control dangerous impulses.  
+
+ 
+G15. PREOCCUPATION - Absorption with internally generated thoughts and feelings and with 
+
+autistic experiences to the detriment of reality orientation and adaptive behaviour. 
+ Basis for rating - Interpersonal behaviour observed during the course of interview. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Excessive involvement with personal needs or problems, such that conversation 
+
+veers back to egocentric themes and there is diminished concerned exhibited toward others. 
+ 4 Moderate - Patient occasionally appears self-absorbed, as if daydreaming or involved with 
+
+internal experiences, which interferes with communication to a minor extent. 
+ 5 Moderate Severe - Patient often appears to be engaged in autistic experiences, as evidenced by 
+
+behaviours that significantly intrude on social and communicational functions, such as the presence 
+of a vacant stare, muttering or talking to oneself, or involvement with stereotyped motor patterns. 
+
+ 6 Severe - Marked preoccupation with autistic experiences, which seriously delimits 
+concentration, ability to converse, and orientation to the milieu. The patient frequently may 
+be observed smiling, laughing, muttering, talking, or shouting to himself.  
+
+ 7 Extreme - Gross absorption with autistic experiences, which profoundly affects all major 
+realms of behaviour. The patient constantly may be responding verbally or behaviourally to 
+hallucinations and show little awareness of other people or the external milieu.  
+
+ 
+G16. ACTIVE SOCIAL AVOIDANCE - Diminished social involvement associated with 
+
+unwarranted fear, hostility, or distrust. 
+ Basis for rating - Reports of social functioning primary care workers or family. 
+ 1 Absent - Definition does not apply 
+ 2 Minimal - Questionable pathology; may be at the upper extreme of normal limits 
+ 3 Mild - Patient seems ill at ease in the presence of others of others and prefers to spend 
+
+time alone, although he participates in social functions when required.  
+ 4 Moderate - Patient begrudgingly attends all or most social activities but may needs to be 
+
+persuaded or may terminate prematurely on account of anxiety, suspiciousness, or hostility. 
+ 5 Moderate Severe - Patient fearfully or angrily keeps away from many social interactions 
+
+despite others’ efforts to engage him. Tends to spend unstructured time alone. 
+ 6 Severe - Patient participates in very few social activities because of fear, hostility, or distrust. When approached, the 
+
+patient shows a strong tendency to break off interactions, and generally he tends to isolate himself from others.  
+ 7 Extreme - Patient cannot be engaged in social activities because of pronounced fears, hostility, or 
+
+persecutory delusions. To the extent possible, he avoids all interactions and remains isolated from others. 
+ 
+
+

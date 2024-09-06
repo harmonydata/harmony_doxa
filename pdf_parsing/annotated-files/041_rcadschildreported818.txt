@@ -1,0 +1,156 @@
+
+1 <q>I worry about things</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+2 <q>I feel sad or empty</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+3 <q>When I have a problem, I get a funny feeling in my stomach</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+4 <q>I worry when I think I have done poorly at something</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+5 <q>I would feel afraid of being on my own at home</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+6 <q>Nothing is much fun anymore</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+7 <q>I feel scared when I have to take a test</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+8 <q>I feel worried when I think someone is angry with me</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+9 <q>I worry about being away from my parent</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+10 <q>I am bothered by bad or silly thoughts or pictures in 
+my mind</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+11 <q>I have trouble sleeping</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+12 <q>I worry that I will do badly at my school work</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+13 <q>I worry that something awful will happen to someone 
+in my family</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+14 <q>I suddenly feel as if I can’t breathe when there is no 
+reason for this</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+15 <q>I have problems with my appetite</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+16 <q>I have to keep checking that I have done things right 
+(like the switch is off, or the door is locked)</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+17 <q>I feel scared if I have to sleep on my own</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+18 <q>I have trouble going to school in the mornings 
+because I feel nervous or afraid</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+19 <q>I have no energy for things</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+20 <q>I worry I might look foolish</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+RCADS—C h i l d / Y o u n g  P e r s o n                                                                                                   Questions © 2003 Bruce F. Chorpita, Ph.D  
+
+NHS ID:   
+
+Child/ Young Person’s NAME:   
+
+                                                      
+Date:  / / 20                                                      Time:   h  m
+
+Please put a circle around the word that shows how often each of these things happens to you. 
+There are no right or wrong answers.
+
+RCADS
+
+
+
+21 <q>I am tired a lot</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+22 <q>I worry that bad things will happen to me</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+23 <q>I can’t seem to get bad or silly thoughts out of my head</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+24 <q>When I have a problem, my heart beats really fast</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+25 <q>I cannot think clearly</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+26 <q>I suddenly start to tremble or shake when there is no 
+reason for this</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+27 <q>I worry that something bad will happen to me</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+28 <q>When I have a problem, I feel shaky</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+29 <q>I feel worthless</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+30 <q>I worry about making mistakes</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+31 <q>I have to think of special thoughts (like numbers or 
+words) to stop bad things from happening</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+32 <q>I worry what other people think of me</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+33 <q>I am afraid of being in crowded places (like shopping 
+centers, the movies, buses, busy playgrounds)</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+34 <q>All of a sudden I feel really scared for no reason at all</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+35 <q>I worry about what is going to happen</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+36 <q>I suddenly become dizzy or faint when there is no 
+reason for this</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+37 <q>I think about death</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+38 <q>I feel afraid if I have to talk in front of my class</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+39 <q>My heart suddenly starts to beat too quickly for no reason</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+40 <q>I feel like I don’t want to move</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+41 <q>I worry that I will suddenly get a scared feeling when 
+there is nothing to be afraid of</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+42 <q>I have to do some things over and over again (like washing 
+my hands, cleaning or putting things in a certain order)</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+43 <q>I feel afraid that I will make a fool of myself in front 
+of people</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+44 <q>I have to do some things in just the right way to stop 
+bad things from happening</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+45 <q>I worry when I go to bed at night</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+46 <q>I would feel scared if I had to stay away from 
+home overnight</q>
+
+<o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+47 <q>I feel restless</q> <o>Never</o> <o>Sometimes</o> <o>Often</o> <o>Always</o>
+
+RCADS—C h i l d / Y o u n g  P e r s o n                                                                                                   Questions © 2003 Bruce F. Chorpita, Ph.D  
+
+

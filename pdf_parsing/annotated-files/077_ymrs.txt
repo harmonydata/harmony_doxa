@@ -1,0 +1,156 @@
+
+Supported by an  
+educational grant from 
+
+Young Mania Rating Scale (YMRS)
+
+P A T I E N T  E D U C A T I O N  T O O L S
+
+OVERVIEW
+The Young Mania Rating Scale (YMRS) is one of the most frequently utilized rating scales to assess manic symptoms. The
+scale has 11 items and is based on the patient’s subjective report of his or her clinical condition over the previous 48
+hours. Additional information is based upon clinical observations made during the course of the clinical interview. The
+items are selected based upon published descriptions of the core symptoms of mania. The YMRS follows the style of the
+Hamilton Rating Scale for Depression (HAM-D) with each item given a severity rating. There are four items that are
+graded on a 0 to 8 scale (irritability, speech, thought content, and disruptive/aggressive behavior), while the remaining
+seven items are graded on a 0 to 4 scale. These four items are given twice the weight of the others to compensate for poor
+cooperation from severely ill patients. There are well described anchor points for each grade of severity. The authors
+encourage the use of whole or half point ratings once experience with the scale is acquired. Typical YMRS baseline scores
+can vary a lot. They depend on the patients’ clinical features such as mania (YMRS = 12), depression (YMRS = 3), or
+euthymia (YMRS = 2). Sometimes a clinical study entry requirement of YMRS > 20 generates a mean YMRS baseline of
+about 30. Strengths of the YMRS include its brevity, widely accepted use, and ease of administration. The usefulness of the
+scale is limited in populations with diagnoses other than mania.
+
+The YMRS is a rating scale used to evaluate manic symptoms at baseline and over time in individuals with mania.
+
+The scale is generally done by a clinician or other trained rater with expertise with manic patients and takes 15–30
+minutes to complete.
+
+REFERENCES
+Young RC, Biggs JT, Ziegler VE, Meyer DA. A rating scale for mania: reliability, validity and sensitivity. Br J Psychiatry. 1978;133:429-435.
+
+McIntyre RS, Mancini DA, Srinivasan J, McCann S, Konarski JZ, Kennedy SH. The antidepressant effects of risperidone and olanzapine in bipolar
+disorder. Can J Clin Pharmacol. 2004;11:e218-226.
+
+Young RC, Biggs JT, Ziegler VE, Meyer DA. Young Mania Rating Scale. In: Handbook of Psychiatric Measures. Washington, DC: American Psychiatric
+Association; 2000:540-542.
+
+Sponsored by
+
+www.MEASUREcme.org
+
+
+
+GUIDE FOR SCORING ITEMS:
+The purpose of each item is to rate the severity of that abnormality in the patient. When several keys are given for a
+particular grade of severity, the presence of only one is required to qualify for that rating.
+
+The keys provided are guides. One can ignore the keys if that is necessary to indicate severity, although this should be
+the exception rather than the rule.
+
+Scoring between the points given (whole or half points) is possible and encouraged after experience with the scale is
+acquired. This is particularly useful when severity of a particular item in a patient does not follow the progression
+indicated by the keys.
+
+1. <q>Elevated Mood</q>
+0 <o>Absent</o>
+1 <o>Mildly or possibly increased on questioning</o>
+2 <o>Definite subjective elevation; optimistic, self-confident; cheerful; appropriate to content</o>
+3 <o>Elevated; inappropriate to content; humorous</o>
+4 <o>Euphoric; inappropriate laughter; singing</o>
+
+2. <q>Increased Motor Activity-Energy</q>
+0 <o>Absent</o>
+1 <o>Subjectively increased</o>
+2 <o>Animated; gestures increased</o>
+3 <o>Excessive energy; hyperactive at times; restless (can be calmed)</o>
+4 <o>Motor excitement; continuous hyperactivity (cannot be calmed)</o>
+
+3. <q>Sexual Interest</q>
+0 <o>Normal; not increased</o>
+1 <o>Mildly or possibly increased</o>
+2 <o>Definite subjective increase on questioning</o>
+3 <o>Spontaneous sexual content; elaborates on sexual matters; hypersexual by self-report</o>
+4 <o>Overt sexual acts (toward patients, staff, or interviewer)</o>
+
+4. <q>Sleep</q>
+0 <o>Reports no decrease in sleep</o>
+1 <o>Sleeping less than normal amount by up to one hour</o>
+2 <o>Sleeping less than normal by more than one hour</o>
+3 <o>Reports decreased need for sleep</o>
+4 <o>Denies need for sleep</o>
+
+5. <q>Irritability</q>
+0 <o>Absent</o>
+2 <o>Subjectively increased</o>
+4 <o>Irritable at times during interview; recent episodes of anger or annoyance on ward</o>
+6 <o>Frequently irritable during interview; short, curt throughout</o>
+8 <o>Hostile, uncooperative; interview impossible</o>
+
+Supported by an  
+educational grant from 
+
+Sponsored by
+
+www.MEASUREcme.org
+
+Young Mania Rating Scale (YMRS)
+
+
+
+6. <q>Speech (Rate and Amount)</q>
+0 <o>No increase</o>
+2 <o>Feels talkative</o>
+4 <o>Increased rate or amount at times, verbose at times</o>
+6 <o>Push; consistently increased rate and amount; difficult to interrupt</o>
+8 <o>Pressured; uninterruptible, continuous speech</o>
+
+7. <q>Language-Thought Disorder</q>
+0 <o>Absent</o>
+1 <o>Circumstantial; mild distractibility; quick thoughts</o>
+2 <o>Distractible, loses goal of thought; changes topics frequently; racing thoughts</o>
+3 <o>Flight of ideas; tangentiality; difficult to follow; rhyming, echolalia</o>
+4 <o>Incoherent; communication impossible</o>
+
+8. <q>Content</q>
+0 <o>Normal</o>
+2 <o>Questionable plans, new interests</o>
+4 <o>Special project(s); hyper-religious</o>
+6 <o>Grandiose or paranoid ideas; ideas of reference</o>
+8 <o>Delusions; hallucinations</o>
+
+9. <q>Disruptive-Aggressive Behavior</q>
+0 <o>Absent, cooperative</o>
+2 <o>Sarcastic; loud at times, guarded</o>
+4 <o>Demanding; threats on ward</o>
+6 <o>Threatens interviewer; shouting; interview difficult</o>
+8 <o>Assaultive; destructive; interview impossible</o>
+
+10. <q>Appearance</q>
+0 <o>Appropriate dress and grooming</o>
+1 <o>Minimally unkempt</o>
+2 <o>Poorly groomed; moderately disheveled; overdressed</o>
+3 <o>Disheveled; partly clothed; garish make-up</o>
+4 <o>Completely unkempt; decorated; bizarre garb</o>
+
+11. <q>Insight</q>
+0 <o>Present; admits illness; agrees with need for treatment</o>
+1 <o>Possibly ill</o>
+2 <o>Admits behavior change, but denies illness</o>
+3 <o>Admits possible change in behavior, but denies illness</o>
+4 <o>Denies any behavior change</o>
+
+Reprinted with permission from The Royal College of Psychiatrists.
+
+Supported by an  
+educational grant from 
+
+Sponsored by
+
+www.MEASUREcme.org
+
+Young Mania Rating Scale (YMRS)
+
+
+
+

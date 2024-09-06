@@ -1,0 +1,58 @@
+
+Problem Gambling Severity Index
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+0  <o>Never</o> 1  <o>Sometimes</o> 2  <o>Most of the time</o> 3 <o>Almost always</o>
+
+<q>When you think of the past 12 months, have you bet more than you could 
+really afford to lose?</q> 
+
+This self-assessment is based on the Canadian Problem Gambling Index. 
+It will help you decide if you wish to seek other forms of support or information. 
+
+<q>When you gambled, did you go back another day to try to win back the 
+money you lost?</q> 
+
+<q>Have you borrowed money or sold anything to get money to gamble?</q> 
+
+<q>Have you felt that you might have a problem with gambling?</q> 
+
+<q>Has gambling caused you any health problems, including stress or anxiety?</q> 
+
+<q>Still thinking about the last 12 months, have you needed to gamble with 
+larger amounts of money to get the same feeling of excitement?</q>
+
+<q>Have people criticized your betting or told you that you had a gambling 
+problem, regardless of whether or not you thought it was true?</q> 
+
+<q>Has your gambling caused any financial problems for you or your household?</q> 
+
+<q>Have you felt guilty about the way you gamble or what happens when you gamble?</q> 
+
+Total your score. The higher your score, the greater the risk that your gambling is a problem.
+
+Score of 0: Non-problem gambling.
+Score of 1 or 2:  Low level of problems with few or no identified negative consequences.
+Score of 3 to 7:  Moderate level of problems leading to some negative consequences.
+Score of 8 or more: Problem gambling with negative consequences and a possible loss of 
+           control. 
+
+Ferris, J., & Wynne, H. (2001). The Canadian problem gambling index: Final report. Submitted for the Canadian Centre on 
+Substance Abuse.
+
+

@@ -1,0 +1,62 @@
+
+Child Self-Report 
+
+ 
+
+MOOD AND FEELINGS QUESTIONNAIRE: Short Version 
+ 
+This form is about how you might have been feeling or acting recently. 
+ 
+For each question, please check () how you have been feeling or acting in the past two 
+weeks. 
+ 
+If a sentence was not true about you, check NOT TRUE. 
+If a sentence was only sometimes true, check SOMETIMES. 
+If a sentence was true about you most of the time, check TRUE. 
+ 
+Score the MFQ as follows: 
+NOT TRUE = 0 
+SOMETIMES = 1 
+TRUE = 2 
+ 
+
+To code, please use a checkmark () for each statement. 
+<o>NOT 
+TRUE</o> 
+
+<o>SOME 
+TIMES</o> 
+
+<o>TRUE</o> 
+
+1. <q>I felt miserable or unhappy</q>.    
+
+2. <q>I didn’t enjoy anything at all</q>.    
+
+3. <q>I felt so tired I just sat around and did nothing</q>.    
+
+4. <q>I was very restless</q>.    
+
+5. <q>I felt I was no good anymore</q>.    
+
+6. <q>I cried a lot</q>.    
+
+7. <q>I found it hard to think properly or concentrate</q>.    
+
+8. <q>I hated myself</q>.    
+
+9. <q>I was a bad person</q>.    
+
+10. <q>I felt lonely</q>.    
+
+11. <q>I thought nobody really loved me</q>.    
+
+12. <q>I thought I could never be as good as other kids</q>.    
+
+13. <q>I did everything wrong</q>.    
+
+ 
+ 
+Copyright Adrian Angold & Elizabeth J. Costello, 1987; Developmental Epidemiology Program; Duke University 
+
+
